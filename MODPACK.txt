@@ -1,0 +1,65 @@
+MODS DE INTERFAZ
+-Appleskin
+-Clumps
+-Hwyla
+-JEI(Jei integrations)
+-Journey Map
+-Mouse Tweaks
+-Optifine
+-Wawla (Jade)
+-Unidict
+-CraftTweaker
+-NoMoreRecipeConflicts
+
+MODS PRINCIPALES
+-Abysalcraft (Abysalcraft integration)
+-Aether (Eternal Singularity[Esto es directamente un mod])
+-Avaritia
+-Botania(Floralchemy)
+-Embers relinked(embersified)
+-Buildcraft
+-Enderutilities
+-Evilcraft
+-Galacticraft (Extra Planets)
+-Industrialcraft (Energy Control)
+-Mistical Agriculture (Mystical Agraditions, Mystical Agriculture Tiered Crystals)
+-Thermal (Thermal cultivation, Thermal expansion)
+-Tinker construct (Tinkers' Complement, Tinker's JEI, Moar Tinkers, Tinkering with blood magic, Tinkers')
+
+MODS SECUNDARIOS
+-Artifacts
+-Backpacks
+-Bibliocraft
+-Biomes O' Plenty
+-Blocklings
+-Buiding Gadgets
+-Chicken Chunks
+-Chisel
+-Chisel & Bits
+-Compact Machines
+-Controlling
+-Deconstruction Table
+-Enchanting Plus
+-Extra Utilities 2
+-Farming for Blockheads
+-Flux Networks
+-Furniture
+-Grapling Hook
+-Hats Mod
+-Ironchest
+-LootR
+-Malisis Doors
+-Nature Compass
+-OpenBlocks
+-Quark
+-Refined Storage(Refined Avaritia,Storage Tech,RSInfiniteWireless,Refined Storage Addons)
+-Reliquary Reincarnations
+-Soul Shard
+-Storages Drawners
+-Wireless Redstone CBE
+-Yung Better Caves
+-Yung Better Mineshafts
+-YUNG's Law 
+-Mob Grinding Utils
+-Aroma1997s Dimensional World
+-Large ore deposits
