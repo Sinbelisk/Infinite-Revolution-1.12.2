@@ -1,0 +1,33 @@
+eDocumento para recopilar problemas detectados durante el playtest
+
+===Problemas detectados hasta ahora===
+-Ir al planeta kepler-62b ocasionalmente provoca un softlock y hay que reinciar
+	#Este planeta no esta un poco roto?
+-Variantes de lingotes generandose en loot tables
+	#Abbysalcraft
+	#IndustrialCraft
+	#posible solucion: Loottweaker (mas trabajo de chino)
+-Algunas texturas no cuedran, hay que ajustar texuras EJ: las placas del GC que son mas feas que un dia sin pan
+
+
+
+==Problemas solucionados==
+-Llaves de abyssalcraft no funcionan 
+	#{SOLUCION: Downgrade}
+-Embers no usa el diccionario de ores de forge para algunos crafteos
+	#{SOLUCION: deal with it.}
+-En la mining dim se generan islas del tinker y petroleo
+-El platino esta deasctivado y se genera como veta grande (APENAS SE USA ES irrelevante, desactivar)
+-Biomas de abbysalcraft demasiado comunes [Sol: bajar un poco los pesos]
+-La estructura del beacon del evilcraft se genera demasiado [Sol: bajar pesos]
+-Generacion de ores
+	# EL nickel es demasiado comun hay que desactivar s veta garnde
+	#Bajar el uranio del IC
+-El mod que añade las vetas de minerales Gordas le da por generar variantes de dimensiones por la putisima cara.
+	-Minerales del extra planets se generan equisde
+
+
+===Cosas==
+-Generacion de ores como venas
+Estaño = cobre > hierro > aluminio > [plomo=silicio] > [uranio > diamante] > platino
+Crafteos de creativo con materiales de avaritia

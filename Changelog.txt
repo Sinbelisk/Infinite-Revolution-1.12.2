@@ -1,0 +1,39 @@
+^*====Beta 2====
+###MODS NUEVOS###
+-Mob Grinding Utils
+-Embers relinked(embersified)
+-Botania(Floralchemy)
+-Aroma1997s Dimensional World
+
+###CAMBIOS DE GENERACIÓN###	
+-Los ores predeterminados son del thermal expansion, a exepcion de la silicona del GC, ores secundarios y variantes de dimensiones
+-Cambiada altura predeterminada de la dimensión de mineria a y=230
+
+###CAMBIOS DE RECIPES###
+-El output de las máquinas deberian dar las variantes del thermal expansion para evitar objetos duplicados del mismo tipo
+
+###BUGFIXES###
+-Las llaves de abyssalcraft no funcionaban
+	#Sol: Downgrade porque soy autista y descargue una version alpha
+
+===Beta 3===
+###MODS NUEVOS###
+-CraftTweaker
+-NoMoreRecipeConflicts
+-Large ore deposits
+###CAMBIOS DE GENERACION###
+[Añadido] Se pueden generar vetas de minerales enormes con una probiabilidad muy rara
+	Ej: Diamante: 1 deposito por cada 4200 chunks; 0.023% de probabilidad por chunk
+[Añadido] La mayoria de ores se generan como veins a exepcion del diamante, plomo, uranio y diamante
+[Revertido] La dimension de mineria vuelve a tener altura predeterminada a 70
+
+###CAMBIOS DE RECIPES###
+-[Eliminado] Recetas para los engranajes del buildcraft, se pueden usar los del thermal (tenian literalmente el mismo crafteo)
+-[Compatibilidad]  Arreglados (espero) todos los conflictos con la mesa de crafteo
+
+===BETA 4===
+###CAMBIOS DE GENERACION###
+[Balance] Balance en la generacion de minerales, se deberia generar menos cobre y estaño
+[Eliminado] Los siguientes minerales no pueden generar vetas grandes: amatista, rubi, topacio, zafiro, iridio, cobalto, esmeralda, plomo, nickel, uranio, redstone, cobre, estaño
+[Eliminado] En la dimension de mineria ya no se generan depositos de petroleo ni islas flotantes del tinker's construct
+[Balance] Generacion de uranio reducida a la mitad
