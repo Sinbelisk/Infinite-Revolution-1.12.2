@@ -37,3 +37,7 @@
 [Eliminado] Los siguientes minerales no pueden generar vetas grandes: amatista, rubi, topacio, zafiro, iridio, cobalto, esmeralda, plomo, nickel, uranio, redstone, cobre, estaño
 [Eliminado] En la dimension de mineria ya no se generan depositos de petroleo ni islas flotantes del tinker's construct
 [Balance] Generacion de uranio reducida a la mitad
+
+==BETA 5==
+###MODS NUEVOS###
+-Thermal Dynamics
