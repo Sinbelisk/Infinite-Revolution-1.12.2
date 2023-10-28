@@ -40,4 +40,11 @@
 
 ==BETA 5==
 ###MODS NUEVOS###
--Thermal Dynamics
+-Thermal Dynamics (Tuberias con esteroides)
+-Energy Conversors
+###CAMBIOS DE RECIPES###
+[Añadido] Ahora el martillo de embers y el martillo de forja de IC comparten entrada en el oredict de forge. 
+	-Traducción al castellano: casi todas las recetas que necesiten un martillo de IC podrán usar uno del embers.
+[Añadido] Las recetas para craftear plates manualmente necesitan 1 lingote más, también se han añadido las faltantes.
+[Eliminado] Se han eliminado los crafteos para engranajes de Buildcraft.
+[Eliminado] La dimension de esferas ya no es accesible en modo supervivencia.
