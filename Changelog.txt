@@ -48,3 +48,7 @@
 [Añadido] Las recetas para craftear plates manualmente necesitan 1 lingote más, también se han añadido las faltantes.
 [Eliminado] Se han eliminado los crafteos para engranajes de Buildcraft.
 [Eliminado] La dimension de esferas ya no es accesible en modo supervivencia.
+[Eliminado] Armas, armaduras y herramientas de Thermal Expansion
+[Eliminado] Armas, armaduras y herramientas de Embers; 
+	#Las variantes de dawnstone siguen estando
+[Eliminado] Armas, armaduras y herramientas de Exo planets
