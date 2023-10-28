@@ -37,3 +37,18 @@
 [Eliminado] Los siguientes minerales no pueden generar vetas grandes: amatista, rubi, topacio, zafiro, iridio, cobalto, esmeralda, plomo, nickel, uranio, redstone, cobre, estaño
 [Eliminado] En la dimension de mineria ya no se generan depositos de petroleo ni islas flotantes del tinker's construct
 [Balance] Generacion de uranio reducida a la mitad
+
+==BETA 5==
+###MODS NUEVOS###
+-Thermal Dynamics (Tuberias con esteroides)
+-Energy Conversors
+###CAMBIOS DE RECIPES###
+[Añadido] Ahora el martillo de embers y el martillo de forja de IC comparten entrada en el oredict de forge. 
+	-Traducción al castellano: casi todas las recetas que necesiten un martillo de IC podrán usar uno del embers.
+[Añadido] Las recetas para craftear plates manualmente necesitan 1 lingote más, también se han añadido las faltantes.
+[Eliminado] Se han eliminado los crafteos para engranajes de Buildcraft.
+[Eliminado] La dimension de esferas ya no es accesible en modo supervivencia.
+[Eliminado] Armas, armaduras y herramientas de Thermal Expansion
+[Eliminado] Armas, armaduras y herramientas de Embers; 
+	#Las variantes de dawnstone siguen estando
+[Eliminado] Armas, armaduras y herramientas de Exo planets

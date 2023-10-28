@@ -63,3 +63,4 @@ MODS SECUNDARIOS
 -Mob Grinding Utils
 -Aroma1997s Dimensional World
 -Large ore deposits
+-Thermal Dynamics
