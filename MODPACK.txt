@@ -24,7 +24,7 @@ MODS PRINCIPALES
 -Industrialcraft (Energy Control)
 -Mistical Agriculture (Mystical Agraditions, Mystical Agriculture Tiered Crystals)
 -Thermal (Thermal cultivation, Thermal expansion)
--Tinker construct (Tinkers' Complement, Tinker's JEI, Moar Tinkers, Tinkering with blood magic, Tinkers')
+-Tinker construct (Tinkers' Complement, Tinker's JEI, Moar Tinkers)
 
 MODS SECUNDARIOS
 -Artifacts
@@ -64,3 +64,5 @@ MODS SECUNDARIOS
 -Aroma1997s Dimensional World
 -Large ore deposits
 -Thermal Dynamics
+-Energy Conversors
+-Loottweaker

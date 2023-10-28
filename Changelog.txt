@@ -52,3 +52,6 @@
 [Eliminado] Armas, armaduras y herramientas de Embers; 
 	#Las variantes de dawnstone siguen estando
 [Eliminado] Armas, armaduras y herramientas de Exo planets
+===Beta 6===
+###MODS NUEVOS###
+-Loottweaker
