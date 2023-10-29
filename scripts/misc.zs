@@ -1,5 +1,9 @@
-// Script para usos varios
+// Script para usos varios, mayoritariamante balance
 import crafttweaker.item.IItemStack;
+import crafttweaker.item.IItemTransformer;
+
+
+//Objetos a eliminar
 
 val nukes =[
 <ic2:te:2>,
@@ -11,3 +15,9 @@ recipes.remove(item);
 item.addTooltip("“Now I am become Death, the destroyer of worlds.” -J. Robert Oppenheimer");
 }
 
+// ####Rebalance de objetos####
+
+//EFLN
+val EFLN = <tconstruct:throwball:1>;
+recipes.remove(EFLN);
+recipes.addShapeless("newEFLN",EFLN, [<thermalfoundation:material:772>,<ic2:fluid_cell>.withTag({Fluid: {FluidName: "oil_dwarf", Amount: 1000}}).transformReplace(<ic2:fluid_cell>), <ic2:crafting:16> ,<thermalfoundation:material:771>]);
