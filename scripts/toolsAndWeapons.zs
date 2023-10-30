@@ -44,5 +44,5 @@ val toRemove = [
 ] as IItemStack[];
 
 for item in toRemove {
-    recipes.remove(item);
+    mods.jei.JEI.removeAndHide(item);
 }
