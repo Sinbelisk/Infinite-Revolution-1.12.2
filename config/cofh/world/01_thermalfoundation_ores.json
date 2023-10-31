@@ -8,7 +8,7 @@
 				"type": "large-vein",
 				"block": "thermalfoundation:ore",
 				"material": "minecraft:stone",
-				"cluster-size": 20
+				"cluster-size": 14
 			},
 			"cluster-count": 5,
 			"min-height": 40,
@@ -28,16 +28,15 @@
 			"distribution": "uniform",
 			"generator": {
 				"type": "large-vein",
-				"sparse": true,
 				"block": {
 					"name": "thermalfoundation:ore",
 					"metadata": 1
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 20
+				"cluster-size": 14
 			},
 			"cluster-count": 5,
-			"min-height": 10,
+			"min-height": 20,
 			"max-height": 40,
 			"retrogen": "true",
 			"biome": "all",
@@ -197,11 +196,11 @@
 					}
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 6
 			},
-			"cluster-count": 8,
+			"cluster-count": 6,
 			"min-height": 40,
-			"max-height": 75,
+			"max-height": 70,
 			"retrogen": "true",
 			"biome": "all",
 			"dimension": {
@@ -213,7 +212,7 @@
 			}
 		},
 		"iridium": {
-			"enabled": "false",
+			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -233,7 +232,7 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 4
+				"cluster-size": 1
 			},
 			"cluster-count": 1,
 			"min-height": 5,
