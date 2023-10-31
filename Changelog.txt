@@ -78,6 +78,7 @@ mobGrindingUtils
 -[Balance]: La granada EFNL ahora es más cara y necesita refinar aceite enano
 -[Añadido]: Se han ajustado las recetas con essencias de mystical agriculture con las variantes correctas
 -[Eliminado]: Las nukes ya no son crafteables, pero tienen un easter egg
+-[Eliminado]: Materiales extra sin uso o receta de los addons de Tinker's Construct
 
 ###CAMBIOS DE GENERACION###
 -[Balance]: El coralium es 4 veces más raro
