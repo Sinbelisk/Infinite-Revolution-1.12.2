@@ -46,12 +46,44 @@
 [Añadido] Ahora el martillo de embers y el martillo de forja de IC comparten entrada en el oredict de forge. 
 	-Traducción al castellano: casi todas las recetas que necesiten un martillo de IC podrán usar uno del embers.
 [Añadido] Las recetas para craftear plates manualmente necesitan 1 lingote más, también se han añadido las faltantes.
+###CAMBIOS DE OBJETOS###
 [Eliminado] Se han eliminado los crafteos para engranajes de Buildcraft.
-[Eliminado] La dimension de esferas ya no es accesible en modo supervivencia.
 [Eliminado] Armas, armaduras y herramientas de Thermal Expansion
 [Eliminado] Armas, armaduras y herramientas de Embers; 
 	#Las variantes de dawnstone siguen estando
 [Eliminado] Armas, armaduras y herramientas de Exo planets
+###CAMBIOS DE GENERACION###
+[Eliminado] La dimension de esferas ya no es accesible en modo supervivencia.
+
 ===Beta 6===
 ###MODS NUEVOS###
+Mods de adiciones menores y qol:
 -Loottweaker
+-FutureMC
+-Torchmaster
+-Connected glass
+-Macaw's paintings
+-Worldedit (temporalmente)
+-Modular routers
+
+Mods de rendimiento/bugfixes:
+-Universal Tweaks (tambien añade varias funciones de qol)
+mobGrindingUtils
+-Morpheys (sleep vote)
+-BetterFPS
+-FoamFIX
+-Hephaestus (formalmente conocido como phosphor)
+
+###CAMBIOS DE OBJETOS###
+-[Balance]: La granada EFNL ahora es más cara y necesita refinar aceite enano
+-[Añadido]: Se han ajustado las recetas con essencias de mystical agriculture con las variantes correctas
+-[Eliminado]: Las nukes ya no son crafteables, pero tienen un easter egg
+
+###CAMBIOS DE GENERACION###
+-[Balance]: El coralium es 4 veces más raro
+-[Balance]: Se generan muchas menos islas del tinker, 1 por cada 820 chunks
+-[Balance]: Las islas del tinker de magma son 2 veces más raras
+-[Balance]: Ajustado (otra vez) la generacion de cobre y estaño
+-[Balance]: El nickel y el iridio son más raros
+-[Añadido]: La generacion de ores deberia aplicarse a los planetas de GC y extra planets
+
