@@ -66,3 +66,6 @@ MODS SECUNDARIOS
 -Thermal Dynamics
 -Energy Conversors
 -Loottweaker
+
+-IC2(Energy Control)
+- Twilight Forest
