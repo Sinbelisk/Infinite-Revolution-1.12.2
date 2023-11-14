@@ -25,7 +25,20 @@ LootTweaker.getTable("abyssalcraft:chests/omothol/blacksmith").getPool("main").r
 
 //vanilla
 
-//LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("abyssalcraft:copper_ingot");
-//LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("abyssalcraft:tin_ingot");
+LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("abyssalcraft:copper_ingot");
+LootTweaker.getTable("minecraft:chests/village_blacksmith").getPool("main").removeEntry("abyssalcraft:tin_ingot");
+LootTweaker.getTable("minecraft.chests/stronghold_corridor").getPool("main").removeEntry("abyssalcraft:copper_ingot");
+LootTweaker.getTable("minecraft.chests/stronghold_corridor").getPool("main").removeEntry("abyssalcraft:tin_ingot");
+LootTweaker.getTable("minecraft.chests/simple_dungeon").getPool("main").removeEntry("abyssalcraft:copper_ingot");
+LootTweaker.getTable("minecraft.chests/simple_dungeon").getPool("main").removeEntry("abyssalcraft:tin_ingot");
+LootTweaker.getTable("minecraft.chests/desert_pyramid").getPool("main").removeEntry("abyssalcraft:copper_ingot");
+LootTweaker.getTable("minecraft.chests/desert_pyramid").getPool("main").removeEntry("abyssalcraft:tin_ingot");
+LootTweaker.getTable("minecraft.chests/desert_pyramid").getPool("main").removeEntry("tin_ingot");
+LootTweaker.getTable("minecraft.chests/desert_pyramid").getPool("main").removeEntry("copper_ingot");
+LootTweaker.getTable("minecraft.chests/abandoned_mineshaft").getPool("main").removeEntry("abyssalcraft:copper_ingot");
+LootTweaker.getTable("minecraft.chests/abandoned_mineshaft").getPool("main").removeEntry("abyssalcraft:tin_ingot");
+
+
+
 
 

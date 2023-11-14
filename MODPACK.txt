@@ -69,3 +69,4 @@ MODS SECUNDARIOS
 
 -IC2(Energy Control)
 - Twilight Forest
+- Lucky Blocks
