@@ -88,7 +88,7 @@ mobGrindingUtils
 -[Balance]: El nickel y el iridio son más raros
 -[Añadido]: La generacion de ores deberia aplicarse a los planetas de GC y extra planets
 
-===Beta 6===
+===Beta 7===
 ###MODS NUEVOS###
 -IC(Energy Control)
 -Twilight Forest
