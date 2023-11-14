@@ -15,6 +15,8 @@ recipes.remove(item);
 item.addTooltip("“Now I am become Death, the destroyer of worlds.” -J. Robert Oppenheimer");
 }
 
+recipes.remove(<lucky:lucky_block>);
+
 // ####Rebalance de objetos####
 
 //EFLN
