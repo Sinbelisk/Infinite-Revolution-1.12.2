@@ -92,3 +92,11 @@ mobGrindingUtils
 ###MODS NUEVOS###
 -IC(Energy Control)
 -Twilight Forest
+- Lucky Blocks (a contra de mi voluntad)
+	#Solo se generan de forma natural, no es posible craftearlos
+
+###CAMBIOS DE OBJETOS###
+-[Eliminado] Recipes de los lucky block
+
+###CAMBIOS DE GENERACION###
+-[Eliminado] Loot tables que generaban lingotes, más especificametne de Abyssalcraft y IC2
