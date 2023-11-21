@@ -33,18 +33,18 @@ mods.avaritia.ExtremeCrafting.addShaped("InfinitisimusDrum", <extrautils2:drum:4
 
 [null, <thermalfoundation:storage_alloy>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <thermalfoundation:storage_alloy>, null],
 
-[null, <thermalfoundation:storage_alloy>, <avaritia:resource:4>, null, null, null, <botania:storage:4>, <avaritia:resource:4>, <thermalfoundation:storage_alloy>, null],
+[null, <thermalfoundation:storage_alloy>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <thermalfoundation:storage_alloy>, null],
 
-[null, <mysticalagradditions:storage:1>, <avaritia:resource:4>, null, null, null, <avaritia:resource:4>, <mysticalagradditions:storage:1>, null],
+[null, <mysticalagradditions:storage:1>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <mysticalagradditions:storage:1>, null],
 
-[null, <mysticalagradditions:storage:1>, <avaritia:resource:4>, null, <avaritia:resource:5>, null, <avaritia:resource:4>, <mysticalagradditions:storage:1>, null],
+[null, <mysticalagradditions:storage:1>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <avaritia:resource:5>, <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <mysticalagradditions:storage:1>, null],
 
-[null, <mysticalagradditions:storage:1>, <avaritia:resource:4>, null, null, null, <avaritia:resource:4>, <mysticalagradditions:storage:1>, null],
-
-[null, <thermalfoundation:storage_alloy>, <avaritia:resource:4>, null, null, null, <avaritia:resource:4>, <thermalfoundation:storage_alloy>, null],
+[null, <mysticalagradditions:storage:1>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <mysticalagradditions:storage:1>, null],
 
 [null, <thermalfoundation:storage_alloy>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <thermalfoundation:storage_alloy>, null],
 
-[null, null, <botania:livingrock>, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, null, null] ] );
+[null, <thermalfoundation:storage_alloy>, <avaritia:resource:4>, <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <botania:blackholetalisman>.withTag({}), <avaritia:resource:4>, <thermalfoundation:storage_alloy>, null],
+
+[null, null, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, <mysticalagradditions:storage:1>, null, null] ] );
 
 
