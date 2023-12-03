@@ -67,6 +67,7 @@ mods.avaritia.ExtremeCrafting.addShaped("infiniteBlood", <evilcraft:creative_blo
 
 [null, null, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, null, null] ] );
 
+// Disco de almacenamiento infinito
 mods.avaritia.ExtremeCrafting.addShaped("creativeDisk", <refinedstorage:storage_disk:4>,
 [
     [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>],
@@ -86,5 +87,29 @@ mods.avaritia.ExtremeCrafting.addShaped("creativeDisk", <refinedstorage:storage_
     [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
 
     [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>],
+
+] );
+
+// bateria infinita
+
+mods.avaritia.ExtremeCrafting.addShaped("bateriainfinita", <galacticraftcore:infinite_battery>,
+[
+    [null, null, <thermalfoundation:material:356>, <thermalfoundation:material:356>, <thermalfoundation:material:356>, <thermalfoundation:material:356>, <thermalfoundation:material:356>, null, null],
+    
+    [null, <thermalfoundation:material:356>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <energycontrol:afb>.withTag({charge: 1.0E8}), <thermalfoundation:material:356>, null],
+
+    [null, <thermalfoundation:material:356>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:nuclear:3>, <avaritia:resource:6>, <ic2:nuclear:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <thermalfoundation:material:356>, null],
+
+    [null, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, null],
+
+    [null, <extraplanets:tier7_items:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier7_items:3>, null],
+
+    [null, <extraplanets:tier7_items:3>, <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <extraplanets:tier7_items:3>, null],
+
+    [null, <extraplanets:tier7_items:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier7_items:3>, null],
+
+    [null, <extraplanets:tier7_items:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:nuclear:3>, <avaritia:resource:4>, <ic2:nuclear:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier7_items:3>, null],
+
+    [null, null, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, null, null],
 
 ] );
