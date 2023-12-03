@@ -66,3 +66,25 @@ mods.avaritia.ExtremeCrafting.addShaped("infiniteBlood", <evilcraft:creative_blo
 [null, <evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>, null],
 
 [null, null, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, <evilcraft:blood_orb:1>, null, null] ] );
+
+mods.avaritia.ExtremeCrafting.addShaped("creativeDisk", <refinedstorage:storage_disk:4>,
+[
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>],
+    
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>,<refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>,<refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>,<refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:storage_disk:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_part:3>, <refinedstorage:storage_disk:3>, <refinedstorage:quartz_enriched_iron_block>],
+
+    [<refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>, <refinedstorage:quartz_enriched_iron_block>],
+
+] );
