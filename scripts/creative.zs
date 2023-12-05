@@ -59,9 +59,9 @@ mods.avaritia.ExtremeCrafting.addShaped("infiniteBlood", <evilcraft:creative_blo
 
 [<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
 
-[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
+[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
 
-[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
+[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
 
 [null, <evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>, null],
 
