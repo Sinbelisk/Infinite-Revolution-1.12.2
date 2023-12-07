@@ -59,9 +59,9 @@ mods.avaritia.ExtremeCrafting.addShaped("infiniteBlood", <evilcraft:creative_blo
 
 [<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
 
-[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
+[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
 
-[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
+[<evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:garmonbozia>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>],
 
 [null, <evilcraft:blood_orb:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:vengeance_essence:1>, <evilcraft:blood_orb:1>, null],
 
@@ -100,16 +100,16 @@ mods.avaritia.ExtremeCrafting.addShaped("bateriainfinita", <galacticraftcore:inf
 
     [null, <thermalfoundation:material:356>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:nuclear:3>, <avaritia:resource:6>, <ic2:nuclear:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <thermalfoundation:material:356>, null],
 
-    [null, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, null],
+    [null, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, null],
 
-    [null, <extraplanets:tier7_items:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier7_items:3>, null],
+    [null, <extraplanets:tier10_item:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier10_item:3>, null],
 
-    [null, <extraplanets:tier7_items:3>, <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <extraplanets:tier7_items:3>, null],
+    [null, <extraplanets:tier10_item:3>, <ic2:quad_uranium_fuel_rod>, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <ic2:quad_uranium_fuel_rod>, <extraplanets:tier10_item:3>, null],
 
-    [null, <extraplanets:tier7_items:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier7_items:3>, null],
+    [null, <extraplanets:tier10_item:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:4>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier10_item:3>, null],
 
-    [null, <extraplanets:tier7_items:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:nuclear:3>, <avaritia:resource:4>, <ic2:nuclear:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier7_items:3>, null],
+    [null, <extraplanets:tier10_item:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <ic2:nuclear:3>, <avaritia:resource:4>, <ic2:nuclear:3>, <energycontrol:afb>.withTag({charge: 1.0E8}), <extraplanets:tier10_item:3>, null],
 
-    [null, null, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, <extraplanets:tier7_items:3>, null, null],
+    [null, null, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, <extraplanets:tier10_item:3>, null, null],
 
 ] );
