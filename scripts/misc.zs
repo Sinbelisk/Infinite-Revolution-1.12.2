@@ -21,7 +21,7 @@ item.addTooltip("“Now I am become Death, the destroyer of worlds.” -J. Rober
 val lb = <lucky:lucky_block>;
 recipes.remove(lb);
 recipes.removeByRecipeName("mysticalagriculture:rabbit_foot");
-recipes.addShaped("newLuckyBlockNeutral", lb. [
+recipes.addShaped("newLuckyBlockNeutral", lb [
     [<minecraft:potion>.withTag({Potion: "cofhcore:unluck"}), <minecraft:gold_block>, <minecraft:potion>.withTag({Potion: "cofhcore:luck"})],
     [<minecraft:gold_block>, <minecraft:rabbit_foot>, <minecraft:gold_block>],
     [<minecraft:potion>.withTag({Potion: "cofhcore:unluck"}), <minecraft:gold_block>, <minecraft:potion>.withTag({Potion: "cofhcore:luck"})]
