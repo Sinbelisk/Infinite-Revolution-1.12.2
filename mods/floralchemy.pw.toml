@@ -1,0 +1,13 @@
+name = "Floralchemy"
+filename = "Floralchemy-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc68e26d265c1e1d1b739cba8845aceeb767eec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2856890
+project-id = 298859

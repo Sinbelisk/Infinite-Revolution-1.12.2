@@ -1,0 +1,13 @@
+name = "Embersified"
+filename = "Embersified-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bebfe81dd4a4e6f0a99fa70d877d39687560ed8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2621911
+project-id = 303584

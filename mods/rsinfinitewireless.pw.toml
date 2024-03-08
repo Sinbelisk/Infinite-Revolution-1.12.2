@@ -1,0 +1,13 @@
+name = "RSInfiniteWireless"
+filename = "rsinfinitewireless-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "909de539134bd8e3425d5e88e84b32daac868f53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2695806
+project-id = 318823

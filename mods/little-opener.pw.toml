@@ -1,0 +1,13 @@
+name = "Little Opener"
+filename = "littleopener-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3301f34092ecceafe9316abf544f2ea26b3eaca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2716525
+project-id = 322559
