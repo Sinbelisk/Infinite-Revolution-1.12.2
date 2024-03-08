@@ -1681,10 +1681,6 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
-file = "mods/probe-0.1.24.jar"
-hash = "899e410724c82a7f4dc2867cf2ec4b74cfdf9b93e9c51688902edcab0c862da5"
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
