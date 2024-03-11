@@ -1551,6 +1551,11 @@ hash = "0ba55fd99ac0137f56065daa7a870b254e3711ab0453b2b2dd161569cb6f5d23"
 metafile = true
 
 [[files]]
+file = "mods/jeid.pw.toml"
+hash = "03caa2eb930e892f0fe87adc97b2c36bd203afa3be7a38ffaefcc94d1fee887f"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
 metafile = true
@@ -1683,11 +1688,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
-metafile = true
-
-[[files]]
-file = "mods/notenoughids.pw.toml"
-hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
 metafile = true
 
 [[files]]
