@@ -1761,6 +1761,11 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/simply-light.pw.toml"
+hash = "c1b6034f0ae5daf4abb31b208d03af292d3ab991c5987d7b9c368f30492c139d"
+metafile = true
+
+[[files]]
 file = "mods/soul-shards-the-old-ways.pw.toml"
 hash = "afe4653814188f82a07be40ab8edc0de1fe5cb44057cae0167c6ada8978cb0b6"
 metafile = true
