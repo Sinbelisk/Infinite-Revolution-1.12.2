@@ -1206,6 +1206,11 @@ hash = "6f23d45fe071155dd4f3014e7b9f4af7b1336bfbe1c34f8aa23343cc80be3cf2"
 metafile = true
 
 [[files]]
+file = "mods/avaritiaddons.pw.toml"
+hash = "d90127452e44917e115e767e8421fb3d72505dc063779fa4286d15640527270f"
+metafile = true
+
+[[files]]
 file = "mods/base.pw.toml"
 hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
 metafile = true
