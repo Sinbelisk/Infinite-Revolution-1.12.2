@@ -1876,6 +1876,11 @@ hash = "c55632d9eb7ea0247cf236a49bb2d7063e8d25a546f83745560d398831e86108"
 metafile = true
 
 [[files]]
+file = "mods/xtones.pw.toml"
+hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-caves.pw.toml"
 hash = "9b56c87a5c4a4086096082adef912aa826248ed2a1b3dec4259c16bbc4bf448c"
 metafile = true
