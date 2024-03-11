@@ -1266,6 +1266,11 @@ hash = "8c17516e87abd495f736194cb16ee4e3224564476db27e095755551f65265a63"
 metafile = true
 
 [[files]]
+file = "mods/cathedral.pw.toml"
+hash = "a8f69ec6d6e7e49e6ee796c8cad090c648f8857e4c9cb927ac3030935ce5207e"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
