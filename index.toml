@@ -1256,6 +1256,11 @@ hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "8c17516e87abd495f736194cb16ee4e3224564476db27e095755551f65265a63"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
