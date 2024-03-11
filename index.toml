@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "51698e2fcffa2173974c0d48faf8cb6093eb58e6e286ffceca3689015721e027"
+hash = "25eafc08a978882d5b1b1dc27019b42357b74c5491f02da4b60610dc9f551b57"
 
 [[files]]
 file = "config/Artifacts.cfg"
@@ -1298,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "62fd06e68ef5a771bfbb490da497b19b5c8240a7ff94a2b2ec713a50e38bb58c"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "aef99dc21e86e5a94f7160431b170fa43aa1243f1f8a076c9154f2e375c2f234"
 metafile = true
 
 [[files]]
