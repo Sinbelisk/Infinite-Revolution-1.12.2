@@ -1311,11 +1311,6 @@ hash = "62fd06e68ef5a771bfbb490da497b19b5c8240a7ff94a2b2ec713a50e38bb58c"
 metafile = true
 
 [[files]]
-file = "mods/computercraft.pw.toml"
-hash = "aef99dc21e86e5a94f7160431b170fa43aa1243f1f8a076c9154f2e375c2f234"
-metafile = true
-
-[[files]]
 file = "mods/configanytime.pw.toml"
 hash = "7c5b920a8a8995477cf525a759c8395fab0b9e00c76af891069dbe44b45f96b9"
 metafile = true
