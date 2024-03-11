@@ -1866,6 +1866,11 @@ hash = "2f93ca3c8c815327988d8123de0508669f184e35d68464bd54bedf392ff718df"
 metafile = true
 
 [[files]]
+file = "mods/unlimited-chisel-works.pw.toml"
+hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
+metafile = true
+
+[[files]]
 file = "mods/wanionlib.pw.toml"
 hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
 metafile = true
