@@ -1196,6 +1196,11 @@ hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
 metafile = true
 
 [[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
