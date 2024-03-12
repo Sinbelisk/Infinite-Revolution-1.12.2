@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Infinite_Revolution_v3.png"
+hash = "bfb286ed3b4aa1ea56cf3ac142bed45efb40906edc7952a50c50fb588dc92a2f"
+
+[[files]]
 file = "README.md"
 hash = "25eafc08a978882d5b1b1dc27019b42357b74c5491f02da4b60610dc9f551b57"
 
 [[files]]
 file = "config/Artifacts.cfg"
 hash = "cae6996e8eff4acc605725ed366a94c9c200fc7a36a5170ab200c660d580ae45"
+
+[[files]]
+file = "config/Bewitchment.cfg"
+hash = "c3f0649a2aad8567e5ab411854fd7dc6f7e7f4ebd1a29bbe946705f07ec38335"
 
 [[files]]
 file = "config/Building Gadgets.cfg"
