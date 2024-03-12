@@ -1234,6 +1234,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/better-builders-wands.pw.toml"
+hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
+metafile = true
+
+[[files]]
 file = "mods/betterfps.pw.toml"
 hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
