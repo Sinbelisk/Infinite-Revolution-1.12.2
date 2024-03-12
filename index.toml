@@ -1231,6 +1231,11 @@ hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment-legacy.pw.toml"
+hash = "3508bee8f8e7bf63e5d9c4cd541a1951418ebceacaae42b2659d2d32390ab766"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
 metafile = true
