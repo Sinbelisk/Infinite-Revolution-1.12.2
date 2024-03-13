@@ -1779,6 +1779,11 @@ hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
 metafile = true
 
 [[files]]
+file = "mods/placeable-items.pw.toml"
+hash = "6196978e205d0bd80a9ba107e16e718e7d3ea1148588f5fd08768ce874ab25d5"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
