@@ -1819,6 +1819,11 @@ hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "1d7342509fa93510fda74e6d7fbe2ef1bc5c805a115149f016e11f641997c47a"
+metafile = true
+
+[[files]]
 file = "mods/refined-avaritia.pw.toml"
 hash = "8d09ca78a807de246e7fd5a734008fb26801fe469452b38c282b7859baaf35b2"
 metafile = true
