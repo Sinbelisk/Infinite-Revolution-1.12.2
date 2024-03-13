@@ -1184,6 +1184,11 @@ hash = "7fde842098d034a362b2979123d1476564660503b0af6f9d382d9c817decdf6f"
 metafile = true
 
 [[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "7ff0de96be3db1d73f5a93c38641f94686f45e5d63dbabb9fa35dc06de7a96ed"
 metafile = true
