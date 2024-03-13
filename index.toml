@@ -1824,6 +1824,11 @@ hash = "afe4653814188f82a07be40ab8edc0de1fe5cb44057cae0167c6ada8978cb0b6"
 metafile = true
 
 [[files]]
+file = "mods/stargate-network.pw.toml"
+hash = "5eb4ceb8627e9a020eaa9ad51826240f81d198b8b1c0fe1895604b5a48035a01"
+metafile = true
+
+[[files]]
 file = "mods/stimmedcow-nomorerecipeconflict.pw.toml"
 hash = "b7eb9b0a14c7c018f5b6dd8bd906e96d85b971db14ac068e16ad9cf66973c52d"
 metafile = true
