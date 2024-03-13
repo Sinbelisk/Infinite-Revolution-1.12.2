@@ -1559,6 +1559,11 @@ hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
 
 [[files]]
+file = "mods/ivtoolkit.pw.toml"
+hash = "1ce21898ee51d69f97aa0456f339965c7c6763b34853a25de72b30a1e23f42da"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
 metafile = true
@@ -1766,6 +1771,11 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "58bc415d549e7d6848f874d7063d9cb1951cf2e41e9b4fec5e321566ff98fbeb"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.pw.toml"
+hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
 metafile = true
 
 [[files]]
