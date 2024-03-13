@@ -1779,6 +1779,11 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
+file = "mods/platforms.pw.toml"
+hash = "1a8c40205a97d350a159833bdfbb66136bc1ea2a505b6032e986fbd1c5d130d2"
+metafile = true
+
+[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "e0625670634c7616fcb0f4ee6d1dcaeadb143ae3af4178b88c48d09ad564ac3f"
 metafile = true
@@ -1846,6 +1851,11 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "ea500953c3b4b9e989f0ea5a33b0ab03e86ee9798510129ba9ea91743e31869c"
 metafile = true
 
 [[files]]
