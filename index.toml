@@ -1439,6 +1439,11 @@ hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
 metafile = true
 
 [[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
+metafile = true
+
+[[files]]
 file = "mods/eternal-singularity.pw.toml"
 hash = "1a708c901964c49fea232f6ba5ccd39caf85c467017ebf31163df07154e7b90c"
 metafile = true
