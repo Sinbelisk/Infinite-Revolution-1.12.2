@@ -1559,6 +1559,11 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "9db816216e6683322c0d3b72f8bce3c71ce97d2be4afb4944bbf31a842b3475c"
+metafile = true
+
+[[files]]
 file = "mods/industrial-craft.pw.toml"
 hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
