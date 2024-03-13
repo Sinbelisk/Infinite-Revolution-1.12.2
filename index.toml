@@ -1954,6 +1954,11 @@ hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
 metafile = true
 
 [[files]]
+file = "mods/titles.pw.toml"
+hash = "7dab730a6c6da25659b955b62d251fcecda6cd10c22872abfe5d88ec005411b4"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "a3895abc87b7e4c9650ce4e7938953f22831d1f1e4e0fefc7a8c9dc65c0eb899"
 metafile = true
