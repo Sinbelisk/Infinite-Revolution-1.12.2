@@ -1634,6 +1634,11 @@ hash = "ed0da14de6b285a9be03b37dd67b8f0d67d2163154eb6737e194052e45b4842b"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "6011f2410abbc6542dcb426e3ced63c354173907eba1a14f8bc947b0a87ae803"
+metafile = true
+
+[[files]]
 file = "mods/malisiscore.pw.toml"
 hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
 metafile = true
