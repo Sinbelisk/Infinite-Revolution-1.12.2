@@ -15,7 +15,8 @@ val ingots = [
 <ore:ingotNickel>,
 <ore:ingotElectrum>,
 <ore:ingotInvar>,
-<ore:ingotConstantan>
+<ore:ingotConstantan>,
+<ore:ingotUranium>
 ] as IOreDictEntry[];
 
 val plates = [
@@ -29,13 +30,20 @@ val plates = [
 <thermalfoundation:material:325>,
 <thermalfoundation:material:353>,
 <thermalfoundation:material:354>,
-<thermalfoundation:material:356>
+<thermalfoundation:material:356>,
+<immersiveengineering:metal:35>
 ] as IItemStack[];
+
+val hammers = <ore:craftingToolForgeHammer>;
+
+// martillo del IE al oredict de ore hammers
+val ieHammer = <immersiveengineering:tool>;
+hammers.add(ieHammer);
+
 
 /// ### CODIGO PARA LAS PLATES DEL EMBERS #### 
 
 var hammerEmber = <embers:tinker_hammer>.withTag({}); // martillo del embers
-val hammers = <ore:craftingToolForgeHammer>;
 hammers.add(hammerEmber); // el martillo del embers se unifica con el de IC mediante oredict
 
 val itemPlatesToRemove = [
@@ -64,5 +72,3 @@ recipes.remove(<ic2:plate:*>);
 for k, item in plates { // añade las plates nuevas
     recipes.addShapeless(item,[ingots[k], ingots[k], hammers]);
 } 
-
-// Please, kill me, i beg you.

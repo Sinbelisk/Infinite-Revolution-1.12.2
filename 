@@ -1,0 +1,286 @@
+[33mcommit 417ba4350b6a53701e4a96f4bed24ba3f23fae3b[m[33m ([m[1;36mHEAD -> [m[1;32m1.2[m[33m)[m
+Author: Sinbelisk <rafjimray21y@gmail.com>
+Date:   Thu Mar 14 23:50:56 2024 +0100
+
+    consistencia con los crafteos del martillo de IE
+
+[33mcommit 791f49ed1e45e2600c058964329f9af5fc14177f[m
+Author: Sinbelisk <rafjimray21y@gmail.com>
+Date:   Thu Mar 14 23:20:44 2024 +0100
+
+    el martillo de IE ya no genera dust
+
+[33mcommit 781cd1bcb5489f57f0d78c867b0eed846f7f9ac2[m
+Author: Sinbelisk <rafjimray21y@gmail.com>
+Date:   Thu Mar 14 23:06:40 2024 +0100
+
+    deactivada generacion de ores (menos bauxite) de immersive engineering;
+    URANIUM ORE,
+    COPPER ORE,
+    SILVER ORE,
+    NICKEL ORE
+
+[33mcommit e673ce187522dc7fd92c48156525524ee705960a[m[33m ([m[1;31morigin/1.2[m[33m, [m[1;32mmain[m[33m)[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 20:29:39 2024 +0100
+
+    añadido placeable-items
+
+[33mcommit 5b98aeaa435f25e017737cc5c534c902483776bd[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 20:15:45 2024 +0100
+
+    añadido titles
+
+[33mcommit ccd89ff20bf46a501afefd22f27c2c5a21c46315[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 20:12:53 2024 +0100
+
+    añadido gauges and switches
+
+[33mcommit cb531e8c678101aaf8ebfb8300f9bfaf1e54eb2c[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:58:37 2024 +0100
+
+    añadido immersiveposts
+
+[33mcommit 920a2f9f99dce6d5bde200ec3a3cb9ca2ceef2bc[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:56:27 2024 +0100
+
+    añadido platforms | shetiphiancore (dependencia)
+
+[33mcommit 127c662dfcd170a7a5ccca489b9692c9269d18ba[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:53:21 2024 +0100
+
+    additional lights
+
+[33mcommit 0f87f48e3b9aa8b69afddcb16240aaa9f73555bd[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:44:31 2024 +0100
+
+    añadido macaws-paintings
+
+[33mcommit 86f2218d12d970f94f9ea3fd9b00ea42b22a2bc1[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:42:09 2024 +0100
+
+    añadido macaws-windows
+
+[33mcommit a7a62ebe78293f341776ab22ea5961ce437288eb[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:40:58 2024 +0100
+
+    añadido macaws-fences-and-walls
+
+[33mcommit 505e34ebdbd0c050568a9516632a3c147ddcf8fd[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:39:03 2024 +0100
+
+    añadido engineers decor
+
+[33mcommit b556cafb8439a7d6ea1da4ebe6f6561dcd2b4bb0[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:37:52 2024 +0100
+
+    añadido immersive engineering
+
+[33mcommit 97d73f29ee9c84e64f1ad2c27760f961e19ce5e7[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 19:08:49 2024 +0100
+
+    Añadido recurrent complex
+    Añadido IvToolKit (dependencia)
+
+[33mcommit 03313e162f24e82b70202b4af35f539afcf4f907[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Wed Mar 13 15:39:58 2024 +0100
+
+    aadido stargate networks
+
+[33mcommit bb3115bdb7b1af69165132b22a676926fcf6c2f4[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 20:46:25 2024 +0100
+
+    añadido builders wands
+
+[33mcommit f5068f1c2edb5b5b3df1234dad76013015e10713[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 20:34:42 2024 +0100
+
+    añadido rs requestify
+
+[33mcommit 91f3f967e8d09717302098fe2921ee63f48de1c9[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 20:09:31 2024 +0100
+
+    packwiz update
+
+[33mcommit dc02aa7dc11a977e360d4e57df8427390235715a[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 20:09:13 2024 +0100
+
+    balance de oregen
+
+[33mcommit a5a4d1989bcc2734f1016af59cd756b4ee0d31bc[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 20:07:45 2024 +0100
+
+    packwiz refresh
+
+[33mcommit c63c013a52bfcad46480ad5948130116fb51f737[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 20:07:21 2024 +0100
+
+    desactivada plata de bewitchery
+
+[33mcommit 254b73f4eeb8030874b4edbf6b939e91f84790f7[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 15:13:21 2024 +0100
+
+    añadido bewitchment legacy
+
+[33mcommit ff7a30e85c0d82af94aac6e3e35a93fa62006d8c[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Tue Mar 12 15:11:02 2024 +0100
+
+    añadido astral sorcery
+
+[33mcommit 2e280771cb99e026fa5ae1afd59ee30955f0e5c7[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 20:37:37 2024 +0100
+
+    eliminado JEID y reañadido NEIDS
+
+[33mcommit 974f9ffc858a99ce272d8d0ad8c805636a133697[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 19:31:40 2024 +0100
+
+    eliminado NEIDS y añadido JEID
+
+[33mcommit 5e47ff69afe583518d053b32016e4d6310315e8a[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 19:25:24 2024 +0100
+
+    añadido notenoughids
+
+[33mcommit a4044b650da16bf3a9c0c3939b6b3e6c29e9bb26[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 17:48:14 2024 +0100
+
+    updated forge versioN
+
+[33mcommit 15f6d0effbedac9ce114567b921aa2f5546d98e2[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 17:25:22 2024 +0100
+
+    updated version
+
+[33mcommit bbd684a0c2edde9b3a0f9f7097f9b547d6d87884[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:55:07 2024 +0100
+
+    añadido draconic evolution (reactor explosion speedrun any%)
+
+[33mcommit fc4d1f471d1149f1e3f50f7f5355facdc933475d[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:43:44 2024 +0100
+
+    añadido untilited chisel works
+
+[33mcommit 9d4bcb98110cc4964cc9288b75cc37bbe91eaf88[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:29:50 2024 +0100
+
+    añadido cathedral
+
+[33mcommit 957f4ea142e41e084c33826a681bccf4444440be[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:25:09 2024 +0100
+
+    añadido xtones
+
+[33mcommit c736254707a0a0370d771e3163a3775bb991a60e[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:19:47 2024 +0100
+
+    añadido dimensional doors
+
+[33mcommit 42b7a446c9ddcfb1efc28fcbd8d552a1ca5e4cef[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:18:29 2024 +0100
+
+    añadido simply light
+
+[33mcommit 2a281a093d0f4adce722b6ae4d2a7219ca323fd7[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:18:17 2024 +0100
+
+    añadido simply light
+
+[33mcommit f4093d83c52d8e672bc836f51f701073579e3479[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:14:28 2024 +0100
+
+    añadido industiral renewal
+
+[33mcommit d442c5eb6d8f502f33b8a9b5e95cdfdb66bf95f0[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:08:15 2024 +0100
+
+    añadido avaritia addons
+
+[33mcommit 0c25db9b1806c782ce6943c3ac5267990c75bb48[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:04:53 2024 +0100
+
+    updates
+
+[33mcommit 49b9e8996a2fc7dfbbce4f6a31ac45529ccd560b[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 16:03:06 2024 +0100
+
+    añadido computercraft y plethora peripherals
+
+[33mcommit 90251a368d96366cc26da2cc9ec1e7e1f325110d[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 15:58:30 2024 +0100
+
+    añadido camera mod
+
+[33mcommit 30268947ef347ba8646751e1982e18bee5012003[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Mon Mar 11 15:57:53 2024 +0100
+
+    añadio computercraft
+
+[33mcommit 9cec619fbee0b567b7230f8d16728a8648ccc52d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sinbelisk <86497481+Sinbelisk@users.noreply.github.com>
+Date:   Fri Mar 8 17:17:25 2024 +0100
+
+    Update README.md
+
+[33mcommit d190d7b337dae315c525d0db4e6a921cf1e0bfda[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Fri Mar 8 17:02:15 2024 +0100
+
+    updates
+
+[33mcommit 192e25f2515409c833755487f2a66bdce1e06e53[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Fri Mar 8 16:31:26 2024 +0100
+
+    update
+
+[33mcommit 30a7458d7bb48d040990a82d159ca86635821ba7[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Fri Mar 8 16:17:07 2024 +0100
+
+    updated ver
+
+[33mcommit 4b1b177f4f1b2c1050f00e2501336386dd4ec74f[m
+Author: Rafael <rafjimray21y@gmail.com>
+Date:   Fri Mar 8 16:07:52 2024 +0100
+
+    nuevo formato para el modpack
