@@ -41,6 +41,23 @@ recipes.removeByRecipeName("unidict:plateuranium_x1_size.2");
 val ieHammer = <immersiveengineering:tool>;
 hammers.add(ieHammer);
 
+val iePlates = [
+    <immersiveengineering:metal:30>,
+    <immersiveengineering:metal:31>,
+    <immersiveengineering:metal:32>,
+    <immersiveengineering:metal:33>,
+    <immersiveengineering:metal:34>,
+    <immersiveengineering:metal:35>,
+    <immersiveengineering:metal:36>,
+    <immersiveengineering:metal:37>,
+    <immersiveengineering:metal:38>,
+    <immersiveengineering:metal:39>,
+    <immersiveengineering:metal:40>
+ ] as IItemStack[];
+
+for item in iePlates {
+    recipes.remove(item);
+}
 
 /// ### CODIGO PARA LAS PLATES DEL EMBERS #### 
 
