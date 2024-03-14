@@ -37,6 +37,7 @@ val plates = [
 val hammers = <ore:craftingToolForgeHammer>;
 
 // martillo del IE al oredict de ore hammers
+recipes.removeByRecipeName("unidict:plateuranium_x1_size.2");
 val ieHammer = <immersiveengineering:tool>;
 hammers.add(ieHammer);
 
