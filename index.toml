@@ -961,6 +961,10 @@ file = "config/ichunutil_keybinds.cfg"
 hash = "a9db23da881bf4758966e499197ed188b6d8e69f47674380748110996b80a1a4"
 
 [[files]]
+file = "config/immersiveengineering.cfg"
+hash = "4ce6d3a808c48d822bd1dfcca2c87c12276d00ecff23ab4d084ef6b605c877ba"
+
+[[files]]
 file = "config/ironchest.cfg"
 hash = "6069282a9cf2a7047073120d602c7f54e6b642b52be4329787e95af97246d2be"
 
@@ -1694,6 +1698,11 @@ hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
 metafile = true
 
 [[files]]
+file = "mods/modtweaker.pw.toml"
+hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "483ad8426c133dfee568038ca3b103cede2d74e8be93e940080b98c50ea0a9d6"
 metafile = true
@@ -1716,6 +1725,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
+metafile = true
+
+[[files]]
+file = "mods/mtlib.pw.toml"
+hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
@@ -2319,7 +2333,7 @@ hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
 
 [[files]]
 file = "scripts/plates.zs"
-hash = "3a61265f40cb5cc5f271d80bd2d714247ed8ca49cc934f7e6a6dc9b7be1b2d71"
+hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
 
 [[files]]
 file = "scripts/toolsAndWeapons.zs"
