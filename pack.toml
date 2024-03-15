@@ -1,13 +1,13 @@
 name = "Infinite Revolution 1.12"
 author = "Sinbelisk"
-version = "1.2"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f661e2a667a901baf4363764e1fbcc805f05dda44035c7f5ec4d09ea2189d7e2"
+hash = "9aae253b929dcab06a3151da73d5bcc3c28a70befd78eef3423417cbedab5560"
 
 [versions]
-forge = "14.23.5.2860"
+forge = "14.23.5.2859"
 minecraft = "1.12.2"
