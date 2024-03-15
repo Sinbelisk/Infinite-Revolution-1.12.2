@@ -961,6 +961,10 @@ file = "config/ichunutil_keybinds.cfg"
 hash = "a9db23da881bf4758966e499197ed188b6d8e69f47674380748110996b80a1a4"
 
 [[files]]
+file = "config/immersiveengineering.cfg"
+hash = "4ce6d3a808c48d822bd1dfcca2c87c12276d00ecff23ab4d084ef6b605c877ba"
+
+[[files]]
 file = "config/ironchest.cfg"
 hash = "6069282a9cf2a7047073120d602c7f54e6b642b52be4329787e95af97246d2be"
 
@@ -2298,6 +2302,10 @@ file = "scripts/.zsrc"
 hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
+file = "scripts/IEnotUse.zs"
+hash = "890da8ae61924eb45fba748d81d29971efa0ba3e2ceeddb50747e02b5534fc3a"
+
+[[files]]
 file = "scripts/Loot.zs"
 hash = "cda8d2d6cee10f073c6eead70eba83ffe995e265d317a06e7d5af2f1703cf6e8"
 
@@ -2319,7 +2327,7 @@ hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
 
 [[files]]
 file = "scripts/plates.zs"
-hash = "3a61265f40cb5cc5f271d80bd2d714247ed8ca49cc934f7e6a6dc9b7be1b2d71"
+hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
 
 [[files]]
 file = "scripts/toolsAndWeapons.zs"
