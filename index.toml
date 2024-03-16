@@ -2334,8 +2334,8 @@ file = "scripts/creative.zs"
 hash = "dd656a358cc154aaa7d448d0653d9dea52068bb6fa60916e558c53c839f9b042"
 
 [[files]]
-file = "scripts/draconiumBalance.zs"
-hash = "d291fdfb8df4dcc305f89ed6318846f2744119c003ec534abd504a579ec9a89a"
+file = "scripts/draconiumOreBuff.zs"
+hash = "566ff57b4db0354caad8fe212811d51c29ded52e21e7f6bc010b08d1c0701303"
 
 [[files]]
 file = "scripts/misc.zs"
