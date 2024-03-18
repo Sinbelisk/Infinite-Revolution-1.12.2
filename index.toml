@@ -1368,6 +1368,11 @@ hash = "f2b1f1fda461c977b75316ed18fb9f6e55b28ec0ed4521a2994a1705d64dbc94"
 metafile = true
 
 [[files]]
+file = "mods/constructs-armory.pw.toml"
+hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
 metafile = true
@@ -2303,7 +2308,7 @@ hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
 file = "scripts/IEnotUse.zs"
-hash = "890da8ae61924eb45fba748d81d29971efa0ba3e2ceeddb50747e02b5534fc3a"
+hash = "a0bcda67c5d955258f68ce1b3fbca15afe82fda345f8308fbab36d7a4ed6650d"
 
 [[files]]
 file = "scripts/Loot.zs"
