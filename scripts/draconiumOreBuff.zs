@@ -3,7 +3,6 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IItemTransformer;
 import crafttweaker.recipes.IFurnaceRecipe;
 import crafttweaker.block.IBlock;
-import crafttweaker.event.IEventManager;
 import crafttweaker.event.PlayerInteractBlockEvent;
 import mods.ic2.BlastFurnace;
 import mods.thermalexpansion.InductionSmelter;
