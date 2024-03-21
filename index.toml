@@ -2048,6 +2048,11 @@ hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
 metafile = true
 
 [[files]]
+file = "resourcepacks/voxel-trains-ir.pw.toml"
+hash = "368b30d7b1961b9912154b73a45fbcd7000c8eed9186e5e239b1ca3b85b521bb"
+metafile = true
+
+[[files]]
 file = "resources/artifacts/textures/entity/mimic/mimic.png"
 hash = "ea7a6709d35a5c9fd1132ca6caaa74f6be33cb4594c627b4cb5679a393483eb1"
 
