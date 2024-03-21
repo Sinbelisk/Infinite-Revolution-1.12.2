@@ -1618,6 +1618,11 @@ hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-petroleum.pw.toml"
+hash = "010b10d09b9795700cf164f767ed1d1703b16a25dd879972fedffb1036e57a40"
+metafile = true
+
+[[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "d55ee6365d340e11efc1933b2767f98e292181bbdf8e83f5add57f65bb6b7898"
 metafile = true
