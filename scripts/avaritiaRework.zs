@@ -2,6 +2,35 @@ import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import mods.avaritia.Compressor;
 
+recipes.remove(<avaritia:resource:1>);
+recipes.addShaped("newCristalMatrixIngotOneCraft", <avaritia:resource:1>, 
+[
+    [null, null, null],
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>],
+    [null, null, null] 
+] );
+
+recipes.addShaped("newCristalMatrixIngotTwoCraft", <avaritia:resource:1> * 2, 
+[
+    [null, null, null],
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>],
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>] 
+] );
+
+recipes.addShaped("newCristalMatrixIngotThreeCraft", <avaritia:resource:1> * 2, 
+[
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>],
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>],
+    [null, null, null] 
+] );
+
+recipes.addShaped("newCristalMatrixIngotFourCraft", <avaritia:resource:1> * 3, 
+[
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>],
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>],
+    [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>] 
+] );
+
 mods.avaritia.Compressor.add("iridiumSingularityCraft", <avaritia:singularity:14>, 1, <thermalfoundation:storage:7>, false);
 
 mods.avaritia.ExtremeCrafting.remove(<eternalsingularity:eternal_singularity>); // Remove eternal singularity old extreme craft 

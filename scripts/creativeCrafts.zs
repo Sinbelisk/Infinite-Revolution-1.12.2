@@ -183,7 +183,7 @@ mods.avaritia.ExtremeCrafting.addShaped("porro", <draconicevolution:creative_rf_
 //Add craft Component Bus Creative from OpenComputers
 recipes.addShaped("componentBusCreativeCraft", <opencomputers:upgrade:32>, 
 [
-    [<thermalfoundation:material:327>, <liquid:redstone_alloy>, <thermalfoundation:material:327>],
+    [<thermalfoundation:material:327>, <ic2:fluid_cell>.withTag({Fluid: {FluidName: "redstone_alloy", Amount: 1000}}), <thermalfoundation:material:327>],
     [<ic2:crafting:2>, <opencomputers:component:2>, null],
     [<thermalfoundation:material:327>, <opencomputers:component:20>, <thermalfoundation:material:327>] 
 ] );
