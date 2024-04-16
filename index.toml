@@ -1069,6 +1069,10 @@ file = "config/quark.cfg"
 hash = "d844eab17b1c36355455e672bd1144bc5ea8b83536eaa4eace4af78961952240"
 
 [[files]]
+file = "config/reccomplex.cfg"
+hash = "a4dc38f3332fde152ee93e12c1c998859be748c597f39e4eacfcef831079de94"
+
+[[files]]
 file = "config/recipehandler.cfg"
 hash = "54279ab7c1888fa59efbb41df2f2e61973e1d4fe26781437bb3da96e6a5b3737"
 
