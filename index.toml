@@ -1917,11 +1917,6 @@ hash = "1b4a0a19615a8b8ed0d78ddfd05fa3ee59f7050a8a4490de0e800115c0b66885"
 metafile = true
 
 [[files]]
-file = "mods/rs-requestify.pw.toml"
-hash = "295210450343d7fc221d07e5347517e3d0ef6a48df1a63ee402cc39a9110d4a2"
-metafile = true
-
-[[files]]
 file = "mods/rsinfinitewireless.pw.toml"
 hash = "49366e14caa36db1cb88e26d048f14055df7a35f52aa873875f5b1aacbef2f7e"
 metafile = true
