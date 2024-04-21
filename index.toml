@@ -1902,11 +1902,6 @@ hash = "1d7342509fa93510fda74e6d7fbe2ef1bc5c805a115149f016e11f641997c47a"
 metafile = true
 
 [[files]]
-file = "mods/refined-avaritia.pw.toml"
-hash = "8d09ca78a807de246e7fd5a734008fb26801fe469452b38c282b7859baaf35b2"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "3d8916f266980c5865823128f66e8bac306e39e44ba95c9bb65330bff7b74115"
 metafile = true
