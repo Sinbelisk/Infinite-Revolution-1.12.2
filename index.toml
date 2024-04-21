@@ -10,7 +10,7 @@ hash = "25eafc08a978882d5b1b1dc27019b42357b74c5491f02da4b60610dc9f551b57"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "5543357242f32aff125b69437c6d2101132d67ec535cdab1358667ae7f7a0836"
+hash = "cfe070ea983c65235fddc60d84d46d04b818de941fd88f90e8cd877e7e546d52"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
