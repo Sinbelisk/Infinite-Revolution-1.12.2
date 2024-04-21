@@ -86,7 +86,7 @@ hash = "7022852dae4a0dcff88b58c41c9eeb36d3edf458a47f8efc11d1b745e11d73cf"
 
 [[files]]
 file = "config/abyssalcraft.cfg"
-hash = "1d5b61a907383a830e5b4a1f87be7b84f5b055750824739b153ad39806695a29"
+hash = "db83f10b9b1ea5619409c854ed129f907ef2f6a7022655b18f029e5f61383196"
 
 [[files]]
 file = "config/acintegration.cfg"
@@ -1197,6 +1197,26 @@ hash = "6a0db64ad6caf2d910fa52020c0eaf7ae3bcd5558693ad59dd5378fb830c2c06"
 metafile = true
 
 [[files]]
+file = "mods/ae2-extended-life.pw.toml"
+hash = "8b79fcc21c64e6dc51a86cfda1d7a6217bdbdbfab876c82de4b3bb5afb2df09b"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-visualiser.pw.toml"
+hash = "7271780f60487d7e9b68cf6542ce17ff9f4f4819781edcd4879c6287de4ecac9"
+metafile = true
+
+[[files]]
+file = "mods/ae2-stuff.pw.toml"
+hash = "b63661a7418b4a4959436998638144604bd4dabacaf613b05b9b30a73a25074c"
+metafile = true
+
+[[files]]
+file = "mods/ae2wtlib.pw.toml"
+hash = "ce050f4ae82f3d6df53b775951c048d313a8b35eaf87e2125d42c8ee6bdbd5f8"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "7ff0de96be3db1d73f5a93c38641f94686f45e5d63dbabb9fa35dc06de7a96ed"
 metafile = true
@@ -1247,6 +1267,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/bdlib.pw.toml"
+hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
+metafile = true
+
+[[files]]
 file = "mods/better-builders-wands.pw.toml"
 hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
 metafile = true
@@ -1254,6 +1279,11 @@ metafile = true
 [[files]]
 file = "mods/betterfps.pw.toml"
 hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "bc3d6f16dec88f6d9e03ee7b1d74ea97230f7ed132f74e7afbcc0442398eb018"
 metafile = true
 
 [[files]]
@@ -1767,6 +1797,11 @@ hash = "815710af54eb77994c123853e9e665bfc5b4ee325e870c54259a7f9a59fcf21a"
 metafile = true
 
 [[files]]
+file = "mods/nae2.pw.toml"
+hash = "c873096b91156cd72345e082b701201721773393fd359c0ed37b25d5f4227a78"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
@@ -1799,6 +1834,16 @@ metafile = true
 [[files]]
 file = "mods/openscreens.pw.toml"
 hash = "fe57a2a0cd08e7d76f89e14625a5696e015760e6b3986bc3b3e13d16de337f32"
+metafile = true
+
+[[files]]
+file = "mods/p455w0rds-library.pw.toml"
+hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
+metafile = true
+
+[[files]]
+file = "mods/packagedauto.pw.toml"
+hash = "87cdb52c769683f79c108d209de45304603dc1fbd06e1bf58360bc4f0e7935de"
 metafile = true
 
 [[files]]
@@ -2024,6 +2069,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
+metafile = true
+
+[[files]]
+file = "mods/wireless-crafting-terminal.pw.toml"
+hash = "34661111973a75dd06e2f9901741c531dc51e7ccf5d5aa814b30551874046268"
 metafile = true
 
 [[files]]
