@@ -1877,11 +1877,6 @@ hash = "1b4a0a19615a8b8ed0d78ddfd05fa3ee59f7050a8a4490de0e800115c0b66885"
 metafile = true
 
 [[files]]
-file = "mods/roguelike-dungeons.pw.toml"
-hash = "26f5e9ec70d0a6e2b6df74c3ed51c3f1db92e6bd51357942c7a6a3dc059aaefc"
-metafile = true
-
-[[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "295210450343d7fc221d07e5347517e3d0ef6a48df1a63ee402cc39a9110d4a2"
 metafile = true
