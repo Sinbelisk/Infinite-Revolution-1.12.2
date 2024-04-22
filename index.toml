@@ -1487,6 +1487,11 @@ hash = "cde76f6a6996baea5268266faa3d2bf93aba1e61f2e85c1811c383087bb20457"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "bf089669a08776c6c3019cc2ed786ee1583fcb297784427b21cff7f9564d3c92"
+metafile = true
+
+[[files]]
 file = "mods/ender-utilities.pw.toml"
 hash = "a3ecad183e72502c28fbb52aa55c7edcade0ae686e7610e55c4922be149bf973"
 metafile = true
