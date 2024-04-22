@@ -2436,3 +2436,15 @@ hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
 [[files]]
 file = "scripts/toolsAndWeapons.zs"
 hash = "6bd9b8132782cafe1d6d9df3dd81c55fcd5ab20d787c2030da94289981409585"
+
+[[files]]
+file = "structures/active/mars.rcdp"
+hash = "57080bdc0f16c866edcaa9fbdb3ef38b1af44e9959ab19699903c3cf9e69b10c"
+
+[[files]]
+file = "structures/active/mars_st_ruins_1.rcst"
+hash = "b6fcb915cf237beacaab02700a8e8c5d4b4be9402121db55ee8f53655a5834a2"
+
+[[files]]
+file = "structures/inactive/test.rcst"
+hash = "7d37813b9539c06be8e3d72b2e7dc58134d090fb81528c0f181644929a86f23b"
