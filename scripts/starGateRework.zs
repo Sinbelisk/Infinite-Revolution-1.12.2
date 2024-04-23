@@ -30,7 +30,7 @@ for item in itemsDeletedCraft {
 
 mods.avaritia.Compressor.add("stargateControllerCrystalCraft", <sgcraft:sgcontrollercrystal>, 1, <sgcraft:naquadahblock>, false);
 
-recipes.addShaped("newStargetCoreCrystalCraft", <sgcraft:sgcontrollercrystal>, 
+recipes.addShaped("newStargetCoreCrystalCraft", <sgcraft:sgcorecrystal>, 
 [
     [<sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>],
     [<sgcraft:sgcontrollercrystal>, <mysticalagradditions:storage:1>, <sgcraft:sgcontrollercrystal>],
@@ -66,19 +66,19 @@ mods.avaritia.ExtremeCrafting.addShaped("newStargateRingCraft", <sgcraft:stargat
 [
     [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>],
     
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, <ic2:crafting:4>],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, <infinite_revolution:trinium_plate>],
 
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, null, null],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, null, null],
 
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, null, null],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, null, null],
 
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, null, null],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, null, null],
 
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, null, null],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, null, null],
 
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, null, null],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, null, null],
 
-    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, <ic2:crafting:4>],
+    [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <infinite_revolution:trinium_plate>, <infinite_revolution:trinium_plate>],
 
     [<avaritia:resource:4>, <avaritia:block_resource>, <avaritia:resource:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>],
 ] );
@@ -127,23 +127,23 @@ mods.avaritia.ExtremeCrafting.addShaped("newStargateBaseCraft", <sgcraft:stargat
 
 mods.avaritia.ExtremeCrafting.addShaped("newIrisBladeCraft", <sgcraft:sgirisblade> * 12,
 [
-    [null, null, null, null, null, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>],
+    [null, null, null, null, null, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>],
     
-    [null, null, null, null, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null],
+    [null, null, null, null, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null],
 
-    [null, null, null, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null, null],
+    [null, null, null, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null, null],
 
-    [null, null, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null, null, null],
+    [null, null, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null, null, null],
 
-    [null, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null, null, null],
+    [null, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null, null, null],
 
-    [<ic2:crafting:4>, <sgcraft:ic2capacitor>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null, null, null],
+    [<infinite_revolution:dense_trinium_plate>, <sgcraft:ic2capacitor>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null, null, null],
 
-    [<ic2:crafting:4>, <sgcraft:ic2capacitor>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null, null],
+    [<infinite_revolution:dense_trinium_plate>, <sgcraft:ic2capacitor>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null, null],
 
-    [<ic2:crafting:4>, <draconicevolution:energy_storage_core>, <sgcraft:ic2capacitor>, <sgcraft:ic2capacitor>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, null],
+    [<infinite_revolution:dense_trinium_plate>, <draconicevolution:energy_storage_core>, <sgcraft:ic2capacitor>, <sgcraft:ic2capacitor>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, null],
 
-    [<minecraft:bedrock>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>],
+    [<minecraft:bedrock>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>, <infinite_revolution:dense_trinium_plate>],
 ] );
 
 mods.avaritia.ExtremeCrafting.addShaped("newIrisUpgradeCraft", <sgcraft:sgirisupgrade>,
@@ -271,3 +271,5 @@ mods.avaritia.ExtremeCrafting.addShaped("newIC2PowerUnitCraft", <sgcraft:ic2powe
 
     [<ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>, <minecraft:bedrock>, <minecraft:bedrock>, <minecraft:bedrock>, <ic2:crafting:4>, <ic2:crafting:4>, <ic2:crafting:4>],
 ] );
+
+recipes.addShapeless(<sgcraft:pegasus_upgrade>, [<sgcraft:sgcontrollercrystal>, <minecraft:bedrock>, <sgcraft:ic2capacitor>]);

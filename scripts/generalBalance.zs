@@ -28,4 +28,5 @@ recipes.addShaped("newAdvancedCircuitCraft", <ic2:crafting:2>, [
 val empty = [
     <draconicevolution:draconic_ingot>
 ] as IIngredient[];
-moretweaker.draconicevolution.FusionCrafting.add(<draconicevolution:chaos_shard>, <draconicevolution:chaos_shard>, FusionCrafting.CHAOTIC, 1000000000, empty);
+
+moretweaker.draconicevolution.FusionCrafting.add(<draconicevolution:chaos_shard> * 2, <draconicevolution:chaos_shard>, FusionCrafting.CHAOTIC, 1000000000000, empty);

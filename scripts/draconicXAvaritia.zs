@@ -30,7 +30,9 @@ val itemsDeletedCraft = [
     <draconicevolution:wyvern_helm>,
     <draconicevolution:wyvern_chest>,
     <draconicevolution:wyvern_legs>,
-    <draconicevolution:wyvern_boots>
+    <draconicevolution:wyvern_boots>,
+    <draconicevolution:flow_gate>,
+    <draconicevolution:flow_gate:8>
 ] as IItemStack[];
 
 for item in itemsDeletedCraft {
@@ -57,8 +59,11 @@ for item in itemsDeletedFusion {
     moretweaker.draconicevolution.FusionCrafting.remove(item);
 }
 
+recipes.addShapeless(<draconicevolution:draconium_block:1>, [<draconicevolution:draconium_block>, <draconicevolution:chaos_shard:3>]);
+
 //ADD NEW CRAFTS
-mods.avaritia.ExtremeCrafting.addShaped("newEnergyInfuserCraft", <draconicevolution:energy_infuser>,
+/*
+mods.avaritia.ExtremeCrafting.addShaped("", ,
 [
     [null, null, null, null, null, null, null, null, null],
     
@@ -78,6 +83,7 @@ mods.avaritia.ExtremeCrafting.addShaped("newEnergyInfuserCraft", <draconicevolut
 
     [null, null, null, null, null, null, null, null, null],
 ] );
+*/
 
 // Add New Energy Infuser Craft from Extreme Crafting Table
 mods.avaritia.ExtremeCrafting.addShaped("newEnergyInfuserCraft", <draconicevolution:energy_infuser>,
@@ -484,13 +490,13 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernSwordCraft", <draconicevolutio
 
     [null, null, null, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null],
 
-    [null, <avaritia:resource:1>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null, null],
+    [null, <infinite_revolution:trinium_ingot>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null, null],
 
-    [null, <draconicevolution:energy_crystal:1>, <avaritia:resource:1>, <mysticalagriculture:supremium_sword>, <draconicevolution:draconium_ingot>, null, null, null, null],
+    [null, <draconicevolution:energy_crystal:1>, <infinite_revolution:trinium_ingot>, <mysticalagriculture:supremium_sword>, <draconicevolution:draconium_ingot>, null, null, null, null],
 
-    [null, null, <draconicevolution:wyvern_energy_core>, <avaritia:resource:1>, null, null, null, null, null],
+    [null, null, <draconicevolution:wyvern_energy_core>, <infinite_revolution:trinium_ingot>, null, null, null, null, null],
 
-    [null, <draconicevolution:wyvern_energy_core>, null, <draconicevolution:energy_crystal:1>, <avaritia:resource:1>, null, null, null, null],
+    [null, <draconicevolution:wyvern_energy_core>, null, <draconicevolution:energy_crystal:1>, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
     [<draconicevolution:wyvern_core>, null, null, null, null, null, null, null, null],
 ] );
@@ -503,15 +509,15 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernPickaxeCraft", <draconicevolut
 
     [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:energy_crystal:1>, <avaritia:resource:1>, <draconicevolution:energy_crystal:1>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
     [null, null, null, null, <draconicevolution:wyvern_core>, null, null, null, null],
 ] );
@@ -524,15 +530,15 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernShovelCraft", <draconicevoluti
 
     [null, null, null, null, null, <draconicevolution:energy_crystal:1>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>],
 
-    [null, null, null, null, null, <avaritia:resource:1>, <draconicevolution:energy_crystal:1>, <draconicevolution:draconium_ingot>, null],
+    [null, null, null, null, null, <infinite_revolution:trinium_ingot>, <draconicevolution:energy_crystal:1>, <draconicevolution:draconium_ingot>, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, <avaritia:resource:1>, null, null, null, null, null],
+    [null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null, null],
 
-    [null, null, <avaritia:resource:1>, null, null, null, null, null, null],
+    [null, null, <infinite_revolution:trinium_ingot>, null, null, null, null, null, null],
 
-    [null, <avaritia:resource:1>, null, null, null, null, null, null, null],
+    [null, <infinite_revolution:trinium_ingot>, null, null, null, null, null, null, null],
 
     [<draconicevolution:wyvern_core>, null, null, null, null, null, null, null, null],
 ] );
@@ -545,26 +551,26 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernAxeCraft", <draconicevolution:
 
     [null, null, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <mysticalagriculture:supremium_axe>, <draconicevolution:draconium_ingot>, null, null, null],
 
-    [null, null, null, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, <draconicevolution:energy_crystal:1>, null, null, null],
+    [null, null, null, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, <draconicevolution:energy_crystal:1>, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
-    [null, null, null, null, <avaritia:resource:1>, null, null, null, null],
+    [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 
     [null, null, null, null, <draconicevolution:wyvern_core>, null, null, null, null],
 ] );
 
 mods.avaritia.ExtremeCrafting.addShaped("newWyvernBowCraft", <draconicevolution:wyvern_bow>,
 [
-    [null, null, null, <avaritia:resource:1>, <draconicevolution:wyvern_energy_core>, null, null, null, null],
+    [null, null, null, <infinite_revolution:trinium_ingot>, <draconicevolution:wyvern_energy_core>, null, null, null, null],
     
     [null, null, <draconicevolution:draconium_ingot>, null, <minecraft:wool:10>, null, null, null, null],
 
-    [null, <avaritia:resource:1>, null, null, <minecraft:wool:10>, null, null, null, null],
+    [null, <infinite_revolution:trinium_ingot>, null, null, <minecraft:wool:10>, null, null, null, null],
 
     [<draconicevolution:draconium_ingot>, null, null, null, <minecraft:wool:10>, null, null, null, null],
 
@@ -572,26 +578,26 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernBowCraft", <draconicevolution:
 
     [<draconicevolution:draconium_ingot>, null, null, null, <minecraft:wool:10>, null, null, null, null],
 
-    [null, <avaritia:resource:1>, null, null, <minecraft:wool:10>, null, null, null, null],
+    [null, <infinite_revolution:trinium_ingot>, null, null, <minecraft:wool:10>, null, null, null, null],
 
     [null, null, <draconicevolution:draconium_ingot>, null, <minecraft:wool:10>, null, null, null, null],
 
-    [null, null, null, <avaritia:resource:1>, <draconicevolution:wyvern_energy_core>, null, null, null, null],
+    [null, null, null, <infinite_revolution:trinium_ingot>, <draconicevolution:wyvern_energy_core>, null, null, null, null],
 ] );
 
 mods.avaritia.ExtremeCrafting.addShaped("newWyvernHelmetCraft", <draconicevolution:wyvern_helm>,
 [
-    [null, null, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, null, null],
+    [null, null, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, null, null],
     
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, null, <draconicevolution:wyvern_core>, <mysticalagriculture:supremium_helmet>, <draconicevolution:wyvern_core>, null, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, null, <draconicevolution:wyvern_core>, <mysticalagriculture:supremium_helmet>, <draconicevolution:wyvern_core>, null, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
     [null, null, null, null, null, null, null, null, null],
 
@@ -602,32 +608,32 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernHelmetCraft", <draconicevoluti
 
 mods.avaritia.ExtremeCrafting.addShaped("newWyvernChestplateCraft", <draconicevolution:wyvern_chest>,
 [
-    [null, <avaritia:resource:1>, <avaritia:resource:1>, null, null, null, <avaritia:resource:1>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, null, null, null, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, null],
     
-    [<avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>],
 
-    [<avaritia:resource:1>, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_core>, <mysticalagriculture:supremium_chestplate>, <draconicevolution:wyvern_core>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_core>, <mysticalagriculture:supremium_chestplate>, <draconicevolution:wyvern_core>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null,<infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, null, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, null, null],
+    [null, null, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, null, null],
 ] );
 
 mods.avaritia.ExtremeCrafting.addShaped("newWyvernLegginsCraft", <draconicevolution:wyvern_legs>,
 [
     [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
     
-    [<avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <mysticalagriculture:supremium_leggings>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <mysticalagriculture:supremium_leggings>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>],
 
-    [<avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>],
 
     [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
 
@@ -635,24 +641,24 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernLegginsCraft", <draconicevolut
 
     [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, null, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
 
-    [<avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null, null, null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null, null, null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>],
 
-    [<avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null, null, null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null, null, null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>],
 
-    [<avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, null, null, null, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, null, null, null, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>],
 ] );
 
 mods.avaritia.ExtremeCrafting.addShaped("newWyvernBootsCraft", <draconicevolution:wyvern_boots>,
 [
-    [null, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, <draconicevolution:wyvern_energy_core>, <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <draconicevolution:wyvern_energy_core>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, null],
     
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null],
+    [null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null],
 
-    [<avaritia:resource:1>, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, <infinite_revolution:trinium_ingot>],
 
-    [<avaritia:resource:1>, <draconicevolution:wyvern_core>, <draconicevolution:draconium_ingot>, <avaritia:resource:1>, null, <avaritia:resource:1>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_core>, <avaritia:resource:1>],
+    [<infinite_revolution:trinium_ingot>, <draconicevolution:wyvern_core>, <draconicevolution:draconium_ingot>, <infinite_revolution:trinium_ingot>, null, <infinite_revolution:trinium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_core>, <infinite_revolution:trinium_ingot>],
 
     [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <mysticalagriculture:supremium_boots>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
 
@@ -848,6 +854,48 @@ mods.avaritia.ExtremeCrafting.addShaped("newDraconicBootsCraft", <draconicevolut
     [null, null, null, null, null, null, null, null, null],
 
     [null, null, null, null, null, null, null, null, null],
+
+    [null, null, null, null, null, null, null, null, null],
+] );
+
+mods.avaritia.ExtremeCrafting.addShaped("newFluxGateCraft", <draconicevolution:flow_gate>,
+[
+    [null, null, null, null, null, null, null, null, null],
+    
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, null, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <draconicevolution:wyvern_energy_core>, <galacticraftplanets:item_basic_asteroids:6>, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <draconicevolution:energy_pylon>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconic_core>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:energy_pylon>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <draconicevolution:wyvern_energy_core>, <galacticraftplanets:item_basic_asteroids:6>, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, null, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, null, null, null, null, null, null, null, null],
+] );
+
+mods.avaritia.ExtremeCrafting.addShaped("newFluidGateCraft", <draconicevolution:flow_gate:8>,
+[
+    [null, null, null, null, null, null, null, null, null],
+    
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, null, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <ic2:fluid_cell>, <galacticraftplanets:item_basic_asteroids:6>, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <openblocks:tank>, <draconicevolution:draconium_ingot>, <ic2:fluid_cell>, <draconicevolution:draconic_core>, <ic2:fluid_cell>, <draconicevolution:draconium_ingot>, <openblocks:tank>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <ic2:fluid_cell>, <galacticraftplanets:item_basic_asteroids:6>, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, null, <draconicevolution:nugget>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
+
+    [null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, <galacticraftplanets:item_basic_asteroids:6>, null],
 
     [null, null, null, null, null, null, null, null, null],
 ] );
