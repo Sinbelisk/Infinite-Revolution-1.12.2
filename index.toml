@@ -797,6 +797,30 @@ file = "config/botania.cfg"
 hash = "80010f03e5ba411b5d5cd9d5a432eb6d3bd09b046276dc3d80f191b314ea4e6c"
 
 [[files]]
+file = "config/brandon3055/BrandonsCore.cfg"
+hash = "1c166af3c1adf4e9e3f29de526c5468a5c5dd54be0b5fd074dcd39605c1a52a5"
+
+[[files]]
+file = "config/brandon3055/Custom Fusion Recipe Info.txt"
+hash = "2fc2fcae04de5d51c5eea00a421073228ca23284accf37442321d05b54291f75"
+
+[[files]]
+file = "config/brandon3055/DraconicEvolution.cfg"
+hash = "24cbbfe9dad4c44a13795bff003b642dfce5708ff3abaf57b8852aa82c76dc73"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/manifest.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/options.json"
+hash = "bc8659948a2d386656992219bd99ac2349eeef9d89156200dfe78cd7c38706c1"
+
+[[files]]
+file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
+hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
+
+[[files]]
 file = "config/cfm.cfg"
 hash = "2e10ec28ff591d98879f12f6f596e58f8de33eaa416e36237d5a4d1e4cdad79c"
 
@@ -1113,6 +1137,10 @@ file = "config/rsinfinitewireless.cfg"
 hash = "82d9ff08dfcf49c81b66438b5d6c819d89958b6e4f4d6cc077623481315b7b12"
 
 [[files]]
+file = "config/sgcraft.cfg"
+hash = "48599b1aca3adab939ab261371ec52ce287ce6fd340ccabc501cecae966f5c43"
+
+[[files]]
 file = "config/splash.properties"
 hash = "25ba19eed37b841147b17a2e2ae3ba093e3972b0d06e638828399b883a6a83d8"
 
@@ -1199,6 +1227,10 @@ hash = "bfcbc095e6758afe11e7ac1a1874097062f651fa91faa74804bb93761942a243"
 [[files]]
 file = "config/xreliquary.cfg"
 hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
+
+[[files]]
+file = "mods/Infinite_Revolution_1.12.2_1.0_MODPACK.jar"
+hash = "f89bf7597955d61d585d14bf5acf19820c2d3715bb5d1f7e800233d44a8da7e9"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -2456,7 +2488,11 @@ hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
 file = "scripts/IEnotUse.zs"
-hash = "890da8ae61924eb45fba748d81d29971efa0ba3e2ceeddb50747e02b5534fc3a"
+hash = "3e302cece41a47bba8e4bfdb37d754978ad6fa4c671a5a8d745b3342d355a94a"
+
+[[files]]
+file = "scripts/InfiniteRevolution.zs"
+hash = "5c6de57657b2abccf9d6d025fb0d75a9bfa2fdb35a0cb0692dd876b6d20b7d17"
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -2468,15 +2504,19 @@ hash = "76acd72464b78f0802f9165ec78f2ee17da5c1c3b9a4b6df7879d1fb33711448"
 
 [[files]]
 file = "scripts/avaritiaRework.zs"
-hash = "7f4114385dce71acd29ee8538c51274e58132e33746e1523f98b30c7ae28e4b5"
+hash = "963b0e917f06a09bcc42a216b3e1659ce5ad82536a9bb3f952e803802510450c"
 
 [[files]]
 file = "scripts/creativeCrafts.zs"
-hash = "887344807d2a1a6e59d3578f506e77bb83ae7d5b9119b36d9cfe1e77d4c81493"
+hash = "d946c6902016b282d9a7bf08b055f4e0becba5af9ad909dcdbbc34a0d99ff4f8"
 
 [[files]]
-file = "scripts/draconiumOreBuff.zs"
-hash = "0f2cb49fba5ab49448d6ee6828e6a6f87d17a10db063eeae6cd924368717e38a"
+file = "scripts/draconicXAvaritia.zs"
+hash = "de47420ce43a9ad6993ca4f20b70cf4e106b971f45fa1bab58ed3b0aded24c3c"
+
+[[files]]
+file = "scripts/generalBalance.zs"
+hash = "b3c70707e5b08f15d57b32da0f0b5d69399fe46e9ad39551c805b45c3f44d55d"
 
 [[files]]
 file = "scripts/misc.zs"
@@ -2489,13 +2529,10 @@ hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
 [[files]]
 file = "scripts/plates.zs"
 hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
-<<<<<<< HEAD
-=======
 
 [[files]]
 file = "scripts/starGateRework.zs"
-hash = "6d8e4b5aea2e1bdd7acb6405f01f3e7bd25bbc84f52d447b5ed7cda2854a5c11"
->>>>>>> 1.2-draconic-balance
+hash = "6db04a431ea1f94dc4f46e77d77a0076e86b4a24e2e6af1c246fce15e49836b7"
 
 [[files]]
 file = "scripts/toolsAndWeapons.zs"
