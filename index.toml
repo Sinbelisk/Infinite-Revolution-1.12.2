@@ -2456,11 +2456,7 @@ hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
 file = "scripts/IEnotUse.zs"
-<<<<<<< HEAD
-hash = "a0bcda67c5d955258f68ce1b3fbca15afe82fda345f8308fbab36d7a4ed6650d"
-=======
 hash = "890da8ae61924eb45fba748d81d29971efa0ba3e2ceeddb50747e02b5534fc3a"
->>>>>>> 1.2-draconic-balance
 
 [[files]]
 file = "scripts/Loot.zs"
