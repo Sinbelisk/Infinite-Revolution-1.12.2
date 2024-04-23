@@ -25,12 +25,16 @@ file = "config/ChickenChunks.cfg"
 hash = "d80f93947603aabe6e5706de76e67cefd8420967f01bc65e9f33c7b2c7536585"
 
 [[files]]
+file = "config/DraconicEvolution.cfg"
+hash = "02d834c5e112fbf96f55e952b8e9f7a312db60604897537ea470d885127838ba"
+
+[[files]]
 file = "config/Embersified.cfg"
 hash = "9a3bd9ac778affbcbb46903a74d2654bdca4dceff55e51058fdcf0ee8c4a083c"
 
 [[files]]
 file = "config/ExtraPlanets.cfg"
-hash = "68f02c11f9ec9c388bad44140ae7eebc054b01feed7408526d1a8999a6427a7e"
+hash = "34953fb9c0a0da751b8ce82c6e91016f761d877aefe67feba6ca688da1c50734"
 
 [[files]]
 file = "config/FarmingForBlockheads/Market.json"
@@ -1447,6 +1451,11 @@ hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
 metafile = true
 
 [[files]]
+file = "mods/endertweaker.pw.toml"
+hash = "956fd20951d1f7486e08cd1d02d83df5c4cabd4bee42814cd8ae6172830bc7aa"
+metafile = true
+
+[[files]]
 file = "mods/energy-control.pw.toml"
 hash = "1def720130c9fd23350e04fc9f1b738fca3353e6984ba99f88fd01e2b1d65c42"
 metafile = true
@@ -1559,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/ic2-tweaker.pw.toml"
+hash = "d5f239575d292bd3f36e44a3eb352ee949d0c54525612a1a21aa1b9cadcf31df"
 metafile = true
 
 [[files]]
@@ -1722,8 +1736,18 @@ hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
 metafile = true
 
 [[files]]
+file = "mods/modtweaker.pw.toml"
+hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "483ad8426c133dfee568038ca3b103cede2d74e8be93e940080b98c50ea0a9d6"
+metafile = true
+
+[[files]]
+file = "mods/moretweaker.pw.toml"
+hash = "cd790dc4662eaba6f993b596ee37b93b5e74e9d919ade536150012ec0845706e"
 metafile = true
 
 [[files]]
@@ -1744,6 +1768,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
+metafile = true
+
+[[files]]
+file = "mods/mtlib.pw.toml"
+hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
@@ -2337,12 +2366,36 @@ file = "resources/ic2/textures/items/resource/plate/obsidian.png"
 hash = "943059e206a3fed128abf2d73acf6f99ae91d6bd3d7a5c5e3b6dcedc086f3a3e"
 
 [[files]]
+file = "resources/sgcraft/textures/blocks/stargatebase_front.png"
+hash = "805ecc407b0c24ffddc6e690495a2cd43380f0cf496238a62bae85bd74a9c5d7"
+
+[[files]]
+file = "resources/sgcraft/textures/blocks/stargateblock.png"
+hash = "3d8d3be987f22bc39bc974d9df57f1236d1ee135bdd41b562bebfc73b74bba5f"
+
+[[files]]
+file = "resources/sgcraft/textures/blocks/stargatechevron.png"
+hash = "274bc335fea3b0a8716d6e55e4bf6f805540c6e89d6e9dfa020ae93ecc56007d"
+
+[[files]]
+file = "resources/sgcraft/textures/blocks/stargatering.png"
+hash = "7c09d1826f24f34c3eaddab44f863d4137fd782c788b078b636f2487e201daef"
+
+[[files]]
+file = "resources/sgcraft/textures/items/ic2capacitor.png"
+hash = "a3d1d5be05a612919fb8f1b53b09b0c8949ab0c5c859bd91c5e2a46cecdf988f"
+
+[[files]]
 file = "scripts/.zsrc"
 hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
 file = "scripts/IEnotUse.zs"
+<<<<<<< HEAD
 hash = "a0bcda67c5d955258f68ce1b3fbca15afe82fda345f8308fbab36d7a4ed6650d"
+=======
+hash = "890da8ae61924eb45fba748d81d29971efa0ba3e2ceeddb50747e02b5534fc3a"
+>>>>>>> 1.2-draconic-balance
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -2353,8 +2406,16 @@ file = "scripts/SphereWorld.zs"
 hash = "76acd72464b78f0802f9165ec78f2ee17da5c1c3b9a4b6df7879d1fb33711448"
 
 [[files]]
-file = "scripts/creative.zs"
-hash = "dd656a358cc154aaa7d448d0653d9dea52068bb6fa60916e558c53c839f9b042"
+file = "scripts/avaritiaRework.zs"
+hash = "7f4114385dce71acd29ee8538c51274e58132e33746e1523f98b30c7ae28e4b5"
+
+[[files]]
+file = "scripts/creativeCrafts.zs"
+hash = "887344807d2a1a6e59d3578f506e77bb83ae7d5b9119b36d9cfe1e77d4c81493"
+
+[[files]]
+file = "scripts/draconiumOreBuff.zs"
+hash = "0f2cb49fba5ab49448d6ee6828e6a6f87d17a10db063eeae6cd924368717e38a"
 
 [[files]]
 file = "scripts/misc.zs"
@@ -2367,6 +2428,13 @@ hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
 [[files]]
 file = "scripts/plates.zs"
 hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
+<<<<<<< HEAD
+=======
+
+[[files]]
+file = "scripts/starGateRework.zs"
+hash = "6d8e4b5aea2e1bdd7acb6405f01f3e7bd25bbc84f52d447b5ed7cda2854a5c11"
+>>>>>>> 1.2-draconic-balance
 
 [[files]]
 file = "scripts/toolsAndWeapons.zs"
