@@ -1258,7 +1258,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.0_MODPACK.jar"
-hash = "f89bf7597955d61d585d14bf5acf19820c2d3715bb5d1f7e800233d44a8da7e9"
+hash = "2f5650df87a77952061152c11f2010ac5e41390e4a1435a52290d1e2bf1e0a8d"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -2526,7 +2526,7 @@ hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
 file = "scripts/IEnotUse.zs"
-hash = "3e302cece41a47bba8e4bfdb37d754978ad6fa4c671a5a8d745b3342d355a94a"
+hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
@@ -2555,6 +2555,10 @@ hash = "de47420ce43a9ad6993ca4f20b70cf4e106b971f45fa1bab58ed3b0aded24c3c"
 [[files]]
 file = "scripts/generalBalance.zs"
 hash = "b3c70707e5b08f15d57b32da0f0b5d69399fe46e9ad39551c805b45c3f44d55d"
+
+[[files]]
+file = "scripts/guiasSpawn.zs"
+hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
 file = "scripts/misc.zs"
