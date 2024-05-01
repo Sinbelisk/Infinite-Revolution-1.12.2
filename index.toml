@@ -2216,10 +2216,6 @@ hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
 metafile = true
 
 [[files]]
-file = "pais.xml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "resourcepacks/voxel-trains-ir.pw.toml"
 hash = "368b30d7b1961b9912154b73a45fbcd7000c8eed9186e5e239b1ca3b85b521bb"
 metafile = true
@@ -2559,6 +2555,10 @@ hash = "de47420ce43a9ad6993ca4f20b70cf4e106b971f45fa1bab58ed3b0aded24c3c"
 [[files]]
 file = "scripts/generalBalance.zs"
 hash = "b3c70707e5b08f15d57b32da0f0b5d69399fe46e9ad39551c805b45c3f44d55d"
+
+[[files]]
+file = "scripts/guiasSpawn.zs"
+hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
 file = "scripts/misc.zs"
