@@ -1258,7 +1258,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.0_MODPACK.jar"
-hash = "f89bf7597955d61d585d14bf5acf19820c2d3715bb5d1f7e800233d44a8da7e9"
+hash = "2eb2363e0723f566fa04f6b751a2281d9424361286ae3d8df68a90236dffb031"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -2216,6 +2216,10 @@ hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
 metafile = true
 
 [[files]]
+file = "pais.xml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "resourcepacks/voxel-trains-ir.pw.toml"
 hash = "368b30d7b1961b9912154b73a45fbcd7000c8eed9186e5e239b1ca3b85b521bb"
 metafile = true
@@ -2526,7 +2530,7 @@ hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
 [[files]]
 file = "scripts/IEnotUse.zs"
-hash = "3e302cece41a47bba8e4bfdb37d754978ad6fa4c671a5a8d745b3342d355a94a"
+hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
