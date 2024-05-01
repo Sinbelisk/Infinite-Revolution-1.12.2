@@ -1101,6 +1101,10 @@ file = "config/mysticalagriculture_recipes.cfg"
 hash = "7a16ae499982fd34f09ca28fe29f0570842f99149eed06150aa3cec4744fbed3"
 
 [[files]]
+file = "config/mysticalworld.cfg"
+hash = "fa0640a3bef96106cfa03a2c1c766fc5b27d96e89cb7087403714177eb4e455e"
+
+[[files]]
 file = "config/naturescompass.cfg"
 hash = "28e572c7e27e276012f39ed1ff90a4b90ab85dbc0760e550883a10facbf974ef"
 
