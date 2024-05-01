@@ -313,6 +313,10 @@ file = "config/aroma1997/aroma1997sdimension_gen.json"
 hash = "1ae7fa0549c08f5a2c7b4c4e6c4bf8f5bfb89fb1daed9a8c0d3bf2fd51e553c3"
 
 [[files]]
+file = "config/astralsorcery.cfg"
+hash = "e60f2644a7086dbbdc252a54eea76e97c90e8fe9befe392b71d09ae667f2f50f"
+
+[[files]]
 file = "config/avaritia.cfg"
 hash = "005fa8f223045ecf09309ee5836b78192d75881b3891380f44a1e1ca88655bfd"
 
@@ -918,7 +922,7 @@ hash = "e06cfcf6a7b2cfc729a29754c28976ac8e9a4accb298c734d35226c3fa7a7bef"
 
 [[files]]
 file = "config/conarm.cfg"
-hash = "d9db67b388e00528c495613fda46fcc9abcac8e52b4451ba3aea5b81dd765ebb"
+hash = "a982b8a38e7376da624b0f7c229cde58769f14f0e99820a4227b39f111a7884d"
 
 [[files]]
 file = "config/craftingtweaks.cfg"
@@ -1102,7 +1106,31 @@ hash = "28e572c7e27e276012f39ed1ff90a4b90ab85dbc0760e550883a10facbf974ef"
 
 [[files]]
 file = "config/openblocks.cfg"
-hash = "3466f0af3ec2f26610494f3a6134a04e7f2a82409b6fc9c3a593d9aeb3d842bc"
+hash = "1661b4e9d8adeb65053afe74ad246979c91fff25f8332af4b65071b42cfe5142"
+
+[[files]]
+file = "config/opencomputers/default.recipes"
+hash = "83e92db8906351e470d13907bab0516febfdba6abf9de6f7abe3970cdc64302a"
+
+[[files]]
+file = "config/opencomputers/gregtech.recipes"
+hash = "2c791acd28f72d75de0747f6fa95c197cc3abd0938a1929933c3926974462995"
+
+[[files]]
+file = "config/opencomputers/hardmode.recipes"
+hash = "07e0e81eab77fbebefa84eb25078e672b6f847ba7a88cc5e205593975fa6886b"
+
+[[files]]
+file = "config/opencomputers/peaceful.recipes"
+hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
+
+[[files]]
+file = "config/opencomputers/settings.conf"
+hash = "c1fd1c63a69b26f40725db6fbd325a26e00b6f4b2098cd07167011954b6b82b4"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
+hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
 
 [[files]]
 file = "config/openmods.cfg"
@@ -1166,7 +1194,7 @@ hash = "a79822078f00afb57450602beab4e3aa98c70b421ba9bf3fb205b3ec5676efd7"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "717f44a84f51db8a02e289b01e84a9bf8809f40e8665a1a9d61f51d1636e15f9"
+hash = "97b00af2d8898a61895e304c5f1348a0a3bbd127e426615e580367ad7fef13c0"
 
 [[files]]
 file = "config/teamreborn/configData.nbt"
@@ -1275,6 +1303,11 @@ metafile = true
 [[files]]
 file = "mods/aether.pw.toml"
 hash = "7ff0de96be3db1d73f5a93c38641f94686f45e5d63dbabb9fa35dc06de7a96ed"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
@@ -1695,6 +1728,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-renewal.pw.toml"
 hash = "41bc6b21cfe69d583ee595d9691ac082bf5a8a950777199df2df537e268b33de"
+metafile = true
+
+[[files]]
+file = "mods/initial-inventory.pw.toml"
+hash = "60331cee154213030ad24e7df7d3d642e27620875d75628d619c164c302626ac"
 metafile = true
 
 [[files]]
@@ -2521,6 +2559,10 @@ hash = "de47420ce43a9ad6993ca4f20b70cf4e106b971f45fa1bab58ed3b0aded24c3c"
 [[files]]
 file = "scripts/generalBalance.zs"
 hash = "b3c70707e5b08f15d57b32da0f0b5d69399fe46e9ad39551c805b45c3f44d55d"
+
+[[files]]
+file = "scripts/guiasSpawn.zs"
+hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
 file = "scripts/misc.zs"
