@@ -1901,6 +1901,11 @@ hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
 metafile = true
 
 [[files]]
+file = "mods/mrtjpcore.pw.toml"
+hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
+metafile = true
+
+[[files]]
 file = "mods/mtlib.pw.toml"
 hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
@@ -2003,6 +2008,16 @@ metafile = true
 [[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "e0625670634c7616fcb0f4ee6d1dcaeadb143ae3af4178b88c48d09ad564ac3f"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
 metafile = true
 
 [[files]]
