@@ -1571,6 +1571,11 @@ hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
 metafile = true
 
 [[files]]
+file = "mods/endertanks.pw.toml"
+hash = "fd17f18473a37ce3ae4391136c844b703fa09343fc7017f9da840e60b9c49232"
+metafile = true
+
+[[files]]
 file = "mods/endertweaker.pw.toml"
 hash = "956fd20951d1f7486e08cd1d02d83df5c4cabd4bee42814cd8ae6172830bc7aa"
 metafile = true
