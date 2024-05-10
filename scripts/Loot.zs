@@ -3,6 +3,8 @@ import crafttweaker.item.IItemTransformer;
 import loottweaker.LootTweaker;
 import loottweaker.vanilla.loot.LootTable;
 import loottweaker.vanilla.loot.LootPool;
+import loottweaker.vanilla.loot.Functions;
+
 
 // IC2
 LootTweaker.getTable("ic2:chests/simple_dungeon").clear();
@@ -36,7 +38,48 @@ LootTweaker.getTable("minecraft:chests/desert_pyramid").getPool("main").removeEn
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("abyssalcraft:copper_ingot");
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("abyssalcraft:tin_ingot");
 
+//IE
+val engineers_house = LootTweaker.getTable("immersiveengineering:chests/engineers_house").getPool("immersiveengineering:engineers_village_house_0");
+engineers_house.removeEntry("copper_ingot");
+engineers_house.addItemEntry(
+    <thermalfoundation:material:128>,
+    10,
+    0,
+    [Functions.setCount(1, 4)],
+    [],
+    "copper_ingot_new"
+);
 
+engineers_house.removeEntry("aluminium_ingot");
+engineers_house.addItemEntry(
+    <thermalfoundation:material:132>,
+    10,
+    0,
+    [Functions.setCount(1, 4)],
+    [],
+    "aluminium_ingot_new"
+);
 
+engineers_house.removeEntry("lead_nugget");
+engineers_house.addItemEntry(
+    <thermalfoundation:material:195>,
+    9,
+    0,
+    [Functions.setCount(1, 4)],
+    [],
+    "nombreEntry_new"
+);
+
+engineers_house.removeEntry("silver_nugget");
+engineers_house.addItemEntry(
+    <thermalfoundation:material:194>,
+    7,
+    0,
+    [Functions.setCount(1, 2)],
+    [],
+    "silver_nugget_new"
+);
+
+engineers_house.removeEntry("nugget_nickel");
 
 
