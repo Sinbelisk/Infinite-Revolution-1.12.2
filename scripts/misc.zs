@@ -32,3 +32,10 @@ val EFLN = <tconstruct:throwball:1>;
 recipes.remove(EFLN);
 recipes.addShapeless("newEFLN",EFLN, [<thermalfoundation:material:772>,<ic2:fluid_cell>.withTag({Fluid: {FluidName: "oil_dwarf", Amount: 1000}}).transformReplace(<ic2:fluid_cell>), <ic2:crafting:16> ,<thermalfoundation:material:771>]);
 
+// STEEL DUST
+val flintAndSteel = <minecraft:flint_and_steel>;
+val flint = <minecraft:flint>;
+val steelIngot = <ore:ingotSteel>;
+
+//Flint AND STEEL!!!!
+recipes.replaceAllOccurences(<minecraft:iron_ingot>, steelIngot, flintAndSteel);
