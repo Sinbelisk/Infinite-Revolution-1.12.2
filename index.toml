@@ -10,7 +10,7 @@ hash = "25eafc08a978882d5b1b1dc27019b42357b74c5491f02da4b60610dc9f551b57"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "cfe070ea983c65235fddc60d84d46d04b818de941fd88f90e8cd877e7e546d52"
+hash = "48a2fea10ce58898eb20405848e80d7a7a1453dcd70016aa567901dd3fd369f8"
 
 [[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
@@ -1666,6 +1666,11 @@ hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
 metafile = true
 
 [[files]]
+file = "mods/galacticrafttweaker.pw.toml"
+hash = "1096a10f0beeddf1ba1ff2e09797260483291c313d0005a8c886713d2ef3d459"
+metafile = true
+
+[[files]]
 file = "mods/growthcraft-community-edition.pw.toml"
 hash = "27bc51046e42f4c4ad64e2dfc40872df13ac5338276efec28c898028d87a2f79"
 metafile = true
@@ -2541,6 +2546,10 @@ file = "scripts/SphereWorld.zs"
 hash = "76acd72464b78f0802f9165ec78f2ee17da5c1c3b9a4b6df7879d1fb33711448"
 
 [[files]]
+file = "scripts/appliedenergistics/AEBalance.zs"
+hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
+
+[[files]]
 file = "scripts/avaritiaRework.zs"
 hash = "963b0e917f06a09bcc42a216b3e1659ce5ad82536a9bb3f952e803802510450c"
 
@@ -2581,12 +2590,36 @@ file = "scripts/toolsAndWeapons.zs"
 hash = "6bd9b8132782cafe1d6d9df3dd81c55fcd5ab20d787c2030da94289981409585"
 
 [[files]]
+file = "structures/active/Aether_skyStoneIsland_1.rcst"
+hash = "4c84baadd036b293d9a8ad537fd78a6890ab02c3f10874a2da4f28a85bd4072e"
+
+[[files]]
+file = "structures/active/Aether_skyStoneIsland_Presses.rcig"
+hash = "47c159d13900e084b8b8c77e031676166bfcfd155ed96b6bbe1cb6631b52db79"
+
+[[files]]
+file = "structures/active/Aether_skyStoneIsland_lootTable.rcig"
+hash = "d068972294041ecf89067bec9dc0bf1114dc882ad7f78f343fa65b0232dfed42"
+
+[[files]]
+file = "structures/active/aether_dim.rcdp"
+hash = "55a434e94dcd9aac3c924a2020fc00c3af394f4e68a92dd21be2359ea6c9aaf2"
+
+[[files]]
 file = "structures/active/mars.rcdp"
 hash = "57080bdc0f16c866edcaa9fbdb3ef38b1af44e9959ab19699903c3cf9e69b10c"
 
 [[files]]
 file = "structures/active/mars_st_ruins_1.rcst"
 hash = "b6fcb915cf237beacaab02700a8e8c5d4b4be9402121db55ee8f53655a5834a2"
+
+[[files]]
+file = "structures/active/skyStoneIsland_MiscLoot.rcig"
+hash = "8e3562875ef3b6e1532c960448b61c784360cd160582434286cb6ded932c37e3"
+
+[[files]]
+file = "structures/active/skyStoneIsland_Presses.rcig"
+hash = "47c159d13900e084b8b8c77e031676166bfcfd155ed96b6bbe1cb6631b52db79"
 
 [[files]]
 file = "structures/inactive/test.rcst"
