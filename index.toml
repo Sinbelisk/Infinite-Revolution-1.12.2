@@ -1262,7 +1262,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.0_MODPACK.jar"
-hash = "2eb2363e0723f566fa04f6b751a2281d9424361286ae3d8df68a90236dffb031"
+hash = "cb0f0a97cbb480545026d609e98e1973c5d79f4fc160c0fcb859c50b45a0f3ba"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -1672,6 +1672,11 @@ metafile = true
 [[files]]
 file = "mods/galacticraft-legacy.pw.toml"
 hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
+metafile = true
+
+[[files]]
+file = "mods/galacticrafttweaker.pw.toml"
+hash = "1096a10f0beeddf1ba1ff2e09797260483291c313d0005a8c886713d2ef3d459"
 metafile = true
 
 [[files]]
