@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Infinite_Revolution_v3.png"
-hash = "bfb286ed3b4aa1ea56cf3ac142bed45efb40906edc7952a50c50fb588dc92a2f"
+file = "Infinite_Revolution_Logo_v4.png"
+hash = "3675a0dd25c3dcd3d9530a0b476daafc10bf70b346c76450b06ac34172b3c5a8"
 
 [[files]]
 file = "README.md"
@@ -43,6 +43,10 @@ hash = "e15ed6fd9ff4d5a8facc9f4a7fec3db1cb658af7387233d9ca0b3901120cd371"
 [[files]]
 file = "config/ChickenChunks.cfg"
 hash = "d80f93947603aabe6e5706de76e67cefd8420967f01bc65e9f33c7b2c7536585"
+
+[[files]]
+file = "config/CustomMainMenu/mainmenu.json"
+hash = "ed5bc9c8b5da204415abd1abfb0191b4cf0de8e03c3f7b93195cd4e2eb31e00e"
 
 [[files]]
 file = "config/DraconicEvolution.cfg"
@@ -1021,6 +1025,14 @@ file = "config/ironchest.cfg"
 hash = "6069282a9cf2a7047073120d602c7f54e6b642b52be4329787e95af97246d2be"
 
 [[files]]
+file = "config/itlt.cfg"
+hash = "96171f3f84678f81eec8ff3390ee3ab0f74ed848a39f23d464df02ecc6516416"
+
+[[files]]
+file = "config/itlt/icon.png"
+hash = "1bf030ecf0c02edef263ee059a0881fe8e221f4af947008467bfcde29e766b9a"
+
+[[files]]
 file = "config/jade.cfg"
 hash = "61b0868fa4bd922785d8c3fabd5d7273f20538f1ea6ab1c5fa0a7f6b4294ff4e"
 
@@ -1261,8 +1273,8 @@ file = "config/xreliquary.cfg"
 hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
-file = "mods/Infinite_Revolution_1.12.2_1.0_MODPACK.jar"
-hash = "cb0f0a97cbb480545026d609e98e1973c5d79f4fc160c0fcb859c50b45a0f3ba"
+file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
+hash = "b5a43be43bebeb0d78921535c4f0c2a84965cb27bb4fbda9c22065d2448fcd5b"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -1312,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
+metafile = true
+
+[[files]]
+file = "mods/ambience-music-mod.pw.toml"
+hash = "a5aad68b85fc808dba7e4f569d2999ac03fb12289c470c8866a3e23be9102f9b"
 metafile = true
 
 [[files]]
@@ -1522,6 +1539,11 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "ffecbfb48490b9b6b713077e8e2cf89a5a3335cc5d5240ed5e260e962e3eedee"
+metafile = true
+
+[[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true
 
 [[files]]
@@ -1752,6 +1774,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/its-the-little-things.pw.toml"
+hash = "1b6cf0ab6aac5e5884646289cfdd018b2f0878cf906def0e9fc8aca58dabc2d9"
 metafile = true
 
 [[files]]
@@ -2080,6 +2107,11 @@ hash = "1b4a0a19615a8b8ed0d78ddfd05fa3ee59f7050a8a4490de0e800115c0b66885"
 metafile = true
 
 [[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "5b23fff02027846cadc887ffe26fce12a4e20bdee2cc0c06732897a44f364357"
+metafile = true
+
+[[files]]
 file = "mods/rsinfinitewireless.pw.toml"
 hash = "49366e14caa36db1cb88e26d048f14055df7a35f52aa873875f5b1aacbef2f7e"
 metafile = true
@@ -2257,6 +2289,222 @@ metafile = true
 [[files]]
 file = "resources/artifacts/textures/entity/mimic/mimic.png"
 hash = "ea7a6709d35a5c9fd1132ca6caaa74f6be33cb4594c627b4cb5679a393483eb1"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0001.jpg"
+hash = "4ec91d35fe84ce462aff2599953adde6aad04e9cfe000f60743b759fce8c7e99"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0002.jpg"
+hash = "1a5e8e3a22f9cfc458562f0b57d57438910308e4a84aae0c1dde2347a7a83c52"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0003.jpg"
+hash = "aee53076c6ee21bf7e4445aa454db349679fbc638d88faf270f6012b24443319"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0004.jpg"
+hash = "0b5c292661fabbc7e6b7753652c987a12367cd9e1b5ce2296c6ecba0fb5d161d"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0005.jpg"
+hash = "5b80e3b42198bdd79a31c4306337f1cd3e5f02a9c4fa43de9e76604df56ec34f"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0006.jpg"
+hash = "c0520d3232f6189b17290dc55ccac9b5e7b4715725a47f9f6c492c91dab7adc8"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0007.jpg"
+hash = "6d99b4fc509a05159945a901352a2aa1e9681d31632af438bd416d8f4facaad4"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0008.jpg"
+hash = "3ac6e887669b8af9809be974e57d362a1f81f31c34c1c611e7ba3adbc52771a7"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0009.jpg"
+hash = "e46f07ab7de5c19a67f25702d13885163ebf6b335868ec5f86ad0eff64abe737"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0010.jpg"
+hash = "a3846efc9aa6495bafb0227d4468181ee2286be2048e1ddabb5f892ceb212b27"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0011.jpg"
+hash = "fe10d18fa12f8fc1d6eba9d98d303653d9a7e15c583d832e9b2f97e3a2ba6427"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0012.jpg"
+hash = "26b4646808461f8e87d14b4605992bbd045e582d93a45c82c80e930f4ca474bd"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0013.jpg"
+hash = "6237997a8d8d214ca3365ad823bfb82f66d5abfbc822f2ab0a4d0dcb905b17cd"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0014.jpg"
+hash = "58a37fdff31577ef4bb79ca3a6d63ca9816a35dba847db4f2150e54e5c0c2400"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0015.jpg"
+hash = "1ec0cdb45a7dea5b889f542a935baa3bc16127418a1c609a49d3de509ea854b3"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0016.jpg"
+hash = "18bc3d53217666e4f94b7aad23e88bf6b044ba5d9ac8dd1da0074bfbcf0e382e"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0017.jpg"
+hash = "6ec3ac6b2ed9b760b9235201a182db42f627088a8d0096081bca402978a8ab4f"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0018.jpg"
+hash = "0802515bc9fe2df8ac0f57c09f5bdf94a9499af753ee991e481b9267ccb12450"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0019.jpg"
+hash = "8d0a55f4a80f4393e99944c131e3aa3051d82e4c815882b13020f524f668eec1"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0020.jpg"
+hash = "90f24250d1c233568bbb1683286ecb67f03ac20b72534a574fc342000c161461"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0021.jpg"
+hash = "2de5975ad00d8120cb65d4193d12b44fb5b587fff74946d12c51e408a8709aaa"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0022.jpg"
+hash = "ff29ce730d20d6e203e4fc655ed89334e1e58d39fbd042eb23191d9949ad4a33"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0023.jpg"
+hash = "4bc75ff6fbe649aeb64629d1d7646b7e6799ea26a31904843032c6fb3be62314"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0024.jpg"
+hash = "0d71a9be2c5095bcf9939a93cb4c9cb302cb5ad283ca6127f0cc544ea236cc95"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0025.jpg"
+hash = "ed8c79881b04c7dcf623fd10b1debe4a297ee96b84503cf5eb751e9f3c629181"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0026.jpg"
+hash = "8bd3e424368b34f7827d35a8b96360aba365411775e8a5cd97b8a9efcc23cdb6"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0027.jpg"
+hash = "2f958c0d6ed8a55f1c6ce3bfd529c6194f1031588728850f780ecc638f5f893c"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0028.jpg"
+hash = "5d3149073363582113f0bd588c6a94465bc06457eb6434eda4331656b4497d11"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0029.jpg"
+hash = "4220a351a1ad69039e38e35e299dda73dc6c2dbfca3335ce4846539e4cfba899"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0030.jpg"
+hash = "4a937be7c2069531e69a917ee16a2326143e2becd93bcd04fed54e5b6f7e0bc0"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0031.jpg"
+hash = "3fb9f0c97e5f0222563c2c585683e09a01fbb5a05d8d6e49138f70150b465e3a"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0032.jpg"
+hash = "4d47dec9c88a59102c27a4c14e0ac95ad5a54221767c1753e577274896d0e1a5"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0033.jpg"
+hash = "89b5a82096336c2ad35fa3dcba2c1067b759402a198f1e1fd95129398dc47792"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0034.jpg"
+hash = "c9804a3fbe08721d54b0e264494e5a5f8c74446d6eda8e3308cf12ff8c090d74"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0035.jpg"
+hash = "2a2c0c35719f2d63139de5738dd734ae15a323188fa30313c78af0aeee4c0de1"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0036.jpg"
+hash = "c10ec598952290baf1fd6c75e80251ea2472f04fa5192743968162101730074b"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0037.jpg"
+hash = "fc2fad5a31924c868a0e781548c649820b5be9d933ea4ea1f427b9772cdc1b72"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0038.jpg"
+hash = "4f76ee635aa42d839aa4be8efc9e8715f1fc866c1f5e535cd3f7b56307bbcf4c"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0039.jpg"
+hash = "bf6d4e85f8ff8272626dd1c3f2a6a4b5800349b13534ca8fce1750c3dde28087"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0040.jpg"
+hash = "aef2aac51636d8005c6ba58c74c3f3923eb833f05110c20c1a12bdbb4031324a"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0041.jpg"
+hash = "1c97f1d4418491eb4064b6dd1dbe5e57d7009936ce80d11716e98c62fc92944c"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0042.jpg"
+hash = "af56bd2c6e617da3ddf43d53167521c033802f2ab366dc06881d4e6b983c1e41"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0043.jpg"
+hash = "a9bea6c63021dd0dd365497882198dec9fe067fd46e8640f89916306718553e1"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0044.jpg"
+hash = "aee66edc5c5d918e73340b72757b4dd824b8d4b7c897dabcaf45bd0c5d18cd2d"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0045.jpg"
+hash = "3e24cf47ba3e7fbbe71e2a417cb63db5ba2c530d38a7718fcccc515ef9d0b9ec"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0046.jpg"
+hash = "838a8f045108cc5921a07140a1bf1a1d0bb165f3d5a27daa794268ec79c35386"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0047.jpg"
+hash = "ec7b059686e6e6831b279327237f07514b1c615ad6395afa58e8fd593e30675d"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0048.jpg"
+hash = "decea77a76760a0d271e9f3f2558f70b08431a648c1c8c4ce1e1ff4f1900021b"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0049.jpg"
+hash = "f1c1ecb5675c1f40c4e65b8fb281cbef5aff4e4a58016f5b66c4cf4ee5b7658b"
+
+[[files]]
+file = "resources/custommainmenu/background/no_out0050.jpg"
+hash = "16f2ef734bc0aa976ed820e44a6559abaf7814b46bbea730c3535ce5aa501437"
+
+[[files]]
+file = "resources/custommainmenu/button.png"
+hash = "97b9bee57d169116092834d4b0972409d848664886d94896414d188de95c5a2c"
+
+[[files]]
+file = "resources/custommainmenu/core_column.png"
+hash = "e8b4934017d68f6dfed11c2b4b2bbdba8bc11314ed51e0a3785af1dc697cf65c"
+
+[[files]]
+file = "resources/custommainmenu/github.png"
+hash = "9e456cb796f80ad16b4a1d3b89c17c0c9c592c671129d9189344ab37ac2a6316"
+
+[[files]]
+file = "resources/custommainmenu/logo.png"
+hash = "2f487131e2c358da91248f652f41928a10e5c6d231dee08f4a928c76020b8e57"
 
 [[files]]
 file = "resources/extraplanets/textures/items/compressed_mercury.png"
@@ -2564,7 +2812,7 @@ hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
-hash = "5c6de57657b2abccf9d6d025fb0d75a9bfa2fdb35a0cb0692dd876b6d20b7d17"
+hash = "6bde4ea8b49b6e63ae61f3bf9c957c3bf8cff1c52b623439d67cd59f26250fb8"
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -2607,8 +2855,12 @@ file = "scripts/draconicXAvaritia.zs"
 hash = "de47420ce43a9ad6993ca4f20b70cf4e106b971f45fa1bab58ed3b0aded24c3c"
 
 [[files]]
+file = "scripts/galacticCompat.zs"
+hash = "4580bf0b065809f5bae0667b5d488a2177be1862321431f366c6c277db4f80ec"
+
+[[files]]
 file = "scripts/generalBalance.zs"
-hash = "b3c70707e5b08f15d57b32da0f0b5d69399fe46e9ad39551c805b45c3f44d55d"
+hash = "a90d8eab82755f13885edb283bce078bcee9ff7e0da5abf0872178423e91c5e0"
 
 [[files]]
 file = "scripts/guiasSpawn.zs"
