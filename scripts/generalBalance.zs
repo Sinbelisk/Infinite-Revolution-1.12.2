@@ -30,3 +30,10 @@ val empty = [
 ] as IIngredient[];
 
 moretweaker.draconicevolution.FusionCrafting.add(<draconicevolution:chaos_shard> * 2, <draconicevolution:chaos_shard>, FusionCrafting.CHAOTIC, 1000000000000, empty);
+
+recipes.remove(<galacticraftcore:rocket_workbench>);
+recipes.addShaped("newNasaWorkbenchCraft", <galacticraftcore:rocket_workbench>, [
+    [<galacticraftcore:heavy_plating>, <avaritia:double_compressed_crafting_table>, <galacticraftcore:heavy_plating>],
+    [<ic2:crafting:2>, <galacticraftcore:machine2:4>, <ic2:crafting:2>],
+    [<ic2:resource:11>, <galacticraftcore:basic_item:14>, <ic2:resource:11>]
+]);
