@@ -12,7 +12,7 @@ with open('advancements.csv', 'r', encoding="utf-8") as file:
             name = row['Name']
             requirement=row['requirement']
 
-            outputfile.write(f'add("{id}", "{message}", {items})\n')
+            outputfile.write(f'add("{id}", "{message}", "[{items}]");\n')
 
 
             
