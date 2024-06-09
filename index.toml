@@ -34,7 +34,7 @@ hash = "cae6996e8eff4acc605725ed366a94c9c200fc7a36a5170ab200c660d580ae45"
 
 [[files]]
 file = "config/Bewitchment.cfg"
-hash = "51772a0fb2a5feea8ca567897c6bb805951732efea3aec09fe1fff625e328f2d"
+hash = "1dc7b577d91cd913df257b5e6508ffce903ded463041fa329a4ac86fca3f1921"
 
 [[files]]
 file = "config/Building Gadgets.cfg"
@@ -222,7 +222,7 @@ hash = "8fd75a810715898ea9dd76418c11b4cc1ce600f9aa4b7a7edfb9016bd75f1246"
 
 [[files]]
 file = "config/adlods/Deposits/zinc.cfg"
-hash = "24486ea398a53c3849fc05d8de0e3dc811d86fec856a4fe501816d65ddf6b5cc"
+hash = "2a90646b994a3bd2ba29693fe149f3a3065e9ce6e38533b79c5b3fc36434312b"
 
 [[files]]
 file = "config/adlods/VanillaGen/andesite.cfg"
@@ -1102,7 +1102,7 @@ hash = "7a16ae499982fd34f09ca28fe29f0570842f99149eed06150aa3cec4744fbed3"
 
 [[files]]
 file = "config/mysticalworld.cfg"
-hash = "fa0640a3bef96106cfa03a2c1c766fc5b27d96e89cb7087403714177eb4e455e"
+hash = "823f0ead66628e4328b934f19e8455e48089a62b0f1f9d1dcb5e8a4945e73382"
 
 [[files]]
 file = "config/naturescompass.cfg"
@@ -1170,7 +1170,7 @@ hash = "82d9ff08dfcf49c81b66438b5d6c819d89958b6e4f4d6cc077623481315b7b12"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "48599b1aca3adab939ab261371ec52ce287ce6fd340ccabc501cecae966f5c43"
+hash = "57d8ae75c69e3bf35ae2ef819ffe8aeb0235e4a1e210f860c4f7fddab19317ca"
 
 [[files]]
 file = "config/splash.properties"
@@ -2568,11 +2568,27 @@ hash = "5c6de57657b2abccf9d6d025fb0d75a9bfa2fdb35a0cb0692dd876b6d20b7d17"
 
 [[files]]
 file = "scripts/Loot.zs"
-hash = "cda8d2d6cee10f073c6eead70eba83ffe995e265d317a06e7d5af2f1703cf6e8"
+hash = "5fbd2297df98002f07f37e52cc5051417f86dedd99df1ae9ad97508c4804048c"
 
 [[files]]
 file = "scripts/SphereWorld.zs"
 hash = "76acd72464b78f0802f9165ec78f2ee17da5c1c3b9a4b6df7879d1fb33711448"
+
+[[files]]
+file = "scripts/advancements/advancementDictionaries.zs"
+hash = "026767e56991f0a7db6db8ed7b0490a7c21fc590a61722dfa19a3adc61b27ea6"
+
+[[files]]
+file = "scripts/advancements/advancements.csv"
+hash = "1e1f29f54fcb2ccfac3f878dda5f0727ed9aad2d25f4ff549fc4beaf413101d3"
+
+[[files]]
+file = "scripts/advancements/advancementsLoot.zs"
+hash = "a0ec30799f3834a90ac7324aabd8ef48c6fbe7abd2a2e54947bd122387c393c3"
+
+[[files]]
+file = "scripts/advancements/csvToCode.py"
+hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
 
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
@@ -2599,8 +2615,20 @@ file = "scripts/guiasSpawn.zs"
 hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
+file = "scripts/lootboxesLootTables/boxesandkeys.csv"
+hash = "32b5af014c9e6d10f2486717845524411fe7b2a61cfd821e9ec624c3299c5e1f"
+
+[[files]]
+file = "scripts/lootboxesLootTables/csvToCodeLootTables.py"
+hash = "d3053dc85c87db1ddfc4d085ed0df73af31f30f762b2f621dfaa7afbc873a190"
+
+[[files]]
+file = "scripts/lootboxesLootTables/lootboxesAndKeys.zs"
+hash = "fa1e148376bc98a3e77601407ef2b8d0aa321f86784833dc8e521efd67d44644"
+
+[[files]]
 file = "scripts/misc.zs"
-hash = "3959b2f5cc13071c50fdba5c1f6fa9ad7ac15f0206a82928921e42d7d7d0e581"
+hash = "10584b13908a704efb44b89ec594b1641b8e0a497846330d2b469ec1c8e9bb04"
 
 [[files]]
 file = "scripts/mystical.zs"
