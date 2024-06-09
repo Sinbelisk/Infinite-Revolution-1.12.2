@@ -9,6 +9,14 @@ file = "README.md"
 hash = "25eafc08a978882d5b1b1dc27019b42357b74c5491f02da4b60610dc9f551b57"
 
 [[files]]
+file = "ambience_music/ambience.properties"
+hash = "a178fca8f3f450dee0e6f73ce5ef79461daa0480b214237d60883a1fd9e3f7b6"
+
+[[files]]
+file = "ambience_music/music/opp_ost.mp3"
+hash = "e673ebb2531f5ff521cd7306761f331ea0b6ab370f31d1578df96d243345c627"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "48a2fea10ce58898eb20405848e80d7a7a1453dcd70016aa567901dd3fd369f8"
 
@@ -1382,6 +1390,11 @@ hash = "d89dd31193a74be6ea9fce495bb85ee31028ea299c1d2d0741607c0347ef2127"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+metafile = true
+
+[[files]]
 file = "mods/better-builders-wands.pw.toml"
 hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
 metafile = true
@@ -1419,6 +1432,16 @@ metafile = true
 [[files]]
 file = "mods/blocklings.pw.toml"
 hash = "5d38da818a13524c116efaa1b295d04c34e0ccd8269843a52f3847f70b817a33"
+metafile = true
+
+[[files]]
+file = "mods/bnbgamingcore.pw.toml"
+hash = "83ab55aae52343f8e4fcdfe9b32cbbc670cbf0c656ded1f731302287da66d361"
+metafile = true
+
+[[files]]
+file = "mods/bnbgaminglib.pw.toml"
+hash = "85633fa044cc6ed074fb5e1e7a97a272abda513ba23e3561d953773e424dd851"
 metafile = true
 
 [[files]]
@@ -2227,6 +2250,11 @@ hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
 metafile = true
 
 [[files]]
+file = "mods/triumph.pw.toml"
+hash = "8137672b2e9682772d30abe84f818f752ef262a40e6214c42474f23ed8f7b28b"
+metafile = true
+
+[[files]]
 file = "mods/unidict.pw.toml"
 hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
 metafile = true
@@ -2812,7 +2840,7 @@ hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
-hash = "6bde4ea8b49b6e63ae61f3bf9c957c3bf8cff1c52b623439d67cd59f26250fb8"
+hash = "05bd34d3ed64b0a523ca4e17be14e90a1d89b7b58245d0410cd064c8bfe06d65"
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -2868,7 +2896,7 @@ hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
 file = "scripts/lootboxesLootTables/boxesandkeys.csv"
-hash = "32b5af014c9e6d10f2486717845524411fe7b2a61cfd821e9ec624c3299c5e1f"
+hash = "2eb07eba62bada7da0f03578862aa7d7f9300f714f01fcf680cc07784f60bfd4"
 
 [[files]]
 file = "scripts/lootboxesLootTables/csvToCodeLootTables.py"
@@ -2877,6 +2905,10 @@ hash = "d3053dc85c87db1ddfc4d085ed0df73af31f30f762b2f621dfaa7afbc873a190"
 [[files]]
 file = "scripts/lootboxesLootTables/lootboxesAndKeys.zs"
 hash = "fa1e148376bc98a3e77601407ef2b8d0aa321f86784833dc8e521efd67d44644"
+
+[[files]]
+file = "scripts/lootboxesLootTables/output_code.txt"
+hash = "627e2e9bc05768e0177f6538426dbd8ba0f6d50024a954c13ee2100be1bcd8d6"
 
 [[files]]
 file = "scripts/misc.zs"
