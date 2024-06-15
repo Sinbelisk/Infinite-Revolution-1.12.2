@@ -1976,6 +1976,11 @@ hash = "a5aad68b85fc808dba7e4f569d2999ac03fb12289c470c8866a3e23be9102f9b"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "cab514b6b6236a357fde4ef97e2f4ffefa039a4735c315a43558d111aa2fe799"
+metafile = true
+
+[[files]]
 file = "mods/aroma1997core.pw.toml"
 hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
