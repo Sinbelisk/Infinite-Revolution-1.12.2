@@ -5,6 +5,7 @@ import mods.ic2.Macerator;
 import mods.thermalexpansion.Compactor;
 import mods.ic2.MetalFormer;
 import mods.ic2.BlockCutter;
+import moretweaker.draconicevolution.FusionCrafting;
 
 //Infinite Revolution Star
 mods.avaritia.ExtremeCrafting.addShaped("infiniteRevolutionStarCraft", <infinite_revolution:ir_star>,
@@ -137,7 +138,7 @@ mods.avaritia.ExtremeCrafting.addShaped("infiniteLootBoxCraft", <infinite_revolu
 
     [null, null, <avaritia:resource:4>, <avaritia:resource:1>, <avaritia:resource:5>, <avaritia:resource:1>, <avaritia:resource:4>, null, null],
 
-    [null, null, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:1>, <avaritia:resource:5>, <avaritia:resource:4>, null, null],
+    [null, null, <avaritia:resource:4>, <avaritia:resource:5>, <avaritia:resource:6>, <avaritia:resource:5>, <avaritia:resource:4>, null, null],
 
     [null, null, <avaritia:resource:4>, <avaritia:resource:1>, <avaritia:resource:5>, <avaritia:resource:1>, <avaritia:resource:4>, null, null],
 
@@ -211,3 +212,19 @@ mods.avaritia.ExtremeCrafting.addShaped("infiniteKeyCraft", <infinite_revolution
 
     [null, <avaritia:block_resource>, <avaritia:block_resource>, null, null, null, null, null, null],
 ] );
+
+//Lootbox Fortune tier
+
+//recipes.addShapeless(, []);
+
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox>, FusionCrafting.WYVERN, 4096000, [<infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>, <infinite_revolution:trinium_lootbox>]);
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:1>, FusionCrafting.DRACONIC, 256000000, [<infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>, <infinite_revolution:trinium_lootbox:1>]);
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:trinium_lootbox:3>, <infinite_revolution:trinium_lootbox:2>, FusionCrafting.CHAOTIC, 2048000000, [<infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>, <infinite_revolution:trinium_lootbox:2>]);
+
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:neutronium_lootbox:1>, <infinite_revolution:neutronium_lootbox>, FusionCrafting.WYVERN, 4096000, [<infinite_revolution:neutronium_lootbox>, <infinite_revolution:neutronium_lootbox>]);
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:neutronium_lootbox:2>, <infinite_revolution:neutronium_lootbox:1>, FusionCrafting.DRACONIC, 256000000, [<infinite_revolution:neutronium_lootbox:1>, <infinite_revolution:neutronium_lootbox:1>]);
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:neutronium_lootbox:3>, <infinite_revolution:neutronium_lootbox:2>, FusionCrafting.CHAOTIC, 2048000000, [<infinite_revolution:neutronium_lootbox:2>, <infinite_revolution:neutronium_lootbox:2>, <avaritiatweaks:enhancement_crystal>]);
+
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:infinite_lootbox:1>, <infinite_revolution:infinite_lootbox>, FusionCrafting.WYVERN, 4096000, [<infinite_revolution:infinite_lootbox>, <infinite_revolution:infinite_lootbox>]);
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:infinite_lootbox:2>, <infinite_revolution:infinite_lootbox:1>, FusionCrafting.DRACONIC, 256000000, [<infinite_revolution:infinite_lootbox:1>, <infinite_revolution:infinite_lootbox:1>]);
+moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:infinite_lootbox:3>, <infinite_revolution:infinite_lootbox:2>, FusionCrafting.CHAOTIC, 2048000000, [<infinite_revolution:infinite_lootbox:2>, <infinite_revolution:infinite_lootbox:2>, <avaritiatweaks:enhancement_crystal>, <avaritiatweaks:enhancement_crystal>]);
