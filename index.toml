@@ -1918,7 +1918,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "b5a43be43bebeb0d78921535c4f0c2a84965cb27bb4fbda9c22065d2448fcd5b"
+hash = "59705818329a88111af59e78a77041a0df1207faa66820e5dd9a9174e29863e8"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -2008,6 +2008,11 @@ metafile = true
 [[files]]
 file = "mods/avaritia-1-10.pw.toml"
 hash = "6f23d45fe071155dd4f3014e7b9f4af7b1336bfbe1c34f8aa23343cc80be3cf2"
+metafile = true
+
+[[files]]
+file = "mods/avaritia-tweaks.pw.toml"
+hash = "276a9f45b73e88c9ae0489f2588b3970b7a542b90e1beb747177e4720450bdae"
 metafile = true
 
 [[files]]
@@ -2373,6 +2378,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
@@ -3481,7 +3491,7 @@ hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
-hash = "05bd34d3ed64b0a523ca4e17be14e90a1d89b7b58245d0410cd064c8bfe06d65"
+hash = "258024fc9263e0ada4f1a3b59698e25948fd47384fa75f69ccf845008b36eca5"
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -3497,7 +3507,7 @@ hash = "026767e56991f0a7db6db8ed7b0490a7c21fc590a61722dfa19a3adc61b27ea6"
 
 [[files]]
 file = "scripts/advancements/advancements.csv"
-hash = "ed8b4e22fedd3e1615f58e3efa021ed25b85f5f6cf9e5787b9db06cd62ed263d"
+hash = "315111b189b3aa2db5801d3940d2080acda3d8e70153081feb2327999bf67d5e"
 
 [[files]]
 file = "scripts/advancements/advancementsLoot.zs"
@@ -3513,7 +3523,7 @@ hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
 
 [[files]]
 file = "scripts/avaritiaRework.zs"
-hash = "963b0e917f06a09bcc42a216b3e1659ce5ad82536a9bb3f952e803802510450c"
+hash = "f5443a76fd1cc1c6578ffae6c1fce0592d0a3e964451f9f3407c0b8d91c66b2a"
 
 [[files]]
 file = "scripts/creativeCrafts.zs"
@@ -3521,7 +3531,7 @@ hash = "d946c6902016b282d9a7bf08b055f4e0becba5af9ad909dcdbbc34a0d99ff4f8"
 
 [[files]]
 file = "scripts/draconicXAvaritia.zs"
-hash = "de47420ce43a9ad6993ca4f20b70cf4e106b971f45fa1bab58ed3b0aded24c3c"
+hash = "42f2744875e919c7978896f8b08ac7ec1bd20b3db76e327e2c6160b88d0419e1"
 
 [[files]]
 file = "scripts/galacticCompat.zs"
@@ -3529,7 +3539,7 @@ hash = "4580bf0b065809f5bae0667b5d488a2177be1862321431f366c6c277db4f80ec"
 
 [[files]]
 file = "scripts/generalBalance.zs"
-hash = "a90d8eab82755f13885edb283bce078bcee9ff7e0da5abf0872178423e91c5e0"
+hash = "bef9ec895ca72d7d07cc642a3c430c12d534991b12af97b4e8e05766e8451594"
 
 [[files]]
 file = "scripts/guiasSpawn.zs"

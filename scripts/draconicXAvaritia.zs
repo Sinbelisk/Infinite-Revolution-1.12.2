@@ -507,7 +507,7 @@ mods.avaritia.ExtremeCrafting.addShaped("newWyvernPickaxeCraft", <draconicevolut
     
     [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <mysticalagriculture:supremium_pickaxe>, <draconicevolution:draconium_ingot>, <draconicevolution:wyvern_energy_core>, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
 
-    [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:energy_crystal:1>, <avaritia:resource:1>, <draconicevolution:energy_crystal:1>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
+    [<draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>, null, <draconicevolution:energy_crystal:1>, <infinite_revolution:trinium_ingot>, <draconicevolution:energy_crystal:1>, null, <draconicevolution:draconium_ingot>, <draconicevolution:draconium_ingot>],
 
     [null, null, null, null, <infinite_revolution:trinium_ingot>, null, null, null, null],
 

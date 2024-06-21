@@ -20,7 +20,7 @@ recipes.addShaped("newMegaTorchCraft", <torchmaster:mega_torch>, [
 
 recipes.remove(<ic2:crafting:2>);
 recipes.addShaped("newAdvancedCircuitCraft", <ic2:crafting:2>, [
-    [<ic2:cable:1>, <ic2:fluid_cell>.withTag({Fluid: {FluidName: "redstone_alloy", Amount: 1000}}), <ic2:cable:1>],
+    [<ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte}), <ic2:fluid_cell>.withTag({Fluid: {FluidName: "redstone_alloy", Amount: 1000}}), <ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte})],
     [<ic2:crafting:1>, <ic2:plate:14>, <ic2:crafting:1>],
     [<thermalfoundation:material:327>, <ic2:crafting:1>, <thermalfoundation:material:327>]
 ]);
@@ -37,3 +37,32 @@ recipes.addShaped("newNasaWorkbenchCraft", <galacticraftcore:rocket_workbench>, 
     [<ic2:crafting:2>, <galacticraftcore:machine2:4>, <ic2:crafting:2>],
     [<ic2:resource:11>, <galacticraftcore:basic_item:14>, <ic2:resource:11>]
 ]);
+
+recipes.remove(<ic2:te:22>);
+recipes.addShaped("newNasaWorkbenchCraft", <ic2:te:22>, [
+    [<ic2:plate:14>, <ic2:crafting:2>, <ic2:plate:14>],
+    [<ic2:te:24>, <ic2:te:24>, <ic2:te:24>],
+    [<galacticraftplanets:item_basic_asteroids:6>, <ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte}), <galacticraftplanets:item_basic_asteroids:6>]
+]);
+
+recipes.remove(<mob_grinding_utils:mob_swab>);
+mods.avaritia.ExtremeCrafting.addShaped("notCock", <mob_grinding_utils:mob_swab>,
+[
+    [null, null, null, null, null, null, <minecraft:wool>, <minecraft:wool>, null],
+    
+    [null, null, null, null, null, null, <minecraft:wool>, <minecraft:wool>, <minecraft:wool>],
+
+    [null, null, null, null, null, null, <botania:livingwood>, <minecraft:wool>, <minecraft:wool>],
+
+    [null, null, null, null, null, <botania:livingwood>, null, null, null],
+
+    [null, null, null, null, <botania:livingwood>, null, null, null, null],
+
+    [null, null, null, <botania:livingwood>, null, null, null, null, null],
+
+    [<minecraft:wool>, <minecraft:wool>, <botania:livingwood>, null, null, null, null, null, null],
+
+    [<minecraft:wool>, <minecraft:wool>, <minecraft:wool>, null, null, null, null, null, null],
+
+    [null, <minecraft:wool>, <minecraft:wool>, null, null, null, null, null, null],
+] );

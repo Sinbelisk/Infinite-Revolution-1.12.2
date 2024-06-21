@@ -296,3 +296,51 @@ mods.avaritia.ExtremeCrafting.addShaped("newCraftInfinityBoots", <avaritia:infin
 
     [null, null, null, null, null, null, null, null, null],
 ] );
+
+var matter = <ic2:fluid_cell>.withTag({Fluid: {FluidName: "ic2uu_matter", Amount: 1000}});
+var antimatter = <ic2:fluid_cell>.withTag({Fluid: {FluidName: "liquidantimatter", Amount: 1000}});
+var cable = <ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte});
+
+mods.avaritia.ExtremeCrafting.remove(<avaritia:neutron_collector>);
+mods.avaritia.ExtremeCrafting.addShaped("newNeutronCollectorCraft", <avaritia:neutron_collector>,
+[
+    [<enderio:block_alloy:3>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <avaritia:resource:1>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <enderio:block_alloy:3>],
+    
+    [<ic2:iridium_reflector>, null, matter, <ic2:te:24>, <ic2:crafting:4>, <ic2:te:24>, antimatter, null, <ic2:iridium_reflector>],
+
+    [<ic2:iridium_reflector>, antimatter, <ic2:te:22>, <ic2:crafting:2>, cable, <ic2:crafting:2>, <ic2:te:22>, matter, <ic2:iridium_reflector>],
+
+    [<ic2:iridium_reflector>, <ic2:te:24>, <ic2:crafting:2>, <extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>, <ic2:crafting:2>, <ic2:te:24>, <ic2:iridium_reflector>],
+
+    [<avaritia:resource:1>, <ic2:crafting:4>, cable, <extrautils2:compressedcobblestone:7>, <enderio:block_infinity:2>, <extrautils2:compressedcobblestone:7>, cable, <ic2:crafting:4>, <avaritia:resource:1>],
+
+    [<ic2:iridium_reflector>, <ic2:te:24>, <ic2:crafting:2>, <extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>, <ic2:crafting:2>, <ic2:te:24>, <ic2:iridium_reflector>],
+
+    [<ic2:iridium_reflector>, matter, <ic2:te:22>, <ic2:crafting:2>, cable, <ic2:crafting:2>, <ic2:te:22>, antimatter, <ic2:iridium_reflector>],
+
+    [<ic2:iridium_reflector>, null, antimatter, <ic2:te:24>, <ic2:crafting:4>, <ic2:te:24>, matter, null, <ic2:iridium_reflector>],
+
+    [<enderio:block_alloy:3>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <avaritia:resource:1>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <enderio:block_alloy:3>],
+] );
+
+mods.avaritia.ExtremeCrafting.remove(<avaritia:neutronium_compressor>);
+mods.avaritia.ExtremeCrafting.addShaped("newNeutroniumCompressorCraft", <avaritia:neutronium_compressor>,
+[
+    [<ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <avaritia:resource:1>, <avaritia:block_resource>, <avaritia:resource:1>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>],
+    
+    [<avaritia:resource:1>, <draconicevolution:crafting_injector:3>, <ic2:crafting:2>, null, <avaritia:resource:4>, null, <ic2:crafting:2>, <draconicevolution:crafting_injector:3>, <avaritia:resource:1>],
+
+    [<ic2:iridium_reflector>, <ic2:crafting:2>, <draconicevolution:fusion_crafting_core>, antimatter, <avaritia:neutron_collector>, matter, <draconicevolution:fusion_crafting_core>, <ic2:crafting:2>, <ic2:iridium_reflector>],
+
+    [<avaritia:block_resource>, null, matter, <sgcraft:ic2capacitor>, <ic2:iridium_reflector>, <sgcraft:ic2capacitor>, antimatter, null, <avaritia:block_resource>],
+
+    [<avaritia:block_resource>, <avaritia:resource:4>, <avaritia:neutron_collector>, <ic2:iridium_reflector>, null, <ic2:iridium_reflector>, <avaritia:neutron_collector>, <avaritia:resource:4>, <avaritia:block_resource>],
+
+    [<avaritia:block_resource>, null, antimatter, <sgcraft:ic2capacitor>, <ic2:iridium_reflector>, <sgcraft:ic2capacitor>, matter, null, <avaritia:block_resource>],
+
+    [<ic2:iridium_reflector>, <ic2:crafting:2>, <draconicevolution:fusion_crafting_core>, matter, <avaritia:neutron_collector>, antimatter, <draconicevolution:fusion_crafting_core>, <ic2:crafting:2>, <ic2:iridium_reflector>],
+
+    [<avaritia:resource:1>, <draconicevolution:crafting_injector:3>, <ic2:crafting:2>, null, <avaritia:resource:4>, null, <ic2:crafting:2>, <draconicevolution:crafting_injector:3>, <avaritia:resource:1>],
+
+    [<ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <avaritia:resource:1>, <avaritia:block_resource>, <avaritia:resource:1>, <ic2:iridium_reflector>, <ic2:iridium_reflector>, <ic2:iridium_reflector>],
+] );
