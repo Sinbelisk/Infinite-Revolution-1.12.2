@@ -1918,7 +1918,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "b5a43be43bebeb0d78921535c4f0c2a84965cb27bb4fbda9c22065d2448fcd5b"
+hash = "59705818329a88111af59e78a77041a0df1207faa66820e5dd9a9174e29863e8"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -3486,7 +3486,7 @@ hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
-hash = "05bd34d3ed64b0a523ca4e17be14e90a1d89b7b58245d0410cd064c8bfe06d65"
+hash = "258024fc9263e0ada4f1a3b59698e25948fd47384fa75f69ccf845008b36eca5"
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -3518,7 +3518,7 @@ hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
 
 [[files]]
 file = "scripts/avaritiaRework.zs"
-hash = "963b0e917f06a09bcc42a216b3e1659ce5ad82536a9bb3f952e803802510450c"
+hash = "f5443a76fd1cc1c6578ffae6c1fce0592d0a3e964451f9f3407c0b8d91c66b2a"
 
 [[files]]
 file = "scripts/creativeCrafts.zs"
@@ -3534,7 +3534,7 @@ hash = "4580bf0b065809f5bae0667b5d488a2177be1862321431f366c6c277db4f80ec"
 
 [[files]]
 file = "scripts/generalBalance.zs"
-hash = "a90d8eab82755f13885edb283bce078bcee9ff7e0da5abf0872178423e91c5e0"
+hash = "bef9ec895ca72d7d07cc642a3c430c12d534991b12af97b4e8e05766e8451594"
 
 [[files]]
 file = "scripts/guiasSpawn.zs"
