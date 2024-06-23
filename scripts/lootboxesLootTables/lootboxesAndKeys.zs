@@ -5,7 +5,7 @@ import loottweaker.LootTable;
 import loottweaker.LootPool;
 import loottweaker.Conditions;
 import loottweaker.Functions;
-
+ 
 print("[LOOTBOX KEY DICTIONARY ADDING] [START]");
 
 function getPoolName(id as string) as string{
@@ -80,6 +80,5 @@ function addLootToEntity(entityTableID as string, poolName as string, item as II
 //ADDING AREA :)
 addLootToEntity("abyssalcraft:entities/jzahar", getPoolName("box"), getLootBoxTier(3), 100, 3, 3);
 addLootToEntity("abyssalcraft:entities/jzahar", getPoolName("key"), getKeyTier(3), 100, 3, 3);
-
 
 print("[LOOTBOX KEY DICTIONARY ADDING] [END]");

@@ -2507,7 +2507,7 @@ metafile = true
 
 [[files]]
 file = "mods/loottweaker.pw.toml"
-hash = "46759c35547a9b4a6c138c796f3f66332846d05d5fde8802961f94147cd980c3"
+hash = "76f38619fe3e1eaf0ba418fca98082f1fb73a08d6f8758e5f113b8396b2cec42"
 metafile = true
 
 [[files]]
@@ -3547,7 +3547,7 @@ hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
 file = "scripts/lootboxesLootTables/boxesandkeys.csv"
-hash = "2eb07eba62bada7da0f03578862aa7d7f9300f714f01fcf680cc07784f60bfd4"
+hash = "3476193491bbfe2ad54f0a60cdb7e70dfd71ceb6571492fe1cfc50c672b4e63c"
 
 [[files]]
 file = "scripts/lootboxesLootTables/csvToCodeLootTables.py"
@@ -3555,11 +3555,11 @@ hash = "d3053dc85c87db1ddfc4d085ed0df73af31f30f762b2f621dfaa7afbc873a190"
 
 [[files]]
 file = "scripts/lootboxesLootTables/lootboxesAndKeys.zs"
-hash = "fa1e148376bc98a3e77601407ef2b8d0aa321f86784833dc8e521efd67d44644"
+hash = "ed6940dc0565ea703749232308d6c9995448c7c63614979fbfb81cbcce19a76e"
 
 [[files]]
 file = "scripts/lootboxesLootTables/output_code.txt"
-hash = "627e2e9bc05768e0177f6538426dbd8ba0f6d50024a954c13ee2100be1bcd8d6"
+hash = "1c023ab3c21ed59e8bfc2b3e042b8fb21d84745d10c4ef158210a782e25e4c9b"
 
 [[files]]
 file = "scripts/misc.zs"
