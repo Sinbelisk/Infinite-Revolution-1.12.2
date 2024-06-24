@@ -1,0 +1,18 @@
+setIcon(<avaritia:block_resource:1>)
+
+//Set the title String
+setTitle("Compressing the Infinity")
+
+//Set the description String
+setDescription("Compress Infinity Ingot into an Infinity Block.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfinityBlock", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:block_resource:1>)

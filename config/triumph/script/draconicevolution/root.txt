@@ -1,0 +1,28 @@
+//Set icon item
+setIcon(<draconicevolution:dislocator_advanced>)
+
+//Set title String
+setTitle("Draconic Evolution")
+
+//Set description String
+setDescription("Have Fun.")
+
+//Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
+setBackground("draconicevolution:textures/blocks/draconium_block.png")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(0,0)
+
+addCriteria("obtainNetherStarTR", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconium_ore:2>)
+
+addCriteria("obtainNetherStarTR", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconium_dust>)
+
+setRequirements("any")

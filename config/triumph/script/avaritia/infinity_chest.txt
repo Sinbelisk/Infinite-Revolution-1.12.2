@@ -1,0 +1,20 @@
+setIcon(<avaritiaddons:avaritiaddons_chest:1>)
+
+//Set the title String
+setTitle("Portable Pocket Dimension")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Get an Infinity Chest to solve all your storage problems.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(300,-30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfinityChest", "minecraft:inventory_changed")
+criteria.addItem(<avaritiaddons:avaritiaddons_chest:1>)

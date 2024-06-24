@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<avaritiaddons:infinity_compressor>)
+
+//Set the title String
+setTitle("Did i really need that?")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Yes.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_neutronium_compressor")
+
+//Set the position
+setPos(240,-30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasNeutroniumCompressor", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<avaritiaddons:infinity_compressor>)

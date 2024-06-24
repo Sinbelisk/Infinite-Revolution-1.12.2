@@ -1,0 +1,20 @@
+setIcon(<draconicevolution:fusion_crafting_core>)
+
+//Set the title String
+setTitle("Crafting With Energy")
+
+//Set the description String
+setDescription("Setup a Fusion Crafting Core and start crafting with energy")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:wyvern_core")
+
+//Set the position
+setPos(150,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasFusionCrafting", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<draconicevolution:fusion_crafting_core>)

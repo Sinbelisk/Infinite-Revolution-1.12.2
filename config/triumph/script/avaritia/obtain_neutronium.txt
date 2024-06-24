@@ -1,0 +1,22 @@
+//Set the icon item
+setIcon(<avaritia:resource:4>)
+
+//Set the title String
+setTitle("Comically dense Ingot")
+
+//Set the description String
+setDescription("Obtain Neutronium, an ingot with a mass of 3.33 quadrillion metric tons. Just don't think of how you can hold it...")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_neutronium_collector")
+
+//Set the position
+setPos(150,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+
+criteria = addCriteria("hasNeutroniumCollector", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<avaritia:resource:4>)

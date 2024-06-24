@@ -1,0 +1,20 @@
+setIcon(<avaritiaddons:infinity_glass>)
+
+//Set the title String
+setTitle("Infinity... Glass?")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Why would anyone craft this?")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(300,30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasUselessGlass", "minecraft:inventory_changed")
+criteria.addItem(<avaritiaddons:infinity_glass>)

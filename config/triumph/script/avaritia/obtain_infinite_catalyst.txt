@@ -1,0 +1,20 @@
+setIcon(<avaritia:resource:5>)
+
+//Set the title String
+setTitle("Obliterating the laws of physics")
+
+//Set the description String
+setDescription("You literally crafted an entire universe")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_eternal_singularity")
+
+//Set the position
+setPos(270,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfCatalyst", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<avaritia:resource:5>)

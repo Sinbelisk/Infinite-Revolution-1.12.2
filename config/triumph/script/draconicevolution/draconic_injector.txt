@@ -1,0 +1,20 @@
+setIcon(<draconicevolution:crafting_injector:2>)
+
+//Set the title String
+setTitle("Even Better Injectors")
+
+//Set the description String
+setDescription("Use Awakened Draconic Blocks to upgrade your Injectors.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:draconic_block")
+
+//Set the position
+setPos(240,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasDraconicInjector", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<draconicevolution:crafting_injector:2>)

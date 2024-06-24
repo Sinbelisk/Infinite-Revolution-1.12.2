@@ -1,0 +1,29 @@
+setIcon(<avaritia:infinity_helmet>)
+
+//Set the title String
+setTitle("The Flesh Is Weak")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get an entire set of Infinity Armor and taste the power")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,30)
+
+criteria = addCriteria("inf_helmet", "minecraft:inventory_changed")
+criteria.addItem("avaritia:infinity_helmet")
+
+criteria = addCriteria("inf_chestplate", "minecraft:inventory_changed")
+criteria.addItem("avaritia:infinity_chestplate")
+
+criteria = addCriteria("inf_leggings", "minecraft:inventory_changed")
+criteria.addItem("avaritia:infinity_pants")
+
+criteria = addCriteria("inf_boots", "minecraft:inventory_changed")
+criteria.addItem("avaritia:infinity_boots")
+
+setRequirements("all")

@@ -1,0 +1,23 @@
+//Set icon item
+setIcon(<avaritia:resource:5>)
+
+//Set title String
+setTitle("Avaritia")
+
+//Set description String
+setDescription("Infinite? What's that?")
+
+//Set background String. This is a path to any texture in a resource pack, so you can set it to fun things.
+setBackground("avaritia:textures/blocks/resource/neutronium.png")
+
+//Set the toast notification in the top right corner of the screen to not show up when this advancement is achieved.
+setShowToast(false)
+
+//Set the advancement to not send a chat message when it is achieved.
+setAnnounceToChat(false)
+
+//Set the position
+setPos(30,0)
+
+addCriteria("obtainNetherStarTR", "minecraft:inventory_changed")
+criteria.addItem(<minecraft:nether_star>)

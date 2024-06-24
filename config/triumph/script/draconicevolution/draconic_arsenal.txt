@@ -1,0 +1,35 @@
+setIcon(<draconicevolution:draconic_sword>)
+
+//Set the title String
+setTitle("Draconic Arsenal")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Upgrade all your Wyvern Arsenal to Draconic tier, this might take a while.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:wyvern_arsenal")
+addParent("draconicevolution:awakened_core")
+
+//Set the position
+setPos(300,-30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasDSword", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_sword>)
+
+criteria = addCriteria("hasDPick", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_pick>)
+
+criteria = addCriteria("hasDAxe", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_axe>)
+
+criteria = addCriteria("hasDShovel", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_shovel>)
+
+criteria = addCriteria("hasDBow", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_bow>)
+
+setRequirements("all")

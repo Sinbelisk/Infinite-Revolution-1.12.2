@@ -1,0 +1,20 @@
+setIcon(<avaritia:infinity_sword>)
+
+//Set the title String
+setTitle("God-Like Arsenal")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get the Sword of the Cosmos and obliterate your foes with the power of the universe.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,60)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfinitySword", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:infinity_sword>)

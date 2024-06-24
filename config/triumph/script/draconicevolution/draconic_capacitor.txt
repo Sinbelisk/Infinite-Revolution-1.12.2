@@ -1,0 +1,20 @@
+setIcon(<draconicevolution:draconium_capacitor:1>)
+
+//Set the title String
+setTitle("Ultra Duracell")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("A comically large battery")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:wyvern_core")
+
+//Set the position
+setPos(300,30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasDraconicCapacitor", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconium_capacitor:1>)

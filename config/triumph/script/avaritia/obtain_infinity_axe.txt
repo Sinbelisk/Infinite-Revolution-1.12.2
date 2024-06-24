@@ -1,0 +1,20 @@
+setIcon(<avaritia:infinity_axe>)
+
+//Set the title String
+setTitle("Druid's Worst Nightmare")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get the Nature's Ruin and accelerate the destruction of the Amazon Rainforest.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,-60)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfAxe", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:infinity_axe>)

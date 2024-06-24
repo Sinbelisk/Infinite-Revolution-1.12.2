@@ -1,0 +1,20 @@
+setIcon(<avaritia:infinity_shovel>)
+
+//Set the title String
+setTitle("World Eater")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get the Planet Eater and join the XIIth Legion")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,-90)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfShovel", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:infinity_shovel>)

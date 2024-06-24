@@ -1,0 +1,20 @@
+setIcon(<avaritia:infinity_pickaxe>)
+
+//Set the title String
+setTitle("The Destroyer of Worlds")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get a World Breaker and have fun, Cadia will be a playground in comparison...")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:infinity_block")
+
+//Set the position
+setPos(360,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfinityPickaxe", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:infinity_pickaxe>)
