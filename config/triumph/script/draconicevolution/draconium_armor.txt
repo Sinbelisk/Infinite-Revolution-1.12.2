@@ -1,0 +1,31 @@
+setIcon(<draconicevolution:wyvern_helm>)
+
+//Set the title String
+setTitle("Scales > Metal")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get a full set of Wyvern Armor, a 'cheap' but powerful armor")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:wyvern_core")
+
+//Set the position
+setPos(150,60)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasWyvernHelm", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:wyvern_helm>)
+
+criteria = addCriteria("hasWyvernChest", "minecraft:inventory_changed")
+criteria.addItem(<<draconicevolution:wyvern_chest>)
+
+criteria = addCriteria("hasWyvernLegs", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:wyvern_legs>)
+
+criteria = addCriteria("hasWyvernBoots", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:wyvern_boots>)
+
+setRequirements("all")

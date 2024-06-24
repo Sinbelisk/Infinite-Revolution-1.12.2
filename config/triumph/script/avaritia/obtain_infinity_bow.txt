@@ -1,0 +1,20 @@
+setIcon(<avaritia:infinity_bow>)
+
+//Set the title String
+setTitle("Skill Issue Bow")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Get the Longbow of the Heavens, now you cannot miss your hits.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,90)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfinityBow", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:infinity_bow>)

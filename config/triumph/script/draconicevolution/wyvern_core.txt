@@ -1,0 +1,18 @@
+setIcon(<draconicevolution:wyvern_core>)
+
+//Set the title String
+setTitle("The First Steps + 1")
+
+//Set the description String
+setDescription("Get a Wyvern Core")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:basic_injector")
+
+//Set the position
+setPos(120,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasWyvernCore", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:wyvern_core>)

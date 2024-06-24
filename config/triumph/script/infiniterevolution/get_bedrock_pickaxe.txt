@@ -1,0 +1,22 @@
+//Set the icon item
+setIcon(<infinite_revolution:unbreakable_bedrock_pickaxe>)
+
+//Set the title String
+setTitle("Stronger than metal")
+
+//Set the description String
+setDescription("Obtain the Bedrock Pickaxe")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:root")
+
+//Set the position
+setPos(-218,-241)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+criteria = addCriteria("hasBrPickaxe", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:unbreakable_bedrock_pickaxe>)

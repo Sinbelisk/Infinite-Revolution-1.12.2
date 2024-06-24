@@ -1,0 +1,21 @@
+//Set the icon item
+setIcon(<avaritiaddons:extreme_auto_crafter>)
+
+//Set the title String
+setTitle("CBT Automation")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Upgrade your Extreme Crafting Table to automatize your suffering.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_neutronium_collector")
+
+//Set the position
+setPos(150,-60)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasUpgradedTable", "minecraft:inventory_changed")
+criteria.addItem(<avaritiaddons:extreme_auto_crafter>)

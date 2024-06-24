@@ -1,0 +1,20 @@
+setIcon(<draconicevolution:crafting_injector:1>)
+
+//Set the title String
+setTitle("Better Injectors")
+
+//Set the description String
+setDescription("Of energy, of course...")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:fusion_crafting")
+
+//Set the position
+setPos(180,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasWyvernInjector", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<draconicevolution:crafting_injector:1>)

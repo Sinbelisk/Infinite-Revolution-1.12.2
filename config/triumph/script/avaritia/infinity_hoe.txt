@@ -1,0 +1,22 @@
+setIcon(<avaritia:infinity_hoe>)
+
+//Set the title String
+setTitle("Finding The Meaning of Life")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Craft an Infinity Hoe and reconsider your goals in life.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_infinity_ingot")
+
+//Set the position
+setPos(330,-30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfinityHoe", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<avaritia:infinity_hoe>)

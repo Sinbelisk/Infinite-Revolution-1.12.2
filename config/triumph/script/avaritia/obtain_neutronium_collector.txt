@@ -1,0 +1,22 @@
+//Set the icon item
+setIcon(<avaritia:neutron_collector>)
+
+//Set the title String
+setTitle("Experimental Materials")
+
+//Set the description String
+setDescription("Obtain a Neutronium Collector")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_crafting_table")
+
+//Set the position
+setPos(120,0)
+
+//Hide the connection lines, so I can have a pretty shape
+
+
+criteria = addCriteria("hasCompressor", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<avaritia:neutron_collector>)

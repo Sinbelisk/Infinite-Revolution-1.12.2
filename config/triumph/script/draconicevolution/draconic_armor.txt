@@ -1,0 +1,32 @@
+setIcon(<draconicevolution:draconic_helm>)
+
+//Set the title String
+setTitle("Endgame Armor")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Upgrade a Wyvern Armor to Draconic. Still sane, exile?")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("draconicevolution:draconium_armor")
+addParent("draconicevolution:awakened_core")
+
+//Set the position
+setPos(300,60)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasDraconicHelm", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_helm>)
+
+criteria = addCriteria("hasDraconicChest", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_chest>)
+
+criteria = addCriteria("hasDraconicLegs", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_legs>)
+
+criteria = addCriteria("hasDraconicBoots", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_boots>)
+
+setRequirements("all")

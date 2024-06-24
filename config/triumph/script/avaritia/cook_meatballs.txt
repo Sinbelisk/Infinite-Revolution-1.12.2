@@ -1,0 +1,20 @@
+//Set the icon item
+setIcon(<avaritia:ultimate_stew>)
+
+//Set the title String
+setTitle("Cosmic Cook")
+
+//Set the description String
+setDescription("Cook the best stew and meatballs in the whole unvierse!")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_neutronium_collector")
+
+//Set the position
+setPos(150,-30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasCooked", "minecraft:inventory_changed")
+criteria.addItem(<avaritia:ultimate_stew>)
+criteria.addItem(<avaritia:cosmic_meatballs>)
