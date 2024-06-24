@@ -1250,7 +1250,7 @@ hash = "a77a2ec4eb9c62b93705e9eabc40d7564636440e3f1a3a50c06fd11f4b9f7707"
 
 [[files]]
 file = "config/triumph/Triumph.txt"
-hash = "c5cfab716951112049dd315be42b0bd4381d6acf4544c5cd9962c373d218e856"
+hash = "5884c94798ce54f3596cb3841221cd0e0e38f477d9194c998b0af2c01b92980e"
 
 [[files]]
 file = "config/triumph/documentation/Triumph.txt"
@@ -1465,6 +1465,418 @@ file = "config/triumph/documentation/dataObjects/PotionEffectData.txt"
 hash = "1f44aef08ec410aca175b7e40072d9b5410d1749d9db3e4230f7265b971f99ad"
 
 [[files]]
+file = "config/triumph/documentation/example/example/botania_tweaks/example_flower_generated_mana.txt"
+hash = "1a0158aeab89666b7a2da458cf8fc17ea05397d22b8d92654f89e4dc8d474934"
+
+[[files]]
+file = "config/triumph/documentation/example/example/botania_tweaks/example_total_generated_mana.txt"
+hash = "49d364ad9464c552ba4dda272337fd355310adc6cc609da2cf79339caf8d7d9c"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_all_rewards.txt"
+hash = "1d2a13c37f49f7173933a97bddd00aff0cddd40f1d2edb811aa690e6778d9a2f"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_better_advancement_colors.txt"
+hash = "fbbc6f87d0e58df4accf807c4c7f53f25c3caee410883fef490291e4893473f1"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_break_block.txt"
+hash = "dfe03692eb0a8235b98bcab57db6c0057e127eca13460b8711c6f930aa8e0021"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_bred_animals.txt"
+hash = "83721e8c53d5ff7c769bc540c2401d2358285932e7a600b88fe619d2ff15df20"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_brewed_potion.txt"
+hash = "19b1205c9c341d17e7abafc6d64d99839ce47ab5933593c0ed6ca685632b758c"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_completed_advancement.txt"
+hash = "1f620daf41f389abd5c5bc27e4636079ae4a95a4021bc06c6b110b00c4d4ca37"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_construct_beacon.txt"
+hash = "b4bd453f256ad106d54d73b52699f422689d5c997046cbc4007dab3d690d6e30"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_consume_item.txt"
+hash = "0fd831bb2177fa723cd27fa6d0935c00efb84f6eb7d2b1d3fdbd8870981a088b"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_count.txt"
+hash = "90464474b4b2c76f916f6899898833c9d5a747eb4ea46cd69939d0d7f83f5be4"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_destroy_block.txt"
+hash = "d7ebc7e0899d16d75ebdb63b7139427c0ffac3ce0a31b936cb00d81b8fe08a3c"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_enchanted_item.txt"
+hash = "acec9a2d722d91d85649e0991acd02ec1a830feacb994c7a5930d99b5f11487f"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_enter_biome.txt"
+hash = "5f96b120dda6e077c155b70ceb66a5b06f8643257479a95f1b754b4e5e9828db"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_enter_block.txt"
+hash = "321b922635bcd564e3c5aaf169bca3ebb0b36682511ee377418cba46ac533c62"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_enter_dimension.txt"
+hash = "996b1f083b6e72942e32f82f9b8638c322f1c674b10b98edd5db80199fe295e2"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_harvest_block.txt"
+hash = "a627920f6980d1805bf19ed7c749f713f38672bdc1801cf1a3b6090805bec521"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_hurt_entity.txt"
+hash = "9e26343361c1f2b04a8e2538074e8528be23da6aeea89a0e51e6c342dbb5e3df"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_impossible.txt"
+hash = "b1d744c7bbdec76fca3f5dc3ef8a2e1bbdabdec344d8c1d34419010a2e2b804d"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_inventory_changed.txt"
+hash = "ec10f40d367e746c85e594c356dd900f5f9e0519eebdb00aafd52872a63eb440"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_item_crafted.txt"
+hash = "9123cfb75c4b3a9d4b46a0d497f0ba18d2b42e104311bd068715968065ced80d"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_killed_by_entity.txt"
+hash = "53acd2b61bc8492c55c498d934dca833222af699ba463a701602ebf96b3ce329"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_killed_entity.txt"
+hash = "6c6fd923e6677b1094310bcc94bf84940ea2dd4b36eafa9e2d23b3ce391e16c9"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_left_click_block.txt"
+hash = "155a6ecc149a62bc3147ab80e8c43c7b789867cb79b84e726fe0015e27c747a2"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_location_dimID.txt"
+hash = "e0f8d05851a535e2e3ebec4cbf5d0c277e16bca5a5173437a7ed93c8d9a9b374"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_location_worldtype.txt"
+hash = "6d98c8c145b3ce415fba9521dc7de656c14fe09693f28c05ef9efb094d2f4ca2"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_placed_block.txt"
+hash = "378cf19e0bb70a432b4c4d61f0141480772383be3ad8928042d267c7164d6103"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_player_death.txt"
+hash = "79a91778b6681a650b20cd75551cfe271d43573b9185cac35e156f2957f1c3cc"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_recipe_unlocked.txt"
+hash = "1acd668d690d89e5b7ef09d5617f0628fd6e40c3c1f9ea68a70935f1943e07ab"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_repeatable.txt"
+hash = "f0076483f95de652225c37f24ac4fd3adfc95d00b3fa8b65a578c4acee8978ac"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_right_click_block.txt"
+hash = "0bac5951d754c62e0185190681ab601a19bad981654ab87e2ad7d0650fcca35b"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_right_click_item.txt"
+hash = "9223de117b7a85aecedf9a8025707d535cdfd4efdfe28aca41571ccad19e505c"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_slept_in_bed.txt"
+hash = "4c48fbb73e68a0ed4524c84d3df72dd94a894f4fe12b9533cbbd175a4ab3358a"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_tame_animal.txt"
+hash = "24704ce0abdb35a84971b14b5a50d53c0f9d25b8d3b0c42dbd9c33e381aa2fc1"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_unsupported_criteria.txt"
+hash = "1c1311353cecd030aafcec6c2898771f29fee434b7b4793dc34230ad958e7223"
+
+[[files]]
+file = "config/triumph/documentation/example/example/example_villager_trade.txt"
+hash = "291ca2de8288cd6836fb3ba18ddd1fde8c94a2191000da42ce569f29ac7ce886"
+
+[[files]]
+file = "config/triumph/documentation/example/example/immersiveengineering/example_multiblock_formed.txt"
+hash = "e02ab842eaa15368cf44f6787dc6f77bb3fb67f8500a6091884198e02a749d6e"
+
+[[files]]
+file = "config/triumph/documentation/example/example/root.txt"
+hash = "c2b0915fc3d0ad700bb867108ec8269f1b42adcd549884f0fff00e154641c449"
+
+[[files]]
+file = "config/triumph/documentation/example/example/totemic/example_ceremony_performed.txt"
+hash = "8ae1934b5a2acb19b00280486670bba976e4403081279fad90e25aed7a1e6359"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/adventuring_time.txt"
+hash = "bee4629e43be2c33c77f436100f4942aa84934f5336f2ee07f3e34642af85d0c"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/kill_a_mob.txt"
+hash = "71c61279aba5a0d08bd7fa1d46acc8c93e9e2575847dec6ca90c4dc2542a50ca"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/kill_all_mobs.txt"
+hash = "152ff6a9ce0c37bf5d2851ee59b75a591a79524cf29e9a991b706e54a76d4d61"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/root.txt"
+hash = "7994da182f94919c7392f46f7a9647e72915a1b7d26cd51a866295f79acc09cf"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/shoot_arrow.txt"
+hash = "27e5f4708499d7372a5edc06c62a22e283af5e48fa6be6882302bd043cb3a568"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/sleep_in_bed.txt"
+hash = "f85b4e3c9dfc964415cbc6485cd094919303ab97b5372bff666648ef620466e8"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/sniper_duel.txt"
+hash = "3bdc19048064af616cbfa28def0cea7f0ee1c1b6bbf3c276573ff93f5fb32901"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/summon_iron_golem.txt"
+hash = "5b6081a7c626f9aa3293b0a1d69be6e6a344d186cc3c37bcf6adcd15e05e5d6e"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/totem_of_undying.txt"
+hash = "8397cacfc92859f97f856c039b7692a9962dbd4d01aac78feb95fbad286cf5bf"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/adventure/trade.txt"
+hash = "9aaf86e5ba3943df043081e18cc79fa46f1f701a20743eab7924c2473953025c"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/dragon_breath.txt"
+hash = "12dc666543a570bbbcd15e9396ad29cc854ba436e6b09eeec3a8aac3ff18e21c"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/dragon_egg.txt"
+hash = "8aa483d2a34547886d0f646185a627c4dd1f89663a1776991be5d619a6e220de"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/elytra.txt"
+hash = "98c757cc5803eecfbce4e43875f4f9a2698b33e7d9e1f6ae39594537cef7c71c"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/enter_end_gateway.txt"
+hash = "94b59858032dc46f448240f0b36950a320ce3305dc1ceb9d5ea442148be0ace4"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/find_end_city.txt"
+hash = "758d929dcf59eedc41edfb3108c69134a59c87e93f625b21c83d2119911b3321"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/kill_dragon.txt"
+hash = "8dcdf926a5bc14894a065687633a708b6484eced84fb3ad701db82b919d2f396"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/levitate.txt"
+hash = "216c7caa6864951d455f3a48e7d0f3f518a8b43fa9360d590c57bf834736f298"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/respawn_dragon.txt"
+hash = "0d1e12aed5d316c3ec8acf3ea10eac7feb2c49333e5aacec27c5f74a68736232"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/end/root.txt"
+hash = "be90243f7f196c8a873d87f3a3ea6748f1662bca11a61fb04093323487742559"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/balanced_diet.txt"
+hash = "2097de3e2458e651b5a4ab1b1edff02c7f16ded527d995e006135e77e629cd6a"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/break_diamond_hoe.txt"
+hash = "e535fc3aa0bcc255581e0d374a312590674e42203733a3d25dfc9aaed7efa9be"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/bred_all_animals.txt"
+hash = "8c0a5fac280b0e52a3d78bf296f99d0feff038eff93a2c1c1dd268f175f3ac94"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/breed_an_animal.txt"
+hash = "5f954859e1ec0382f433bc21cf0b32297a48cc7d1dce5343d6b3f78442c98f06"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/plant_seed.txt"
+hash = "41b7da51bc34d2872e864015523b86f5aba311c880401cbb2d3663a27a9f4bdb"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/root.txt"
+hash = "d3604c3d08d7e6aa8eba686bc32d31c0ec0805fc3ae0c8513c1fa87e14e65f55"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/husbandry/tame_an_animal.txt"
+hash = "f16db5c0528715f4d6e3d9d289e3819e49aa9047ba2fe91673410543bdf3504f"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/all_effects.txt"
+hash = "8bd5b39f270698232cdae5165f2e0545e684ed05f28a7c2161665b3856a9c6ab"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/all_potions.txt"
+hash = "9acac25edb228cc1ddbfe88cc4d150ab9ba1a66cefc5059d71c0d5f2afcf7a12"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/brew_potion.txt"
+hash = "9c9a0cbcf9e3a200403eb5792b33ea1994c6eaea8069b2c465b3fff7df78b776"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/create_beacon.txt"
+hash = "6330fe38899f0015129636005dd5b1f9776044fc91aad68d9215e0222f005ef7"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/create_full_beacon.txt"
+hash = "e814e4f85daa754e596572885e62ec8e2b53e0276c7aacebf4ac0d09ad9f20c0"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/fast_travel.txt"
+hash = "8b1342eb4d93c18402ae5e04ee35eb3b23767358895938407717a88f30c44210"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/find_fortress.txt"
+hash = "910ed1eac82f71abfddd6df6846f0be38621495acfd292cabd412b9395296cfb"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/get_wither_skull.txt"
+hash = "83000f8130d912b07bed79522420f7550ff903c9af3343aed3e67a03437a0472"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/obtain_blaze_rod.txt"
+hash = "d4b37d2e21a577bea4145f5385e326a8d3810412eb0d573daf18f0cf4b242f6b"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/return_to_sender.txt"
+hash = "60ebbf48e3374aafcaf952fa20049f84d0db46144595293deed8972f406db9aa"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/root.txt"
+hash = "bc3ec92a100914f5158d41b1be19f3fe680f7fd53235310d8a7ca96e2956efaf"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/summon_wither.txt"
+hash = "e4e5c373d258415326d202cefedf03f3675f8a9a499c824cfbaeb4b930035d0a"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/nether/uneasy_alliance.txt"
+hash = "cad8f8ffe69b559fc2cc1b125662e0ce6e84774f47d7f870a4afb7ebf3bb74cd"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/blaze_powder.txt"
+hash = "d9bc86f61533049051269de2a29a68b732b59d70febb0c1facfb5c958f8b475a"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/brewing_stand.txt"
+hash = "1870477b51f02f185e8f3c39263bbc6a31877f963e92432819dccdcef3294be7"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/cauldron.txt"
+hash = "09c0b6c19a2d939af5c3d71d1a2c09233f9a6c1ec9c47f9306f08a47a92817fd"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/fermented_spider_eye.txt"
+hash = "0f4e8dcb64ee5f8a33f16f96cfc2c768886bc936fc4df5269dd1c3ea79a79f5f"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/glass_bottle.txt"
+hash = "6bee361dd2db3892e75c51dbbc479dc352e7c46357c725d74428b537f584bb0c"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/golden_carrot.txt"
+hash = "c495e80e2026a3fbc80aa93232bb54c9508bcf82c665c543a582a514185eaa7c"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/magma_cream.txt"
+hash = "373a8997d5ecfe6c187f8c61ac64e99ca61a754e0b1e6b9c75907d3601bdab28"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/brewing/speckled_melon.txt"
+hash = "22ce361e812181912aaf42fe1741b59d1f073f57e00cd2c30afea7f59c8e69ac"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/recipes/root.txt"
+hash = "544a52575a83c5eeabf203a296cac5b14b4a82e70f75823d2b4627dac8a4e0da"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/cure_zombie_villager.txt"
+hash = "dec0c24eb80e7d69221261d1f874157890402ac3b51603d5afb525b487f68140"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/deflect_arrow.txt"
+hash = "70eae9d490fc688b200f955e4cc773be9ff1e00868f8def9ea720f6fb2054d80"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/enchant_item.txt"
+hash = "3836f3391369739edb1f46af786c59f4a57ed934b263e67876ed33ecaa781ed5"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/enter_the_end.txt"
+hash = "7d2e4ba88b175ac119ffa072c2ad01f8b6d84405abdaf6848ede8e53e70d6f6f"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/enter_the_nether.txt"
+hash = "0024e5609ca894bb55aa0aa09a0e4de63047a8d4cd029c6c9171540d80a0866f"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/follow_ender_eye.txt"
+hash = "63c5e03063602d50232f8f9f00c422d90f5af00643b05314a2d9be963327c958"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/form_obsidian.txt"
+hash = "31650c433f8013c34d6c0ac471e0fdcede0129b14967467135503b38d4e6bff7"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/iron_tools.txt"
+hash = "7d9f9cfbe9f8b8ac28dddc2a08470fd15f560bca89b359c939f59c278d56e525"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/lava_bucket.txt"
+hash = "88a071ed517fd67276c368a34b4aa5dbc2f6c207b205f00125ebe13399508f2e"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/mine_diamond.txt"
+hash = "65cd4b04e74b76e96464b4acea86bad64eb272d1460e0ca344dcb95e8dad0397"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/mine_stone.txt"
+hash = "12ee1adf67d01c708d3c50eeb48764a2b4eb6f977f27452033e46d22ebbe8d03"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/obtain_armor.txt"
+hash = "5ccfbe02ed916eb50c2991ddba3efc8ec354e15da24bb20fcd3c469c25f82dc6"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/root.txt"
+hash = "e351efec55cff25730df3009e11561b7ec03fc310d14176bf0e3d5aa0c8e8cd8"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/shiny_gear.txt"
+hash = "020a1865df72b7071029084ceedfe17b92b92a8363e9c8569ff953e496935a54"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/smelt_iron.txt"
+hash = "9c87c02fc7752f1602e76104d7e02ec4b97dd1cc4359d6608dd312e85e604f4e"
+
+[[files]]
+file = "config/triumph/documentation/example/vanilla/story/upgrade_tools.txt"
+hash = "73ffb94a118a8ea75b82314f2f0e4cc92dc01b5db6e2e37d99355f93d2673efb"
+
+[[files]]
 file = "config/triumph/documentation/script/ScriptAdvancement.txt"
 hash = "a6359f0b60f53173ab7dad86b532ad57c8e3025d13751642d44d0a396c9fa1fe"
 
@@ -1473,416 +1885,208 @@ file = "config/triumph/functions/triumph/happy_birthday.txt"
 hash = "62eba8ceb309ce3f7b530a0e4161ce7b37b305cb4f65a8680bd2a9baa984f4e5"
 
 [[files]]
-file = "config/triumph/script/triumph/example/botania_tweaks/example_flower_generated_mana.txt"
-hash = "1a0158aeab89666b7a2da458cf8fc17ea05397d22b8d92654f89e4dc8d474934"
+file = "config/triumph/script/avaritia/cook_meatballs.txt"
+hash = "00a34273ab6a99170742db0fdd85546c7a948e27167d664da865bb2711e54dfc"
 
 [[files]]
-file = "config/triumph/script/triumph/example/botania_tweaks/example_total_generated_mana.txt"
-hash = "49d364ad9464c552ba4dda272337fd355310adc6cc609da2cf79339caf8d7d9c"
+file = "config/triumph/script/avaritia/enhacement_crystal.txt"
+hash = "36820f5417a122943302b4d1d2a504c8ecfb843c983f9c4f56b6872f241053c6"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_all_rewards.txt"
-hash = "1d2a13c37f49f7173933a97bddd00aff0cddd40f1d2edb811aa690e6778d9a2f"
+file = "config/triumph/script/avaritia/infinity_armor.txt"
+hash = "7fc4eaf20e42be9af086d415df2f9ad4d60b902b8d764bf3de9846d728ce7577"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_better_advancement_colors.txt"
-hash = "6ca84e248afedb03b9e9944210aa381e82a65af1fbc3a96186826bed0fe00479"
+file = "config/triumph/script/avaritia/infinity_block.txt"
+hash = "6bd6e22fbde79bfe02fe9afdb7e6dfc3f67b0d78431d491f63f8bcd9a3b3d770"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_break_block.txt"
-hash = "dfe03692eb0a8235b98bcab57db6c0057e127eca13460b8711c6f930aa8e0021"
+file = "config/triumph/script/avaritia/infinity_chest.txt"
+hash = "386b1870018f79f23d0ce63596a5d640034383b19c8f655e8e1a878eb66d2ab5"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_bred_animals.txt"
-hash = "83721e8c53d5ff7c769bc540c2401d2358285932e7a600b88fe619d2ff15df20"
+file = "config/triumph/script/avaritia/infinity_glass.txt"
+hash = "a7ab15f4c58c7d3706b3c2698eb7cf20b9514f11b7a5f3dc6fb792d118857bd3"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_brewed_potion.txt"
-hash = "19b1205c9c341d17e7abafc6d64d99839ce47ab5933593c0ed6ca685632b758c"
+file = "config/triumph/script/avaritia/infinity_hoe.txt"
+hash = "b77aba74b8a63f786c0173653d474ae3c014454f9b24aee38e8c050dc1f3691a"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_completed_advancement.txt"
-hash = "1f620daf41f389abd5c5bc27e4636079ae4a95a4021bc06c6b110b00c4d4ca37"
+file = "config/triumph/script/avaritia/infinity_pickaxe.txt"
+hash = "107f73e3a9d3ef0eee845334c266ceada06292d6d6a6330dc98bdd7d44caa91e"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_construct_beacon.txt"
-hash = "b4bd453f256ad106d54d73b52699f422689d5c997046cbc4007dab3d690d6e30"
+file = "config/triumph/script/avaritia/obtain_crafting_table.txt"
+hash = "9c54ca7e1b24b4b616121028b4a602e607a515975a67b80c5d1cd2d0764d180e"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_consume_item.txt"
-hash = "0fd831bb2177fa723cd27fa6d0935c00efb84f6eb7d2b1d3fdbd8870981a088b"
+file = "config/triumph/script/avaritia/obtain_endest.txt"
+hash = "30e106b877d118f2f649b9b7fac7758073a595913eb258f2cc318e2c3c7244f1"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_count.txt"
-hash = "90464474b4b2c76f916f6899898833c9d5a747eb4ea46cd69939d0d7f83f5be4"
+file = "config/triumph/script/avaritia/obtain_eternal_singularity.txt"
+hash = "58aa502c22d3935285ccd2a0a8581b38dcdad41014653893146dce82bcaad1ea"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_destroy_block.txt"
-hash = "d7ebc7e0899d16d75ebdb63b7139427c0ffac3ce0a31b936cb00d81b8fe08a3c"
+file = "config/triumph/script/avaritia/obtain_infinite_catalyst.txt"
+hash = "ef2523bea0d5e100917b3c0e985f69160cec2655e0e1041866f242d53790e217"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_enchanted_item.txt"
-hash = "acec9a2d722d91d85649e0991acd02ec1a830feacb994c7a5930d99b5f11487f"
+file = "config/triumph/script/avaritia/obtain_infinity_axe.txt"
+hash = "02d003fa5ac86a75083c0e40622da24050b7cd3a04f4d44f16652945af5b1ec2"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_enter_biome.txt"
-hash = "5f96b120dda6e077c155b70ceb66a5b06f8643257479a95f1b754b4e5e9828db"
+file = "config/triumph/script/avaritia/obtain_infinity_bow.txt"
+hash = "7be5a0bbb80ff735dc2bc3ed0b0975fa6bd80faf746d327f3d2999fbaba93d75"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_enter_block.txt"
-hash = "321b922635bcd564e3c5aaf169bca3ebb0b36682511ee377418cba46ac533c62"
+file = "config/triumph/script/avaritia/obtain_infinity_ingot.txt"
+hash = "aa01f3a5805be46ca5ac41c41e0042d9291c3346ddfabfe23a2f7a6eb8c50cbe"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_enter_dimension.txt"
-hash = "996b1f083b6e72942e32f82f9b8638c322f1c674b10b98edd5db80199fe295e2"
+file = "config/triumph/script/avaritia/obtain_infinity_shovel.txt"
+hash = "4eb3768a0f99ae3ce8da9485bc688a3baef96d5207cee21840aed518be06674f"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_harvest_block.txt"
-hash = "a627920f6980d1805bf19ed7c749f713f38672bdc1801cf1a3b6090805bec521"
+file = "config/triumph/script/avaritia/obtain_infinity_sword.txt"
+hash = "dfdffab2a8d8ac996c6a8f4e2785360d9386accb8a9e08248ebc82397bd1911b"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_hurt_entity.txt"
-hash = "9e26343361c1f2b04a8e2538074e8528be23da6aeea89a0e51e6c342dbb5e3df"
+file = "config/triumph/script/avaritia/obtain_matrix.txt"
+hash = "cfd70e6037196f5cd818bd503dc9ef434b01878ea59ccf97356350ace09e519b"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_impossible.txt"
-hash = "3b30bedab12bbdaaf7a5e7b2d96a02e81a9205dc5d44792906efd013a4a4b986"
+file = "config/triumph/script/avaritia/obtain_matrix_block.txt"
+hash = "181ce28d9388b47c5284147cab2722ba0382f01f9a20246cfed8134de6ebde50"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_inventory_changed.txt"
-hash = "d9d58ec40f762a00a223f49245bb00e9c2dbc2f1752187f7534f663593e447d0"
+file = "config/triumph/script/avaritia/obtain_neutronium.txt"
+hash = "ff108dc67f7e3382bf73661a9f37d93b7148f91e7014698076e4f634194f31d3"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_item_crafted.txt"
-hash = "9123cfb75c4b3a9d4b46a0d497f0ba18d2b42e104311bd068715968065ced80d"
+file = "config/triumph/script/avaritia/obtain_neutronium_block.txt"
+hash = "9182ea159b4e7a484428eb6da94486d6b0ade401063dd5334a6a67a7650035d8"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_killed_by_entity.txt"
-hash = "53acd2b61bc8492c55c498d934dca833222af699ba463a701602ebf96b3ce329"
+file = "config/triumph/script/avaritia/obtain_neutronium_collector.txt"
+hash = "c92e3d73ff87a83958a51da9b9873c580d793f59dfb2a7dde3f46e617508b89c"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_killed_entity.txt"
-hash = "6c6fd923e6677b1094310bcc94bf84940ea2dd4b36eafa9e2d23b3ce391e16c9"
+file = "config/triumph/script/avaritia/obtain_neutronium_compressor.txt"
+hash = "cdf68aefe0155394cc64bfcf82be67255a83b5516538e32f9dcac7f96fe81827"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_left_click_block.txt"
-hash = "0fa6d50c3302ef6fd8149d05475ff511ad94b1d9a6c519a0b8baee7954212e25"
+file = "config/triumph/script/avaritia/root.txt"
+hash = "6e9c6c2d7f9c887874475ce65df9c07ddab962a433c230a7bd65c81f28ae6e0f"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_location_dimID.txt"
-hash = "e0f8d05851a535e2e3ebec4cbf5d0c277e16bca5a5173437a7ed93c8d9a9b374"
+file = "config/triumph/script/avaritia/upgrade_crafting.txt"
+hash = "b1b3f81b8c8bc1aed42a6d19fb01df84e6af1f4d8e15a93fb03ce6773a4e7fcc"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_location_worldtype.txt"
-hash = "6d98c8c145b3ce415fba9521dc7de656c14fe09693f28c05ef9efb094d2f4ca2"
+file = "config/triumph/script/avaritia/upgrade_neutronium_compressor.txt"
+hash = "72fe2422aa6df2646ea2732d8d30ff18e5be5f0709252c10cb79cac930e4226a"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_placed_block.txt"
-hash = "378cf19e0bb70a432b4c4d61f0141480772383be3ad8928042d267c7164d6103"
+file = "config/triumph/script/draconicevolution/awakened_core.txt"
+hash = "fda50192e3d6f06c46431ba9bb9e601928f3dc004617e1d3a1bb2d35563802ea"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_player_death.txt"
-hash = "79a91778b6681a650b20cd75551cfe271d43573b9185cac35e156f2957f1c3cc"
+file = "config/triumph/script/draconicevolution/basic_injector.txt"
+hash = "f61514862a877dc770620af68dd092f29829973b8a54b7295cc17668969341a6"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_recipe_unlocked.txt"
-hash = "1acd668d690d89e5b7ef09d5617f0628fd6e40c3c1f9ea68a70935f1943e07ab"
+file = "config/triumph/script/draconicevolution/chaos_core.txt"
+hash = "cf11f76e5e655b32046540c960789dbc7bb48389a1a4aeb1930dfccf6839d79b"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_repeatable.txt"
-hash = "f0076483f95de652225c37f24ac4fd3adfc95d00b3fa8b65a578c4acee8978ac"
+file = "config/triumph/script/draconicevolution/chaos_injector.txt"
+hash = "e51194e92ae59f8e902e00dd53ed78bb66217e786f56e60ea241b55cba6cdbcf"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_right_click_block.txt"
-hash = "0bac5951d754c62e0185190681ab601a19bad981654ab87e2ad7d0650fcca35b"
+file = "config/triumph/script/draconicevolution/chaos_shard.txt"
+hash = "2105c8a101fef26ed911b83bf1bd5b5db30af02c387463629024381e9b577160"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_right_click_item.txt"
-hash = "9223de117b7a85aecedf9a8025707d535cdfd4efdfe28aca41571ccad19e505c"
+file = "config/triumph/script/draconicevolution/draconic_armor.txt"
+hash = "1358efeb100550731f5ac224a6328350824734eb11f8591f44048e31d06ed831"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_slept_in_bed.txt"
-hash = "4c48fbb73e68a0ed4524c84d3df72dd94a894f4fe12b9533cbbd175a4ab3358a"
+file = "config/triumph/script/draconicevolution/draconic_arsenal.txt"
+hash = "5f078d5ff3858cb136fc75c5ee362accb3ca54d2906f8a80e4c53247454bc1ec"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_tame_animal.txt"
-hash = "24704ce0abdb35a84971b14b5a50d53c0f9d25b8d3b0c42dbd9c33e381aa2fc1"
+file = "config/triumph/script/draconicevolution/draconic_block.txt"
+hash = "3ad35152a9406ff933257a30d877a8cd10ab1fabece24696eece4ff3dc40db6a"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_unsupported_criteria.txt"
-hash = "1c1311353cecd030aafcec6c2898771f29fee434b7b4793dc34230ad958e7223"
+file = "config/triumph/script/draconicevolution/draconic_capacitor.txt"
+hash = "979d37505da821bbb6eb8564b62eef67a6294800d0aa7e15ec84603b1880ec69"
 
 [[files]]
-file = "config/triumph/script/triumph/example/example_villager_trade.txt"
-hash = "291ca2de8288cd6836fb3ba18ddd1fde8c94a2191000da42ce569f29ac7ce886"
+file = "config/triumph/script/draconicevolution/draconic_core.txt"
+hash = "ad6a0426bce980fb8a57a207056456e6ecd23093f630c7b5480364b5b1d34be8"
 
 [[files]]
-file = "config/triumph/script/triumph/example/immersiveengineering/example_multiblock_formed.txt"
-hash = "3db4cac4d5cafbcd51016c6c83eb1092ba94244e7d9efd6181d73c830c59c3a2"
+file = "config/triumph/script/draconicevolution/draconic_injector.txt"
+hash = "635fbf8b56a316a4324cc0e9e708659ab7f1c655044269d42ba167486a68c311"
 
 [[files]]
-file = "config/triumph/script/triumph/example/root.txt"
-hash = "c2b0915fc3d0ad700bb867108ec8269f1b42adcd549884f0fff00e154641c449"
+file = "config/triumph/script/draconicevolution/draconic_reactor.txt"
+hash = "506eb5b40bb4f951d47785f2cacd33bab7c2f7053ce7387d79a21ddd00e0e1d2"
 
 [[files]]
-file = "config/triumph/script/triumph/example/totemic/example_ceremony_performed.txt"
-hash = "8ae1934b5a2acb19b00280486670bba976e4403081279fad90e25aed7a1e6359"
+file = "config/triumph/script/draconicevolution/draconium_armor.txt"
+hash = "be665c921b2d9e9f74702386dacbf5424f2e00afa294153263a9078388071688"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/adventuring_time.txt"
-hash = "bee4629e43be2c33c77f436100f4942aa84934f5336f2ee07f3e34642af85d0c"
+file = "config/triumph/script/draconicevolution/draconium_block.txt"
+hash = "5a65b8f126be9b6be2cd5683a98811159a78c3d3d603ed73a6c2e98e7b79741b"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/kill_a_mob.txt"
-hash = "71c61279aba5a0d08bd7fa1d46acc8c93e9e2575847dec6ca90c4dc2542a50ca"
+file = "config/triumph/script/draconicevolution/draconium_capacitor.txt"
+hash = "9fa88e47d7ba0a73a1b81be18ad2c157fca7feb3324d2267ddd14b86a899f36a"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/kill_all_mobs.txt"
-hash = "152ff6a9ce0c37bf5d2851ee59b75a591a79524cf29e9a991b706e54a76d4d61"
+file = "config/triumph/script/draconicevolution/draconium_chest.txt"
+hash = "9dc73f1a399349c222543703eda419a190ed73fbf7db8fefe4ddd3e6d4cd7909"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/root.txt"
-hash = "7994da182f94919c7392f46f7a9647e72915a1b7d26cd51a866295f79acc09cf"
+file = "config/triumph/script/draconicevolution/fusion_crafting.txt"
+hash = "eaa1bb44a5f4b831cbcd3734c4ff4c1462261d55f5be76f2d24c8bf73656e26a"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/shoot_arrow.txt"
-hash = "27e5f4708499d7372a5edc06c62a22e283af5e48fa6be6882302bd043cb3a568"
+file = "config/triumph/script/draconicevolution/root.txt"
+hash = "2e57bbc7822648631c37339a351d70bba40c3898125a34e2237ef51dd25629c3"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/sleep_in_bed.txt"
-hash = "f85b4e3c9dfc964415cbc6485cd094919303ab97b5372bff666648ef620466e8"
+file = "config/triumph/script/draconicevolution/wyvern_arsenal.txt"
+hash = "49a19d12c323b0c9815757e0704b420ac3bb4f0fb93b11093179e92cd84e38d9"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/sniper_duel.txt"
-hash = "3bdc19048064af616cbfa28def0cea7f0ee1c1b6bbf3c276573ff93f5fb32901"
+file = "config/triumph/script/draconicevolution/wyvern_core.txt"
+hash = "33573a88050928f8fd708b29d7a5794f8275009227cb9ac2f88b19e50989c09e"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/summon_iron_golem.txt"
-hash = "5b6081a7c626f9aa3293b0a1d69be6e6a344d186cc3c37bcf6adcd15e05e5d6e"
+file = "config/triumph/script/draconicevolution/wyvern_injector.txt"
+hash = "ce875d5c94395d89ca4468a48adb7994bd1057db86c5eea009a6e1ef2e7b5712"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/totem_of_undying.txt"
-hash = "8397cacfc92859f97f856c039b7692a9962dbd4d01aac78feb95fbad286cf5bf"
+file = "config/triumph/script/infiniterevolution/get_bedrock.txt"
+hash = "0584fe9dd4f43f0421da4c3099c38c6492e640eabb5e47fa8eee5b7d018cf41c"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/adventure/trade.txt"
-hash = "9aaf86e5ba3943df043081e18cc79fa46f1f701a20743eab7924c2473953025c"
+file = "config/triumph/script/infiniterevolution/get_bedrock_pickaxe.txt"
+hash = "78ed97eb8a352625ee0b9a29b5cf19ce97bba518112e509bc08683078271e4b8"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/end/dragon_breath.txt"
-hash = "12dc666543a570bbbcd15e9396ad29cc854ba436e6b09eeec3a8aac3ff18e21c"
+file = "config/triumph/script/infiniterevolution/get_ir_star.txt"
+hash = "03cbeb1c5b095cd406e971355485e77bb3494c6966db3613c0dd40443c94f9bd"
 
 [[files]]
-file = "config/triumph/script/triumph/vanilla/end/dragon_egg.txt"
-hash = "8aa483d2a34547886d0f646185a627c4dd1f89663a1776991be5d619a6e220de"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/elytra.txt"
-hash = "988f171a27a5f5bcc160f473c90221606bed4f896b231a4a41e62992e115cf59"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/enter_end_gateway.txt"
-hash = "94b59858032dc46f448240f0b36950a320ce3305dc1ceb9d5ea442148be0ace4"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/find_end_city.txt"
-hash = "758d929dcf59eedc41edfb3108c69134a59c87e93f625b21c83d2119911b3321"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/kill_dragon.txt"
-hash = "8dcdf926a5bc14894a065687633a708b6484eced84fb3ad701db82b919d2f396"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/levitate.txt"
-hash = "dfd2564fbd62d30648c8aef137562ea51f5b60ce32ce4b43ff36d6f0a6208928"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/respawn_dragon.txt"
-hash = "0d1e12aed5d316c3ec8acf3ea10eac7feb2c49333e5aacec27c5f74a68736232"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/end/root.txt"
-hash = "be90243f7f196c8a873d87f3a3ea6748f1662bca11a61fb04093323487742559"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/balanced_diet.txt"
-hash = "2097de3e2458e651b5a4ab1b1edff02c7f16ded527d995e006135e77e629cd6a"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/break_diamond_hoe.txt"
-hash = "e535fc3aa0bcc255581e0d374a312590674e42203733a3d25dfc9aaed7efa9be"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/bred_all_animals.txt"
-hash = "8c0a5fac280b0e52a3d78bf296f99d0feff038eff93a2c1c1dd268f175f3ac94"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/breed_an_animal.txt"
-hash = "5f954859e1ec0382f433bc21cf0b32297a48cc7d1dce5343d6b3f78442c98f06"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/plant_seed.txt"
-hash = "41b7da51bc34d2872e864015523b86f5aba311c880401cbb2d3663a27a9f4bdb"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/root.txt"
-hash = "d3604c3d08d7e6aa8eba686bc32d31c0ec0805fc3ae0c8513c1fa87e14e65f55"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/husbandry/tame_an_animal.txt"
-hash = "f16db5c0528715f4d6e3d9d289e3819e49aa9047ba2fe91673410543bdf3504f"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/all_effects.txt"
-hash = "8bd5b39f270698232cdae5165f2e0545e684ed05f28a7c2161665b3856a9c6ab"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/all_potions.txt"
-hash = "9acac25edb228cc1ddbfe88cc4d150ab9ba1a66cefc5059d71c0d5f2afcf7a12"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/brew_potion.txt"
-hash = "9c9a0cbcf9e3a200403eb5792b33ea1994c6eaea8069b2c465b3fff7df78b776"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/create_beacon.txt"
-hash = "ad7456376597a4f9b8fcc7cf35f3e8bb9a0a12fbe60c1e38ec6ef0c1f55cdb80"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/create_full_beacon.txt"
-hash = "e814e4f85daa754e596572885e62ec8e2b53e0276c7aacebf4ac0d09ad9f20c0"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/fast_travel.txt"
-hash = "93bb2d02be374e6642f9a7b553aa946428909f8ffa4ca6202a192f3e91b3c4dd"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/find_fortress.txt"
-hash = "910ed1eac82f71abfddd6df6846f0be38621495acfd292cabd412b9395296cfb"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/get_wither_skull.txt"
-hash = "83000f8130d912b07bed79522420f7550ff903c9af3343aed3e67a03437a0472"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/obtain_blaze_rod.txt"
-hash = "d4b37d2e21a577bea4145f5385e326a8d3810412eb0d573daf18f0cf4b242f6b"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/return_to_sender.txt"
-hash = "60ebbf48e3374aafcaf952fa20049f84d0db46144595293deed8972f406db9aa"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/root.txt"
-hash = "bc3ec92a100914f5158d41b1be19f3fe680f7fd53235310d8a7ca96e2956efaf"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/summon_wither.txt"
-hash = "e4e5c373d258415326d202cefedf03f3675f8a9a499c824cfbaeb4b930035d0a"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/nether/uneasy_alliance.txt"
-hash = "cad8f8ffe69b559fc2cc1b125662e0ce6e84774f47d7f870a4afb7ebf3bb74cd"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/blaze_powder.txt"
-hash = "d9bc86f61533049051269de2a29a68b732b59d70febb0c1facfb5c958f8b475a"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/brewing_stand.txt"
-hash = "1870477b51f02f185e8f3c39263bbc6a31877f963e92432819dccdcef3294be7"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/cauldron.txt"
-hash = "09c0b6c19a2d939af5c3d71d1a2c09233f9a6c1ec9c47f9306f08a47a92817fd"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/fermented_spider_eye.txt"
-hash = "0f4e8dcb64ee5f8a33f16f96cfc2c768886bc936fc4df5269dd1c3ea79a79f5f"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/glass_bottle.txt"
-hash = "6bee361dd2db3892e75c51dbbc479dc352e7c46357c725d74428b537f584bb0c"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/golden_carrot.txt"
-hash = "c495e80e2026a3fbc80aa93232bb54c9508bcf82c665c543a582a514185eaa7c"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/magma_cream.txt"
-hash = "373a8997d5ecfe6c187f8c61ac64e99ca61a754e0b1e6b9c75907d3601bdab28"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/brewing/speckled_melon.txt"
-hash = "22ce361e812181912aaf42fe1741b59d1f073f57e00cd2c30afea7f59c8e69ac"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/recipes/root.txt"
-hash = "544a52575a83c5eeabf203a296cac5b14b4a82e70f75823d2b4627dac8a4e0da"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/cure_zombie_villager.txt"
-hash = "dec0c24eb80e7d69221261d1f874157890402ac3b51603d5afb525b487f68140"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/deflect_arrow.txt"
-hash = "70eae9d490fc688b200f955e4cc773be9ff1e00868f8def9ea720f6fb2054d80"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/enchant_item.txt"
-hash = "3836f3391369739edb1f46af786c59f4a57ed934b263e67876ed33ecaa781ed5"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/enter_the_end.txt"
-hash = "7d2e4ba88b175ac119ffa072c2ad01f8b6d84405abdaf6848ede8e53e70d6f6f"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/enter_the_nether.txt"
-hash = "61a7a8d891980a5191d7915fb0e5e4f25c8320161726936513aab71a127c12ea"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/follow_ender_eye.txt"
-hash = "63c5e03063602d50232f8f9f00c422d90f5af00643b05314a2d9be963327c958"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/form_obsidian.txt"
-hash = "31650c433f8013c34d6c0ac471e0fdcede0129b14967467135503b38d4e6bff7"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/iron_tools.txt"
-hash = "7d9f9cfbe9f8b8ac28dddc2a08470fd15f560bca89b359c939f59c278d56e525"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/lava_bucket.txt"
-hash = "88a071ed517fd67276c368a34b4aa5dbc2f6c207b205f00125ebe13399508f2e"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/mine_diamond.txt"
-hash = "65cd4b04e74b76e96464b4acea86bad64eb272d1460e0ca344dcb95e8dad0397"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/mine_stone.txt"
-hash = "12ee1adf67d01c708d3c50eeb48764a2b4eb6f977f27452033e46d22ebbe8d03"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/obtain_armor.txt"
-hash = "5ccfbe02ed916eb50c2991ddba3efc8ec354e15da24bb20fcd3c469c25f82dc6"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/root.txt"
-hash = "40596d57002c50f2638d0403a2f8780ca100971b38a3c5451c1fe3ca9eb58004"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/shiny_gear.txt"
-hash = "204991a022e5955a3e74223869209b1e00e09ff27cd22c512dd6e6d854b06154"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/smelt_iron.txt"
-hash = "9c87c02fc7752f1602e76104d7e02ec4b97dd1cc4359d6608dd312e85e604f4e"
-
-[[files]]
-file = "config/triumph/script/triumph/vanilla/story/upgrade_tools.txt"
-hash = "73ffb94a118a8ea75b82314f2f0e4cc92dc01b5db6e2e37d99355f93d2673efb"
+file = "config/triumph/script/infiniterevolution/root.txt"
+hash = "2d2abdda5cc19e775eefed7f8f612deee76260bed7cdc98e42fe3e65e1539dba"
 
 [[files]]
 file = "config/unidict/IntegrationModule.cfg"
