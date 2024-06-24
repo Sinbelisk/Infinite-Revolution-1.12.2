@@ -78,8 +78,22 @@ function addLootToEntity(entityTableID as string, poolName as string, item as II
 }
 
 //ADDING AREA :)
-addLootToEntity("abyssalcraft:entities/jzahar", getPoolName("box"), getLootBoxTier(3), 100, 3, 3);
-addLootToEntity("abyssalcraft:entities/jzahar", getPoolName("key"), getKeyTier(3), 100, 3, 3);
+addLootToEntity("twilightforest:entities/naga", getPoolName("key"), getKeyTier(1), 0.2, 1, 1);
+addLootToEntity("twilightforest:entities/lich", getPoolName("key"), getKeyTier(1), 0.3, 1, 1);
+addLootToEntity("twilightforest:entities/minoshroom", getPoolName("key"), getKeyTier(1), 0.4, 1, 1);
+addLootToEntity("twilightforest:entities/hydra", getPoolName("key"), getKeyTier(2), 0.3, 1, 1);
+addLootToEntity("twilightforest:structures/stronghold_boss/stronghold_boss", getPoolName("key"), getKeyTier(1), 0.4, 1, 1);
+addLootToEntity("twilightforest:structures/darktower_boss/darktower_boss", getPoolName("key"), getKeyTier(2), 0.3, 1, 1);
+addLootToEntity("twilightforest:entities/yeti_alpha", getPoolName("key"), getKeyTier(1), 0.4, 1, 1);
+addLootToEntity("twilightforest:entities/snow_queen", getPoolName("key"), getKeyTier(2), 0.3, 1, 1);
+addLootToEntity("aether_legacy:entities/bosses/slider", getPoolName("key"), getKeyTier(1), 0.3, 1, 1);
+addLootToEntity("aether_legacy:entities/bosses/valkyrie_queen", getPoolName("key"), getKeyTier(1), 0.5, 1, 1);
+addLootToEntity("aether_legacy:entities/bosses/sun_spirit", getPoolName("key"), getKeyTier(2), 1, 1, 2);
+addLootToEntity("abyssalcraft:entities/sacthoth", getPoolName("key"), getKeyTier(2), 0.5, 1, 3);
+addLootToEntity("abyssalcraft:entities/asorah", getPoolName("key"), getKeyTier(1), 0.3, 1, 1);
+addLootToEntity("abyssalcraft:entities/chagaroth", getPoolName("key"), getKeyTier(3), 0.3, 1, 1);
+addLootToEntity("abyssalcraft:entities/jzahar", getPoolName("key"), getKeyTier(3), 1, 3, 3);
+addLootToEntity("abyssalcraft:entities/jzahar", getPoolName("box"), getLootBoxTier(3), 0.33, 1, 3);
 
 
 print("[LOOTBOX KEY DICTIONARY ADDING] [END]");

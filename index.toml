@@ -3547,7 +3547,7 @@ hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
 
 [[files]]
 file = "scripts/lootboxesLootTables/boxesandkeys.csv"
-hash = "2eb07eba62bada7da0f03578862aa7d7f9300f714f01fcf680cc07784f60bfd4"
+hash = "8920fc92d6d2239a31c71cab147e9f1195e628ec8dc67ae1b7bcc4034a070f2b"
 
 [[files]]
 file = "scripts/lootboxesLootTables/csvToCodeLootTables.py"
@@ -3555,11 +3555,11 @@ hash = "d3053dc85c87db1ddfc4d085ed0df73af31f30f762b2f621dfaa7afbc873a190"
 
 [[files]]
 file = "scripts/lootboxesLootTables/lootboxesAndKeys.zs"
-hash = "fa1e148376bc98a3e77601407ef2b8d0aa321f86784833dc8e521efd67d44644"
+hash = "cc6d0ff5f1d0e9881d90996ea3bd96f22c939f23cfafbf9fd75ae898a85f4915"
 
 [[files]]
 file = "scripts/lootboxesLootTables/output_code.txt"
-hash = "627e2e9bc05768e0177f6538426dbd8ba0f6d50024a954c13ee2100be1bcd8d6"
+hash = "1c023ab3c21ed59e8bfc2b3e042b8fb21d84745d10c4ef158210a782e25e4c9b"
 
 [[files]]
 file = "scripts/misc.zs"
