@@ -10,7 +10,7 @@ setDescription("You hunted to extintion all the dragons from The End, was it wor
 addParent("draconicevolution:chaos_shard")
 
 //Set the position
-setPos(330,0)
+setPos(334,0)
 
 //Hide the connection lines, so I can have a pretty shape
 

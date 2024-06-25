@@ -13,7 +13,7 @@ addParent("draconicevolution:draconium_armor")
 addParent("draconicevolution:awakened_core")
 
 //Set the position
-setPos(300,60)
+setPos(270,60)
 
 //Hide the connection lines, so I can have a pretty shape
 

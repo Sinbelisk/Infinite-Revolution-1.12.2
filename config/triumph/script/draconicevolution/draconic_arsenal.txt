@@ -13,7 +13,7 @@ addParent("draconicevolution:wyvern_arsenal")
 addParent("draconicevolution:awakened_core")
 
 //Set the position
-setPos(300,-30)
+setPos(270,-31)
 
 //Hide the connection lines, so I can have a pretty shape
 

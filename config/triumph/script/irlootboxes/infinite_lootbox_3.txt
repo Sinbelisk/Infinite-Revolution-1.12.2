@@ -1,0 +1,21 @@
+//Set the icon item
+setIcon(<infinite_revolution:infinite_lootbox:3>)
+
+//Set the title String
+setTitle("Infinite Box Fortunest")
+
+//Set the description String
+setDescription("Obtain A Infinite Lootbox With Fortune III")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("irlootboxes:infinite_lootbox_2")
+
+//Set the position
+setPos(-291,-177)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasInfiniteLootIIIBox", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:infinite_lootbox:3>)

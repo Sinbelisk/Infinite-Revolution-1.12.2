@@ -1,0 +1,24 @@
+//Set the icon item
+setIcon(<galacticraftcore:infinite_battery>)
+
+//Set the title String
+setTitle("Nikola Tesla's Dream")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Obtain The Creative Battery")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:root")
+
+//Set the position
+setPos(9,-239)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+criteria = addCriteria("hasBattery", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<galacticraftcore:infinite_battery>)

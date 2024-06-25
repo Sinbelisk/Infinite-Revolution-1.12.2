@@ -1,0 +1,21 @@
+//Set the icon item
+setIcon(<sgcraft:sgcontrollercrystal>)
+
+//Set the title String
+setTitle("Are You Insane!?")
+
+//Set the description String
+setDescription("Obtain Stargate Controller Crystal")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:naquadah_alloy_block")
+
+//Set the position
+setPos(-240,-196)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasControllerCrystal", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<sgcraft:sgcontrollercrystal>)

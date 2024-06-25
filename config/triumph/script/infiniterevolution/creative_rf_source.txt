@@ -1,0 +1,24 @@
+//Set the icon item
+setIcon(<draconicevolution:creative_rf_source>)
+
+//Set the title String
+setTitle("Nikola Tesla's Dream But Better")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Obtain The Creative RF Source")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:root")
+
+//Set the position
+setPos(22,-196)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+criteria = addCriteria("hasRFSource", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<draconicevolution:creative_rf_source>)

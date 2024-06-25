@@ -1,0 +1,21 @@
+//Set the icon item
+setIcon(<sgcraft:sgpowerunit>)
+
+//Set the title String
+setTitle("Ultimate Energy Hatch For Sanes")
+
+//Set the description String
+setDescription("Obtain Stargate Power Unit")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:stargate_base")
+
+//Set the position
+setPos(-127,-210)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasStargatePowerUnit", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<sgcraft:sgpowerunit>)

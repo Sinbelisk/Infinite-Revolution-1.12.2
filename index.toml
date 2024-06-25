@@ -1917,6 +1917,10 @@ file = "config/triumph/script/avaritia/infinity_pickaxe.txt"
 hash = "107f73e3a9d3ef0eee845334c266ceada06292d6d6a6330dc98bdd7d44caa91e"
 
 [[files]]
+file = "config/triumph/script/avaritia/nan.txt"
+hash = "9d5d8018ddc4421358e86f737a79dd7da5938739eb692dcb8088c7aa6084d2e5"
+
+[[files]]
 file = "config/triumph/script/avaritia/obtain_crafting_table.txt"
 hash = "9c54ca7e1b24b4b616121028b4a602e607a515975a67b80c5d1cd2d0764d180e"
 
@@ -1998,23 +2002,23 @@ hash = "f61514862a877dc770620af68dd092f29829973b8a54b7295cc17668969341a6"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/chaos_core.txt"
-hash = "cf11f76e5e655b32046540c960789dbc7bb48389a1a4aeb1930dfccf6839d79b"
+hash = "2eec2f7bd5168b4b95a5f337094394193f26351107d4933bf7c3147467df99c3"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/chaos_injector.txt"
-hash = "e51194e92ae59f8e902e00dd53ed78bb66217e786f56e60ea241b55cba6cdbcf"
+hash = "c2c671db94385d176a521cab6c6e635fbfb8652b14c802aa7e2d7a4256b6300e"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/chaos_shard.txt"
-hash = "2105c8a101fef26ed911b83bf1bd5b5db30af02c387463629024381e9b577160"
+hash = "f2c07c4df59326c986938ae2bfc753223444ae0562608ce38ba9726f971d402d"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconic_armor.txt"
-hash = "1358efeb100550731f5ac224a6328350824734eb11f8591f44048e31d06ed831"
+hash = "82618cd3b635f44c9436768f53d027077bf1bead6a827bd7b23cf2fa929f3a59"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconic_arsenal.txt"
-hash = "5f078d5ff3858cb136fc75c5ee362accb3ca54d2906f8a80e4c53247454bc1ec"
+hash = "6242d55c85a608d409bc800b601edb84111eecff14ef9edde19f89a35d018d41"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconic_block.txt"
@@ -2022,7 +2026,7 @@ hash = "3ad35152a9406ff933257a30d877a8cd10ab1fabece24696eece4ff3dc40db6a"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconic_capacitor.txt"
-hash = "979d37505da821bbb6eb8564b62eef67a6294800d0aa7e15ec84603b1880ec69"
+hash = "929b52fe8103b14ac26e7364f79fe109a2ec673f3cb7adb7399973a1bdd19cdb"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconic_core.txt"
@@ -2034,7 +2038,7 @@ hash = "635fbf8b56a316a4324cc0e9e708659ab7f1c655044269d42ba167486a68c311"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconic_reactor.txt"
-hash = "506eb5b40bb4f951d47785f2cacd33bab7c2f7053ce7387d79a21ddd00e0e1d2"
+hash = "59ed9f7702ad1b0f796ef7e9cfcc126dd054d673163ca382af03100e19e808d4"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/draconium_armor.txt"
@@ -2054,7 +2058,7 @@ hash = "9dc73f1a399349c222543703eda419a190ed73fbf7db8fefe4ddd3e6d4cd7909"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/fusion_crafting.txt"
-hash = "eaa1bb44a5f4b831cbcd3734c4ff4c1462261d55f5be76f2d24c8bf73656e26a"
+hash = "db6eafd392fbe9aeb9e4aec0694724fa1f4e37477fbdc7d17b0647fd107b329e"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/root.txt"
@@ -2062,7 +2066,7 @@ hash = "2e57bbc7822648631c37339a351d70bba40c3898125a34e2237ef51dd25629c3"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/wyvern_arsenal.txt"
-hash = "49a19d12c323b0c9815757e0704b420ac3bb4f0fb93b11093179e92cd84e38d9"
+hash = "bcf2c5eb3141e299061f224398b4912d1302e71cbbe1603a7fa321e93dd5c691"
 
 [[files]]
 file = "config/triumph/script/draconicevolution/wyvern_core.txt"
@@ -2071,6 +2075,66 @@ hash = "33573a88050928f8fd708b29d7a5794f8275009227cb9ac2f88b19e50989c09e"
 [[files]]
 file = "config/triumph/script/draconicevolution/wyvern_injector.txt"
 hash = "ce875d5c94395d89ca4468a48adb7994bd1057db86c5eea009a6e1ef2e7b5712"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/bedrock.txt"
+hash = "412415af0dc706c73f69a93b936ad6783252997bcc6b9e7fb55f1e4f715455f4"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/bedrock_pickaxe.txt"
+hash = "2f23309269eb5fa99ab91195fc8b8d60d04adecab93040ccc676095008821109"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/chevron_block.txt"
+hash = "78d7a8e7f741929f55402c9648e231e8e498fd3aae2b54d9a4154222a60b2cda"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/chevron_upgrade.txt"
+hash = "c62035c35e1e5ab35e4e45410632691e74723102b9754535075cafd85c20fce2"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/computercraft_interface.txt"
+hash = "458e2173a32c93b467e133932b8aaf3aa0c34fca2ac5a045e3c017d48f9df02d"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/controller_crystal.txt"
+hash = "308bf72697a1ca70e6a9d920b26fb28b9c991fb9e4462c1b04aac80f55895182"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/core_crystal.txt"
+hash = "5a864fcb1d3dfa869f33952aeb592859b7e29d19099bde3a69f8c6e35c3c72cb"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_battery.txt"
+hash = "6fb08f06234c46211f6d870a45b4ba218bec24148897de205907fa93130e7ea6"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_blood_drop.txt"
+hash = "042db7e4fbbed42f8fccfaf7ee4fcb9097ac232cf818a54d2a8fa953ed7e5c96"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_drum.txt"
+hash = "d5265524ac5ae9740ba46010323b91d4f9227a88d41f7e640645fad9d998f4e8"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_fluid_storage_disk.txt"
+hash = "ed8dc11fadbd83c9dd6e2a2e5ba99459fe0ad0fa24c884350f26feaedb886808"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_mana_tablet.txt"
+hash = "326f3f0006d386f6e56ae553a3def73cf60b8b69d3616b42ab86f3b298b63951"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_oxygen_supply.txt"
+hash = "25037bf6fa2f165434b7065d1819099ee892f9e25a9827a3245af804e398f8d5"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_rf_source.txt"
+hash = "49e972ca520fb0a316e72735843594572a1d69100a5ebb54e29598e206e8b7ea"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/creative_storage_disk.txt"
+hash = "faae7066aad199121904a5ac60af6dd468436a53bc31e61e1a04de87acc8b42f"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/get_bedrock.txt"
@@ -2085,8 +2149,136 @@ file = "config/triumph/script/infiniterevolution/get_ir_star.txt"
 hash = "03cbeb1c5b095cd406e971355485e77bb3494c6966db3613c0dd40443c94f9bd"
 
 [[files]]
+file = "config/triumph/script/infiniterevolution/giga_chad_token.txt"
+hash = "d2ce26943164e3b37bf5037de9ecf6f690e92ff9dc16c63b33572471d97e37b4"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/ic2_power_unit.txt"
+hash = "9dbeeb81af91fb7fcea2d64b63ecc9846d56f52d9c33bfb298b928a472ca4a9f"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/ir_star.txt"
+hash = "5cd6ebb819d4f72cc479dc036fbe617995c3490effc549d873a9962ddd92c9fa"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/iris_upgrade.txt"
+hash = "21861114615c22c21030420eaf97aaf734b2c7649579b70cfed7977fd15c8234"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/largest_circuit.txt"
+hash = "640a656d266cf5a11cb779a414e6583c7bb5a7f64b1751ce3d734f77772720dc"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/naquadah_alloy_block.txt"
+hash = "94da2a0d8eccaf1139ac60956f6fae2d4313180e7a22de6f8676f836664a8109"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/naquadah_alloy_ingot.txt"
+hash = "1ff09dbe8741870f156fcbb17e1dbb72ecc27cfdcc06b803300bde491be65504"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/naquadah_ore.txt"
+hash = "9f6e3924392bbbdf3b9eadcbc0f9600b645ce72dc564fcc14a15036470b07ed5"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/opencomputer_interface.txt"
+hash = "ea2943262e8f036504d50a198df46921d3aa64619def95203b11fc88da8b21ab"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/pegasus_update.txt"
+hash = "116297e896b7599abc726b69e59c32d299d2f53a1cfcaa27033dcf8cce31299e"
+
+[[files]]
 file = "config/triumph/script/infiniterevolution/root.txt"
-hash = "2d2abdda5cc19e775eefed7f8f612deee76260bed7cdc98e42fe3e65e1539dba"
+hash = "c58c653da3b243782713f27873397617302be48ebb949697615182d80be93aec"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/sg_power_unit.txt"
+hash = "b8c337bd57881a7b00a4360366f29831bfcd7c607d50a2876677ed9fcb01223a"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/stargate_base.txt"
+hash = "40e3a977a60bb05355d66b803a4526392ae635b061ee7a3b86e44ca95837d93a"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/stargate_ring.txt"
+hash = "be77bf5f94bbe4296edc57bebd18e4c1f411a3e8cb3c7e8b2e531a0b099a5b76"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/trinium_block.txt"
+hash = "ecbaa62407451d55737eb11103934da92af4e8bfeae8c0546c19521eb23ba7ee"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/trinium_ore.txt"
+hash = "67e78efe21584b6fe95d77f27b7440fd07732fca78419a07681e7219081b061e"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/infinite_key.txt"
+hash = "3fcf6c82f41abe76953dd7751d2c74005622838bebbc5c259195456c3c984da7"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/infinite_lootbox_0.txt"
+hash = "0c5d37d9f12e7eb7a34040cc85ad20824e1f0a0d6e8cb0d69d7c768c7f9e904b"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/infinite_lootbox_1.txt"
+hash = "806c1fcbdfbb17c0b6c9a1e3ced17a54ed0c2cfc442a7c03f5672e75f60dd106"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/infinite_lootbox_2.txt"
+hash = "75b2a01bdf36d972e1eb774b485f387e3091c738c135e01b01ce7e6b8bf86e94"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/infinite_lootbox_3.txt"
+hash = "d76ceff20e1f18b23b0985deabaa513e5d5a967263346916a9d6fe1f8e3eb04d"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/neutronium_key.txt"
+hash = "686077072844a6000391867b5a0ae6faaa90448d57212eb80cd52006b27dfbfe"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/neutronium_lootbox_0.txt"
+hash = "dc4f045720a7a213dc088195f9a0b1e0f622a9f0413cf91eca9e41967c2718d1"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/neutronium_lootbox_1.txt"
+hash = "bd31ce3bef41eb216921b4407a27d9340acfbdaacaa11ab4b1249a59d9ee9d0b"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/neutronium_lootbox_2.txt"
+hash = "2014f99bb496f27bb2de875e8ba47d5e9dd8daddde39848210e21aaeb23cef72"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/neutronium_lootbox_3.txt"
+hash = "ab1337294c075f874c007bf1e39ca69719d9436c196b2035dc53865433e97e5f"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/root.txt"
+hash = "f71b5e1d8d1f444f5a149fcdf2343d8712e079ab69d4d47e22aca7ac5385ba75"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/trinium_block.txt"
+hash = "c101e248278ebd2c7d256b7af217895dbad4c994a942c5f19bdbaf99aff94b6e"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/trinium_key.txt"
+hash = "7fd8285fd2afb2cce2bdca3a04883c5f41e28238ca177a34ca33e6b9fed2ed76"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/trinium_lootbox_0.txt"
+hash = "f5228e1a3ed42356c6b5eafdec9f36bab561fed88bd62f0d3b2e7ee454855212"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/trinium_lootbox_1.txt"
+hash = "6af482565930c5212e791a2fc41c13f68c0df4faf970c6e98e33678da78ec718"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/trinium_lootbox_2.txt"
+hash = "980c570687aa243d9b930de0181b7433231b422c7bd7de9f21a49d8201282336"
+
+[[files]]
+file = "config/triumph/script/irlootboxes/trinium_lootbox_3.txt"
+hash = "f9624d8edb3eb085b9e184a653e683bbf1e626b668461f8a87a9b5ce5a27e467"
 
 [[files]]
 file = "config/unidict/IntegrationModule.cfg"
@@ -2122,7 +2314,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "59705818329a88111af59e78a77041a0df1207faa66820e5dd9a9174e29863e8"
+hash = "b6312e24d52d1fc743dad5b7eddd2c92f975f5fac3074be55782646ad9cd2fb6"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -3695,7 +3887,7 @@ hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
 file = "scripts/InfiniteRevolution.zs"
-hash = "258024fc9263e0ada4f1a3b59698e25948fd47384fa75f69ccf845008b36eca5"
+hash = "c25312c931fb0c4d94cc00d9ba83982dc39c43c7223918ed77f480f671ddbe94"
 
 [[files]]
 file = "scripts/Loot.zs"
@@ -3727,11 +3919,11 @@ hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
 
 [[files]]
 file = "scripts/avaritiaRework.zs"
-hash = "f5443a76fd1cc1c6578ffae6c1fce0592d0a3e964451f9f3407c0b8d91c66b2a"
+hash = "c38c274d8297b8c73ffc905720a346fe753dd94c1facc567d217f938e8de87ee"
 
 [[files]]
 file = "scripts/creativeCrafts.zs"
-hash = "d946c6902016b282d9a7bf08b055f4e0becba5af9ad909dcdbbc34a0d99ff4f8"
+hash = "c8f0206bc6a039f5069c0206370fbebbc40d2988c83086f9bb97ad4a9b603bbd"
 
 [[files]]
 file = "scripts/draconicXAvaritia.zs"
@@ -3743,7 +3935,7 @@ hash = "4580bf0b065809f5bae0667b5d488a2177be1862321431f366c6c277db4f80ec"
 
 [[files]]
 file = "scripts/generalBalance.zs"
-hash = "bef9ec895ca72d7d07cc642a3c430c12d534991b12af97b4e8e05766e8451594"
+hash = "e798b4c029e60f4a4f2d12c54bd83ea3dcd1dc4694e38609c672ba743d25f3cb"
 
 [[files]]
 file = "scripts/guiasSpawn.zs"
@@ -3774,12 +3966,16 @@ file = "scripts/mystical.zs"
 hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
 
 [[files]]
+file = "scripts/neutroniumCompressor.zs"
+hash = "4adef0d6506bca8d35e56b485d2266ed8ecda42b320dacccf159252674c3d5d3"
+
+[[files]]
 file = "scripts/plates.zs"
 hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
 
 [[files]]
 file = "scripts/starGateRework.zs"
-hash = "6db04a431ea1f94dc4f46e77d77a0076e86b4a24e2e6af1c246fce15e49836b7"
+hash = "4e9cba347b6f90f24a14aee5ef4188a35267ffc562f0a630c07ec25180212d95"
 
 [[files]]
 file = "scripts/toolsAndWeapons.zs"

@@ -31,8 +31,6 @@ recipes.addShaped("newCristalMatrixIngotFourCraft", <avaritia:resource:1> * 3,
     [<avaritia:resource>, <minecraft:nether_star>, <avaritia:resource>] 
 ] );
 
-mods.avaritia.Compressor.add("iridiumSingularityCraft", <avaritia:singularity:14>, 1, <thermalfoundation:storage:7>, false);
-
 mods.avaritia.ExtremeCrafting.remove(<eternalsingularity:eternal_singularity>); // Remove eternal singularity old extreme craft 
 
 // Add eternal singularity new extreme craft

@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<infinite_revolution:trinium_block>)
+
+//Set the title String
+setTitle("Final Manual Grind.")
+
+//Set the description String
+setDescription("Obtain 64 Blocks Of Trinium")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("irlootboxes:root")
+
+//Set the position
+setPos(-516,-267)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasMoreTriniumBlock", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:trinium_block>)
+
+criteria.setCount(64)

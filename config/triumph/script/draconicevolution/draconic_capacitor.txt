@@ -12,7 +12,7 @@ setDescription("A comically large battery")
 addParent("draconicevolution:wyvern_core")
 
 //Set the position
-setPos(300,30)
+setPos(270,29)
 
 //Hide the connection lines, so I can have a pretty shape
 

@@ -12,7 +12,7 @@ setDescription("With Ender Dragons extint, now it's time for Chaos Dragons")
 addParent("draconicevolution:awakened_core")
 
 //Set the position
-setPos(300,0)
+setPos(304,0)
 
 //Hide the connection lines, so I can have a pretty shape
 

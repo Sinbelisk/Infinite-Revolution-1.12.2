@@ -8,7 +8,7 @@ setTitle("The origin of Madness")
 setDescription("Obtain a Extreme Crafting Table, now the real challenge begins")
 
 //Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
-addParent("avaritia:obtain_matrix")
+addParent("avaritia:obtain_matrix_block")
 
 //Set the position
 setPos(90,0)

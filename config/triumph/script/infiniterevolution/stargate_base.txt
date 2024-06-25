@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<sgcraft:stargatebase>)
+
+//Set the title String
+setTitle("To The Stars 3 And That's It")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Obtain Stargate Base")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:chevron_block")
+
+//Set the position
+setPos(-170,-196)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasStargateBase", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<sgcraft:stargatebase>)

@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<infinite_revolution:giga_chad_token>)
+
+//Set the title String
+setTitle("What Is A Woman?")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Obtain Giga Chad Token")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:bedrock")
+
+//Set the position
+setPos(-295,-196)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasGigaChadToken", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:giga_chad_token>)

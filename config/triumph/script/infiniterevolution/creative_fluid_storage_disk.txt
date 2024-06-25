@@ -1,0 +1,24 @@
+//Set the icon item
+setIcon(<refinedstorage:fluid_storage_disk:4>)
+
+//Set the title String
+setTitle("I Hate NBT Tags But With Fluids")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Obtain The Creative Fluid Storage Disk")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:root")
+
+//Set the position
+setPos(-34,-252)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+criteria = addCriteria("hasFluidStorageDisk", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<refinedstorage:fluid_storage_disk:4>)

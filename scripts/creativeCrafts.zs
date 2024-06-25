@@ -142,9 +142,6 @@ mods.avaritia.ExtremeCrafting.addShaped("newCraftInfiniteOxygenTank", <galacticr
     [null, <extraplanets:tier11_items:6>, <extraplanets:tier11_items:6>, <extraplanets:tier11_items:6>, <extraplanets:tier11_items:6>, <extraplanets:tier11_items:6>, <extraplanets:tier11_items:6>, <extraplanets:tier11_items:6>, null],
 ] );
 
-// Add craft (Octuple Compressed Cobblestone -> Bedrock Cobblestone) from Compressor
-mods.avaritia.Compressor.add("newBedrockCraft", <extrautils2:decorativebedrock:2>, 1, <extrautils2:compressedcobblestone:7>, false);
-
 // Add furnace craft (Bedrock Cobblestone -> Bedrock)
 furnace.addRecipe(<minecraft:bedrock>, <extrautils2:decorativebedrock:2>);
 

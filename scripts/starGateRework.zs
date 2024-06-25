@@ -28,8 +28,6 @@ for item in itemsDeletedCraft {
     recipes.remove(item);
 }
 
-mods.avaritia.Compressor.add("stargateControllerCrystalCraft", <sgcraft:sgcontrollercrystal>, 1, <sgcraft:naquadahblock>, false);
-
 recipes.addShaped("newStargetCoreCrystalCraft", <sgcraft:sgcorecrystal>, 
 [
     [<sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>, <sgcraft:sgcontrollercrystal>],

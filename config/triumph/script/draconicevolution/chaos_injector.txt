@@ -10,7 +10,7 @@ setDescription("Upgrade your Awakened Injectors to Chaos Tier. The Chaos Gods ar
 addParent("draconicevolution:chaos_core")
 
 //Set the position
-setPos(360,0)
+setPos(365,0)
 
 //Hide the connection lines, so I can have a pretty shape
 

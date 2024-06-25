@@ -1,0 +1,22 @@
+//Set the icon item
+setIcon(<infinite_revolution:trinium_ore>)
+
+//Set the title String
+setTitle("Getting Best Material")
+
+//Set the description String
+setDescription("Mine Trinium Ore")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:root")
+
+//Set the position
+setPos(-341,-174)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+criteria = addCriteria("hasTriniumOre", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:trinium_ore>)

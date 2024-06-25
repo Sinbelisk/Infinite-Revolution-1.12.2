@@ -39,30 +39,28 @@ recipes.addShaped("newNasaWorkbenchCraft", <galacticraftcore:rocket_workbench>, 
 ]);
 
 recipes.remove(<ic2:te:22>);
-recipes.addShaped("newNasaWorkbenchCraft", <ic2:te:22>, [
+recipes.addShaped("newNuclearReactor", <ic2:te:22>, [
     [<ic2:plate:14>, <ic2:crafting:2>, <ic2:plate:14>],
     [<ic2:te:24>, <ic2:te:24>, <ic2:te:24>],
     [<galacticraftplanets:item_basic_asteroids:6>, <ic2:cable:1>.withTag({type: 1 as byte, insulation: 0 as byte}), <galacticraftplanets:item_basic_asteroids:6>]
 ]);
 
 recipes.remove(<mob_grinding_utils:mob_swab>);
-mods.avaritia.ExtremeCrafting.addShaped("notCock", <mob_grinding_utils:mob_swab>,
-[
-    [null, null, null, null, null, null, <minecraft:wool>, <minecraft:wool>, null],
-    
-    [null, null, null, null, null, null, <minecraft:wool>, <minecraft:wool>, <minecraft:wool>],
+recipes.addShaped("newMobSwabCraf", <mob_grinding_utils:mob_swab>, [
+    [null, null, <minecraft:wool>],
+    [null, <botania:livingwood>, null],
+    [<minecraft:wool>, null, null]
+]);
 
-    [null, null, null, null, null, null, <botania:livingwood>, <minecraft:wool>, <minecraft:wool>],
+recipes.addShaped("pileOfNeutronCraf", <avaritia:resource:2>, [
+    [<extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>],
+    [<extrautils2:compressedcobblestone:7>, <enderio:block_infinity:2>, <extrautils2:compressedcobblestone:7>],
+    [<extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>, <extrautils2:compressedcobblestone:7>]
+]);
 
-    [null, null, null, null, null, <botania:livingwood>, null, null, null],
-
-    [null, null, null, null, <botania:livingwood>, null, null, null, null],
-
-    [null, null, null, <botania:livingwood>, null, null, null, null, null],
-
-    [<minecraft:wool>, <minecraft:wool>, <botania:livingwood>, null, null, null, null, null, null],
-
-    [<minecraft:wool>, <minecraft:wool>, <minecraft:wool>, null, null, null, null, null, null],
-
-    [null, <minecraft:wool>, <minecraft:wool>, null, null, null, null, null, null],
-] );
+recipes.remove(<avaritia:extreme_crafting_table>);
+recipes.addShaped("newExtremeCraftingTableCraf", <avaritia:extreme_crafting_table>, [
+    [<extraplanets:tier10_items:3>, <avaritia:double_compressed_crafting_table>, <extraplanets:tier10_items:3>],
+    [<extraplanets:tier10_items:4>, <avaritia:block_resource:2>, <extraplanets:tier10_items:4>],
+    [<extraplanets:tier10_items:3>, <ic2:crafting:2>, <extraplanets:tier10_items:3>]
+]);

@@ -1,7 +1,7 @@
 setIcon(<draconicevolution:fusion_crafting_core>)
 
 //Set the title String
-setTitle("Crafting With Energy")
+setTitle("FUUUUUUSION!")
 
 //Set the description String
 setDescription("Setup a Fusion Crafting Core and start crafting with energy")

@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<infinite_revolution:neutronium_key>)
+
+//Set the title String
+setTitle("The Key Of Creation But Better")
+
+//Set the description String
+setDescription("Obtain 16 Neutronium Keys.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("irlootboxes:root")
+
+//Set the position
+setPos(-471,-222)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasMoreNeutroniumKeys", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:neutronium_key>)
+
+criteria.setCount(16)

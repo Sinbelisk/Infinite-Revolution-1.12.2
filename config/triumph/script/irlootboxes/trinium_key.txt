@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<infinite_revolution:trinium_key>)
+
+//Set the title String
+setTitle("The Key Of Creation")
+
+//Set the description String
+setDescription("Obtain 32 Trinium Keys.")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("irlootboxes:trinium_block")
+
+//Set the position
+setPos(-471,-267)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasMoreTriniumKeys", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:trinium_key>)
+
+criteria.setCount(32)

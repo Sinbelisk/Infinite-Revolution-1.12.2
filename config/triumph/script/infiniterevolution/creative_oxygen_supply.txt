@@ -1,0 +1,24 @@
+//Set the icon item
+setIcon(<galacticraftcore:infinite_oxygen>)
+
+//Set the title String
+setTitle("O2 Junkie")
+
+setFrameType("challenge")
+
+//Set the description String
+setDescription("Obtain The Creative Oxygen Suply")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:root")
+
+//Set the position
+setPos(-77,-153)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines()
+
+criteria = addCriteria("hasOxygenSupply", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<galacticraftcore:infinite_oxygen>)

@@ -17,7 +17,7 @@ setShowToast(false)
 setAnnounceToChat(false)
 
 //Set the position
-setPos(30,0)
+setPos(0,0)
 
 addCriteria("obtainNetherStarTR", "minecraft:inventory_changed")
 criteria.addItem(<minecraft:nether_star>)

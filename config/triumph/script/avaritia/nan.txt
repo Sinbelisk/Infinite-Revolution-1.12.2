@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<infinite_revolution:not_noob_certificate>)
+
+//Set the title String
+setTitle("Never More.")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Obtain The Certificate")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("avaritia:obtain_neutronium_compressor")
+
+//Set the position
+setPos(240,30)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasNAN", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<infinite_revolution:not_noob_certificate>)

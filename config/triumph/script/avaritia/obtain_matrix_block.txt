@@ -11,7 +11,7 @@ setDescription("Matrix can't tell you who you are")
 addParent("avaritia:obtain_matrix")
 
 //Set the position
-setPos(90,-30)
+setPos(60,0)
 
 //Hide the connection lines, so I can have a pretty shape
 

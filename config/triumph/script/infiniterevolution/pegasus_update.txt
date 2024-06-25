@@ -1,0 +1,23 @@
+//Set the icon item
+setIcon(<sgcraft:pegasus_upgrade>)
+
+//Set the title String
+setTitle("A New Look")
+
+setFrameType("goal")
+
+//Set the description String
+setDescription("Obtain Stargate Pegasus Upgrade")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("infiniterevolution:stargate_base")
+
+//Set the position
+setPos(-113,-275)
+
+//Hide the connection lines, so I can have a pretty shape
+
+criteria = addCriteria("hasPegasusUpgrade", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<sgcraft:pegasus_upgrade>)

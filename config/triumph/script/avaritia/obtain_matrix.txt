@@ -11,7 +11,7 @@ setDescription("Obtain a Crystal Matrix Ingot")
 addParent("avaritia:root")
 
 //Set the position
-setPos(60,0)
+setPos(30,0)
 
 //Hide the connection lines, so I can have a pretty shape
 
