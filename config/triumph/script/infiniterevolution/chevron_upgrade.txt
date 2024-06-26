@@ -13,7 +13,7 @@ setDescription("Obtain Stargate Chevron Upgrade")
 addParent("infiniterevolution:stargate_ring")
 
 //Set the position
-setPos(-286,-239)
+setPos(-283,-239)
 
 //Hide the connection lines, so I can have a pretty shape
 

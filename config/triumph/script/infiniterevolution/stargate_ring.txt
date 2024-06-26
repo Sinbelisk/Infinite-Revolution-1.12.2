@@ -13,7 +13,7 @@ setDescription("Obtain Stargate Ring")
 addParent("infiniterevolution:bedrock_pickaxe")
 
 //Set the position
-setPos(-305,-272)
+setPos(-325,-239)
 
 //Hide the connection lines, so I can have a pretty shape
 

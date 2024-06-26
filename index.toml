@@ -1922,7 +1922,7 @@ hash = "9d5d8018ddc4421358e86f737a79dd7da5938739eb692dcb8088c7aa6084d2e5"
 
 [[files]]
 file = "config/triumph/script/avaritia/obtain_crafting_table.txt"
-hash = "9c54ca7e1b24b4b616121028b4a602e607a515975a67b80c5d1cd2d0764d180e"
+hash = "29ff483dfe7e84dca66ae13ee1019465df450afc9d6a5816dd03d649c57b94e1"
 
 [[files]]
 file = "config/triumph/script/avaritia/obtain_endest.txt"
@@ -1958,11 +1958,11 @@ hash = "dfdffab2a8d8ac996c6a8f4e2785360d9386accb8a9e08248ebc82397bd1911b"
 
 [[files]]
 file = "config/triumph/script/avaritia/obtain_matrix.txt"
-hash = "cfd70e6037196f5cd818bd503dc9ef434b01878ea59ccf97356350ace09e519b"
+hash = "cb0270f52440742c866baf9cb922a260565e5c10a51f3e326dbd288952cd65ca"
 
 [[files]]
 file = "config/triumph/script/avaritia/obtain_matrix_block.txt"
-hash = "181ce28d9388b47c5284147cab2722ba0382f01f9a20246cfed8134de6ebde50"
+hash = "63efda5a4471483bb600943b98e931c1a7dd26e6c6ae5ff0d48ebf812c26e44b"
 
 [[files]]
 file = "config/triumph/script/avaritia/obtain_neutronium.txt"
@@ -1982,7 +1982,7 @@ hash = "cdf68aefe0155394cc64bfcf82be67255a83b5516538e32f9dcac7f96fe81827"
 
 [[files]]
 file = "config/triumph/script/avaritia/root.txt"
-hash = "6e9c6c2d7f9c887874475ce65df9c07ddab962a433c230a7bd65c81f28ae6e0f"
+hash = "4ba17baab224589c8f3ec65a13088e2e5069ac13494874600ec20d4564bae536"
 
 [[files]]
 file = "config/triumph/script/avaritia/upgrade_crafting.txt"
@@ -3935,7 +3935,7 @@ hash = "4580bf0b065809f5bae0667b5d488a2177be1862321431f366c6c277db4f80ec"
 
 [[files]]
 file = "scripts/generalBalance.zs"
-hash = "e798b4c029e60f4a4f2d12c54bd83ea3dcd1dc4694e38609c672ba743d25f3cb"
+hash = "21ffbb02a992bc498f4a506c5ed1cd03441472edb553a2f6613492e4b1729a7a"
 
 [[files]]
 file = "scripts/guiasSpawn.zs"
