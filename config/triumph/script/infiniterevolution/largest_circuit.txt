@@ -2,7 +2,7 @@
 setIcon(<sgcraft:ic2capacitor>)
 
 //Set the title String
-setTitle("Ultimate Processing")
+setTitle("1 ZettaByte Of Memorie")
 
 setFrameType("goal")
 
@@ -13,7 +13,7 @@ setDescription("Obtain Ridiculously Large Circuit")
 addParent("infiniterevolution:chevron_upgrade")
 
 //Set the position
-setPos(-240,-239)
+setPos(-228,-232)
 
 //Hide the connection lines, so I can have a pretty shape
 

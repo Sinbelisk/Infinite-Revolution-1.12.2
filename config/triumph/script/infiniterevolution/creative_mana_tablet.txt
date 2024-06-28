@@ -1,5 +1,5 @@
 //Set the icon item
-setIcon(<botania:manatablet>)
+setIcon(<botania:pool:1>)
 
 //Set the title String
 setTitle("Who Likes Botania?")
@@ -7,7 +7,7 @@ setTitle("Who Likes Botania?")
 setFrameType("challenge")
 
 //Set the description String
-setDescription("Obtain The Creative Mana Tablet")
+setDescription("Obtain The Creative Mana Pool")
 
 //Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
 addParent("infiniterevolution:root")
@@ -18,7 +18,7 @@ setPos(-77,-239)
 //Hide the connection lines, so I can have a pretty shape
 hideLines()
 
-criteria = addCriteria("hasManaTablet", "minecraft:inventory_changed")
+criteria = addCriteria("hasCreativePool", "minecraft:inventory_changed")
 
 //Adds the required item for the criteria. This is the item that needs to be in the player inventory.
-criteria.addItem(<botania:manatablet>.withTag({mana: 500000, creative: 1 as byte}))
+criteria.addItem(<botania:pool:1>)

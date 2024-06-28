@@ -11,7 +11,7 @@ setDescription("Mine Naquadah Ore")
 addParent("infiniterevolution:root")
 
 //Set the position
-setPos(-376,-153)
+setPos(-374,-152)
 
 //Hide the connection lines, so I can have a pretty shape
 hideLines()

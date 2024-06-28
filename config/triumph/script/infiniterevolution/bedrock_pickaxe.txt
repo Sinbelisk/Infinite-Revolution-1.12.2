@@ -11,7 +11,7 @@ setDescription("Obtain the Bedrock Pickaxe")
 addParent("infiniterevolution:bedrock")
 
 //Set the position
-setPos(-341,-275)
+setPos(-341,-269)
 
 //Hide the connection lines, so I can have a pretty shape
 
