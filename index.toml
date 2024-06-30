@@ -1029,6 +1029,10 @@ file = "config/immersiveengineering.cfg"
 hash = "4ce6d3a808c48d822bd1dfcca2c87c12276d00ecff23ab4d084ef6b605c877ba"
 
 [[files]]
+file = "config/infinite_revolution.cfg"
+hash = "cb6821e77b482cf1ccb3d39b145079dc565764b6395c73c12ad5e19681718ad7"
+
+[[files]]
 file = "config/ironchest.cfg"
 hash = "6069282a9cf2a7047073120d602c7f54e6b642b52be4329787e95af97246d2be"
 
@@ -2082,15 +2086,15 @@ hash = "244d66ba5cf5548629d4d883e83ba52c6bd1c21dd062e85663a9982a0d326f81"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/bedrock_pickaxe.txt"
-hash = "d4e2f338d3adf20a841dbb5e1afa6abc5a4ab7bdc4b07ef54b4e09a378204143"
+hash = "6db9c9a37f682a6e526aa889da8556d0cd106a72b39eefa2369ab6199b99d1cd"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/chevron_block.txt"
-hash = "78d7a8e7f741929f55402c9648e231e8e498fd3aae2b54d9a4154222a60b2cda"
+hash = "0978d6e907bfb846647001a18fb3d44857e0765d4dadd0d2bc4e1e4cf4146fda"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/chevron_upgrade.txt"
-hash = "59617e3bc65abc917a65501d830987e24f2b0b9d2ce67997154658b4b8c4fbf0"
+hash = "0cf695cc7d10a047481d7cd650773b0eacf5ff4466cf7f7e4baa7f1f5b65285d"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/computercraft_interface.txt"
@@ -2122,7 +2126,7 @@ hash = "ed8dc11fadbd83c9dd6e2a2e5ba99459fe0ad0fa24c884350f26feaedb886808"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/creative_mana_tablet.txt"
-hash = "326f3f0006d386f6e56ae553a3def73cf60b8b69d3616b42ab86f3b298b63951"
+hash = "e6f3430233457555e183d144cc9b9947f0529981e9115d1cd72dfd55cb884c75"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/creative_oxygen_supply.txt"
@@ -2137,24 +2141,20 @@ file = "config/triumph/script/infiniterevolution/creative_storage_disk.txt"
 hash = "faae7066aad199121904a5ac60af6dd468436a53bc31e61e1a04de87acc8b42f"
 
 [[files]]
-file = "config/triumph/script/infiniterevolution/get_bedrock.txt"
-hash = "0584fe9dd4f43f0421da4c3099c38c6492e640eabb5e47fa8eee5b7d018cf41c"
-
-[[files]]
-file = "config/triumph/script/infiniterevolution/get_bedrock_pickaxe.txt"
-hash = "78ed97eb8a352625ee0b9a29b5cf19ce97bba518112e509bc08683078271e4b8"
-
-[[files]]
-file = "config/triumph/script/infiniterevolution/get_ir_star.txt"
-hash = "03cbeb1c5b095cd406e971355485e77bb3494c6966db3613c0dd40443c94f9bd"
-
-[[files]]
 file = "config/triumph/script/infiniterevolution/giga_chad_token.txt"
 hash = "d2ce26943164e3b37bf5037de9ecf6f690e92ff9dc16c63b33572471d97e37b4"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/ic2_power_unit.txt"
 hash = "9dbeeb81af91fb7fcea2d64b63ecc9846d56f52d9c33bfb298b928a472ca4a9f"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/infinity_catalyst_dust.txt"
+hash = "cef9146d0e16796bcf4754c2f8850433ff124a6cc750e59a6f5be29bfae4bdc7"
+
+[[files]]
+file = "config/triumph/script/infiniterevolution/infinity_catalyst_ore.txt"
+hash = "55c8d50f9deada694e0b56c73cb5967652916e33cafcac2355df0deb04d3807a"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/ir_star.txt"
@@ -2166,7 +2166,7 @@ hash = "21861114615c22c21030420eaf97aaf734b2c7649579b70cfed7977fd15c8234"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/largest_circuit.txt"
-hash = "640a656d266cf5a11cb779a414e6583c7bb5a7f64b1751ce3d734f77772720dc"
+hash = "89796353d2479f95e07e16dc1bcd7f39e76c5453db0606a8a60759a4f1887115"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/naquadah_alloy_block.txt"
@@ -2178,7 +2178,7 @@ hash = "1ff09dbe8741870f156fcbb17e1dbb72ecc27cfdcc06b803300bde491be65504"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/naquadah_ore.txt"
-hash = "f491c70aba32d0e178ce5c74d771c30148f944b389faff795f83e70ffc1bff60"
+hash = "47eac3c1ee623fdd4d15e2c57a0818be29284eeddf3eeb4b0c7ef8655ef6f62b"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/opencomputer_interface.txt"
@@ -2202,11 +2202,11 @@ hash = "40e3a977a60bb05355d66b803a4526392ae635b061ee7a3b86e44ca95837d93a"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/stargate_ring.txt"
-hash = "6da99537c5fe9175af071e0cd90648de5c6a5c92136c9145edc655e0855a93cf"
+hash = "e4d0e46936a95942f7a9b7f7d369459d8dbe59bfe177d362be87048ce95efece"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/trinium_block.txt"
-hash = "ecbaa62407451d55737eb11103934da92af4e8bfeae8c0546c19521eb23ba7ee"
+hash = "eb0dadbe3f2ae30c5ab77f3bc40a0fe7c427c517653a6fc1c7703557314ac5fd"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/trinium_ore.txt"
@@ -2314,7 +2314,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "b6312e24d52d1fc743dad5b7eddd2c92f975f5fac3074be55782646ad9cd2fb6"
+hash = "5429c1184fd2793e64181b11b359cd6e26ba9a189109b0e9def4c61b4d37eede"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -3886,10 +3886,6 @@ file = "scripts/IEnotUse.zs"
 hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
-file = "scripts/InfiniteRevolution.zs"
-hash = "c25312c931fb0c4d94cc00d9ba83982dc39c43c7223918ed77f480f671ddbe94"
-
-[[files]]
 file = "scripts/Loot.zs"
 hash = "5fbd2297df98002f07f37e52cc5051417f86dedd99df1ae9ad97508c4804048c"
 
@@ -3916,14 +3912,6 @@ hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
 hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
-
-[[files]]
-file = "scripts/avaritiaRework.zs"
-hash = "c38c274d8297b8c73ffc905720a346fe753dd94c1facc567d217f938e8de87ee"
-
-[[files]]
-file = "scripts/creativeCrafts.zs"
-hash = "c8f0206bc6a039f5069c0206370fbebbc40d2988c83086f9bb97ad4a9b603bbd"
 
 [[files]]
 file = "scripts/draconicXAvaritia.zs"
@@ -3964,10 +3952,6 @@ hash = "10584b13908a704efb44b89ec594b1641b8e0a497846330d2b469ec1c8e9bb04"
 [[files]]
 file = "scripts/mystical.zs"
 hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
-
-[[files]]
-file = "scripts/neutroniumCompressor.zs"
-hash = "4adef0d6506bca8d35e56b485d2266ed8ecda42b320dacccf159252674c3d5d3"
 
 [[files]]
 file = "scripts/plates.zs"
