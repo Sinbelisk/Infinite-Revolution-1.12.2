@@ -18,7 +18,6 @@ print("[ADVANCEMENT EVENT DEBUG] DICTIONARY INSTANCIATED");
 
 events.onPlayerAdvancement(function(event as crafttweaker.event.PlayerAdvancementEvent){
     print(event.id);
-    event.player.sendChat(event.id);
 
     val advancement_id = event.id;
     val player = event.player;
