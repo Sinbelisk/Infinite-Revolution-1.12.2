@@ -1,0 +1,11 @@
+{
+  "COMMON": [
+    "spelunker",
+    "chicken_chaser",
+    "captain",
+    "melon_lord"
+  ],
+  "RARE": [
+    "opulent"
+  ]
+}
