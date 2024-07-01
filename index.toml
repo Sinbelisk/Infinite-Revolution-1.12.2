@@ -117,6 +117,50 @@ file = "config/TinkerModules.cfg"
 hash = "b91ad86b234b5a44e57a0c4d1997d8f01c77f7225bfcfc16d105d07437d8b66c"
 
 [[files]]
+file = "config/Titles/aether_legacy.json"
+hash = "54b4be1038ad3497fcd84ba059c61f07411b6cc887b1113470a6bb1465aa6232"
+
+[[files]]
+file = "config/Titles/archive.json"
+hash = "293d1f7141de30957c6ae4e5779e50cb5b3f8bb14772ea7a04b649ffc4aeb6fd"
+
+[[files]]
+file = "config/Titles/avaritia.json"
+hash = "dfe8b86c4c9f9d8de1f34c5efc32233c5b7a044dd253433f2765da2e91e3cd8a"
+
+[[files]]
+file = "config/Titles/draconicevolution.json"
+hash = "99f30fc0f84eb065fe8a1e152696912d9c5312bd0923160d6b4af2f1dddd9f72"
+
+[[files]]
+file = "config/Titles/galacticraftcore.json"
+hash = "baea821c0c1d81a5472cdfc9f7b3242bb29c6f4c93207894afd630ea471ec5af"
+
+[[files]]
+file = "config/Titles/infiniterevolution.json"
+hash = "41ea48a66754decbbd989db19b07644b3530662b09536e92debf8cd131a92f73"
+
+[[files]]
+file = "config/Titles/irlootboxes.json"
+hash = "549f5d25fee2646cb02d16b74ef1f354804714039bfc025ed8bdaab9e69e540d"
+
+[[files]]
+file = "config/Titles/minecraft.json"
+hash = "21826f1925773d16a20e470c7a18dcefd3ded885ecfe255366254035e2c8af55"
+
+[[files]]
+file = "config/Titles/titles.json"
+hash = "f78648cce311c785eae58c467996ac41ca16361dda1c46578265a7de989537ca"
+
+[[files]]
+file = "config/Titles/titles_config.cfg"
+hash = "45ef549fd8aaae540aa143ada73bc97e934fcfe6cf38c6cb3b9f5d64aa4274a1"
+
+[[files]]
+file = "config/Titles/twilightforest.json"
+hash = "6e0a5710a9488253996219f49d1c065daea853b9b2b39934ea06c3519f3eeb3a"
+
+[[files]]
 file = "config/WirelessRedstone.cfg"
 hash = "7022852dae4a0dcff88b58c41c9eeb36d3edf458a47f8efc11d1b745e11d73cf"
 
@@ -3873,6 +3917,10 @@ file = "resources/sgcraft/textures/items/ic2capacitor.png"
 hash = "a3d1d5be05a612919fb8f1b53b09b0c8949ab0c5c859bd91c5e2a46cecdf988f"
 
 [[files]]
+file = "resources/titles/lang/en_us.lang"
+hash = "b00e9519e92a5253e826709aa9cbf3af07e65a9d47cfe4502d6d7e64824f11be"
+
+[[files]]
 file = "scripts/.zsrc"
 hash = "1a739e319732b0f445c64c213c41cb31d362e70299b9c0af8169ccbcd0028300"
 
@@ -3894,19 +3942,23 @@ hash = "76acd72464b78f0802f9165ec78f2ee17da5c1c3b9a4b6df7879d1fb33711448"
 
 [[files]]
 file = "scripts/advancements/advancementDictionaries.zs"
-hash = "026767e56991f0a7db6db8ed7b0490a7c21fc590a61722dfa19a3adc61b27ea6"
+hash = "6b2b9aa270016a89b6783ed2356015eb590b6a0e3ca6cddda4838e34b3663b8b"
 
 [[files]]
 file = "scripts/advancements/advancements.csv"
-hash = "315111b189b3aa2db5801d3940d2080acda3d8e70153081feb2327999bf67d5e"
+hash = "23467a565a6ef132c1edf39189a3270feb42c80f717fe8150570c4aae2a9e105"
 
 [[files]]
 file = "scripts/advancements/advancementsLoot.zs"
-hash = "a0ec30799f3834a90ac7324aabd8ef48c6fbe7abd2a2e54947bd122387c393c3"
+hash = "ee2df266d5eedc26a6e8c9fe4ae71600eae5bf292cf5e12cadf2600b0965c7e3"
 
 [[files]]
 file = "scripts/advancements/csvToCode.py"
 hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
+
+[[files]]
+file = "scripts/advancements/output_code.txt"
+hash = "a2e5f64d56c516df0f6797062e5562acc61094307bcbb814d54bda022dec70fa"
 
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
