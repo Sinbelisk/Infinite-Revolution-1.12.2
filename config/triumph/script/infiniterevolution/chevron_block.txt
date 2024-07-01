@@ -13,7 +13,7 @@ setDescription("Obtain Chevron Block")
 addParent("infiniterevolution:largest_circuit")
 
 //Set the position
-setPos(-187,-239)
+setPos(-187,-232)
 
 //Hide the connection lines, so I can have a pretty shape
 

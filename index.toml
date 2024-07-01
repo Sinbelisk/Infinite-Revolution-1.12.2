@@ -2078,11 +2078,11 @@ hash = "ce875d5c94395d89ca4468a48adb7994bd1057db86c5eea009a6e1ef2e7b5712"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/bedrock.txt"
-hash = "412415af0dc706c73f69a93b936ad6783252997bcc6b9e7fb55f1e4f715455f4"
+hash = "244d66ba5cf5548629d4d883e83ba52c6bd1c21dd062e85663a9982a0d326f81"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/bedrock_pickaxe.txt"
-hash = "2f23309269eb5fa99ab91195fc8b8d60d04adecab93040ccc676095008821109"
+hash = "d4e2f338d3adf20a841dbb5e1afa6abc5a4ab7bdc4b07ef54b4e09a378204143"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/chevron_block.txt"
@@ -2090,7 +2090,7 @@ hash = "78d7a8e7f741929f55402c9648e231e8e498fd3aae2b54d9a4154222a60b2cda"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/chevron_upgrade.txt"
-hash = "c62035c35e1e5ab35e4e45410632691e74723102b9754535075cafd85c20fce2"
+hash = "59617e3bc65abc917a65501d830987e24f2b0b9d2ce67997154658b4b8c4fbf0"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/computercraft_interface.txt"
@@ -2178,7 +2178,7 @@ hash = "1ff09dbe8741870f156fcbb17e1dbb72ecc27cfdcc06b803300bde491be65504"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/naquadah_ore.txt"
-hash = "9f6e3924392bbbdf3b9eadcbc0f9600b645ce72dc564fcc14a15036470b07ed5"
+hash = "f491c70aba32d0e178ce5c74d771c30148f944b389faff795f83e70ffc1bff60"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/opencomputer_interface.txt"
@@ -2190,7 +2190,7 @@ hash = "116297e896b7599abc726b69e59c32d299d2f53a1cfcaa27033dcf8cce31299e"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/root.txt"
-hash = "c58c653da3b243782713f27873397617302be48ebb949697615182d80be93aec"
+hash = "4b5acee023028f5fcb1857f02432b0e4f3445c57412c2e94927fb6793bb93ca8"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/sg_power_unit.txt"
@@ -2202,7 +2202,7 @@ hash = "40e3a977a60bb05355d66b803a4526392ae635b061ee7a3b86e44ca95837d93a"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/stargate_ring.txt"
-hash = "be77bf5f94bbe4296edc57bebd18e4c1f411a3e8cb3c7e8b2e531a0b099a5b76"
+hash = "6da99537c5fe9175af071e0cd90648de5c6a5c92136c9145edc655e0855a93cf"
 
 [[files]]
 file = "config/triumph/script/infiniterevolution/trinium_block.txt"

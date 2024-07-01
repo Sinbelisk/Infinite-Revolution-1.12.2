@@ -11,7 +11,7 @@ setDescription("Obtain Block of Trinium")
 addParent("infiniterevolution:trinium_ore")
 
 //Set the position
-setPos(-341,-129)
+setPos(-341,-131)
 
 //Hide the connection lines, so I can have a pretty shape
 
