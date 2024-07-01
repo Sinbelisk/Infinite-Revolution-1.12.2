@@ -231,3 +231,15 @@ moretweaker.draconicevolution.FusionCrafting.add(<infinite_revolution:infinite_l
 
 
 recipes.addShapeless(<infinite_revolution:infinity_catalyst_dust> * 64, [<avaritia:resource:5>]);
+
+recipes.addShaped("GoldBricksCraft", <infinite_revolution:golden_marble_bricks> * 8, [
+    [<astralsorcery:blockmarble:1>, <astralsorcery:blockmarble:1>, <astralsorcery:blockmarble:1>],
+    [<astralsorcery:blockmarble:1>, <minecraft:gold_ingot>, <astralsorcery:blockmarble:1>],
+    [<astralsorcery:blockmarble:1>, <astralsorcery:blockmarble:1>, <astralsorcery:blockmarble:1>]
+]);
+
+recipes.addShaped("GoldBricksCraft2", <infinite_revolution:golden_marble_arch> * 8, [
+    [<astralsorcery:blockmarble:3>, <astralsorcery:blockmarble:3>, <astralsorcery:blockmarble:3>],
+    [<astralsorcery:blockmarble:3>, <minecraft:gold_ingot>, <astralsorcery:blockmarble:3>],
+    [<astralsorcery:blockmarble:3>, <astralsorcery:blockmarble:3>, <astralsorcery:blockmarble:3>]
+]);
