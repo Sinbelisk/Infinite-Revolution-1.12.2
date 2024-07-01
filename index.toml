@@ -2314,7 +2314,7 @@ hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "5429c1184fd2793e64181b11b359cd6e26ba9a189109b0e9def4c61b4d37eede"
+hash = "01abe2ce75970f8fa0e1e5f11143034e221ccc7a17ea78b0711212aff287733d"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -3886,6 +3886,10 @@ file = "scripts/IEnotUse.zs"
 hash = "245b280c65f9aeaef5c13e2d04e09883dfe7be325a48ff52f774b1919c6a3a51"
 
 [[files]]
+file = "scripts/InfiniteRevolution.zs"
+hash = "a9c5ec65304583827f0524c7ec8ae107c18e0ea8dc054b94a41254d6f186f81f"
+
+[[files]]
 file = "scripts/Loot.zs"
 hash = "5fbd2297df98002f07f37e52cc5051417f86dedd99df1ae9ad97508c4804048c"
 
@@ -3912,6 +3916,14 @@ hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
 hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
+
+[[files]]
+file = "scripts/avaritiaRework.zs"
+hash = "c38c274d8297b8c73ffc905720a346fe753dd94c1facc567d217f938e8de87ee"
+
+[[files]]
+file = "scripts/creativeCrafts.zs"
+hash = "0618bf2ed3b44ecbffe1468650b66cb9b98a385de41033f342d2e4e8b44376d3"
 
 [[files]]
 file = "scripts/draconicXAvaritia.zs"
@@ -3948,6 +3960,10 @@ hash = "10584b13908a704efb44b89ec594b1641b8e0a497846330d2b469ec1c8e9bb04"
 [[files]]
 file = "scripts/mystical.zs"
 hash = "b6fa5c610668e3786b9d356ce866eac80e3f2c0478ffbc2acbcdbab29fe99021"
+
+[[files]]
+file = "scripts/neutroniumCompressor.zs"
+hash = "be55e29e9b3e66273399e8c8879f8d72edda3b25b2a61b8f9498b28706b248e1"
 
 [[files]]
 file = "scripts/plates.zs"
