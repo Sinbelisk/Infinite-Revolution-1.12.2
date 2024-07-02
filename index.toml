@@ -2826,11 +2826,6 @@ hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
 metafile = true
 
 [[files]]
-file = "mods/hesperus.pw.toml"
-hash = "ffb910f20ca70c086226d815c602ed0e8c1ab7904cc0f82a9537ae43b83cbc8a"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
@@ -2932,7 +2927,7 @@ metafile = true
 
 [[files]]
 file = "mods/load-my-resources-forge.pw.toml"
-hash = "44a011219af622cdc929933e9eb60afc7683c9e237d01593c5a33c9f1d61b6b4"
+hash = "0be2c9168ca88f80eeb633a809cb0d879af29b0ef3251aa9efc2c896512f6a81"
 metafile = true
 
 [[files]]
@@ -3027,12 +3022,12 @@ metafile = true
 
 [[files]]
 file = "mods/morpheus.pw.toml"
-hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
+hash = "145db9d48f65bfbc4d7e8d6f938e9821577fdf6b171efe0d6b326db094ffcc6f"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]

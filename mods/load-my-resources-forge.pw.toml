@@ -1,6 +1,6 @@
 name = "Load My Resources [Forge]"
 filename = "loadmyresources_forge_1.0.4_MC_1.12-1.12.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
