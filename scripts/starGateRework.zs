@@ -171,15 +171,15 @@ mods.avaritia.ExtremeCrafting.addShaped("newChevronUpgradeCraft", <sgcraft:sgche
     
     [null, null, null, null, null, null, null, null, null],
 
-    [null, null, null, <dimdoors:fabric:14>, <dimdoors:fabric:4>, <dimdoors:fabric:14>, null, null, null],
+    [null, null, null, <minecraft:concrete:14>, <minecraft:concrete:4>, <minecraft:concrete:14>, null, null, null],
 
-    [null, null, null, <minecraft:bedrock>, <dimdoors:fabric:14>, <minecraft:bedrock>, null, null, null],
+    [null, null, null, <minecraft:bedrock>, <minecraft:concrete:14>, <minecraft:bedrock>, null, null, null],
 
-    [null, null, null, <avaritia:block_resource>, <ic2:fluid_cell>.withTag({Fluid: {FluidName: "astralsorcery.liquidstarlight", Amount: 1000}}), <avaritia:block_resource>, null, null, null],
+    [null, null, null, <avaritia:block_resource>, <openblocks:tank>.withTag({tank: {FluidName: "astralsorcery.liquidstarlight", Amount: 16000}}), <avaritia:block_resource>, null, null, null],
 
-    [null, null, null, <dimdoors:fabric:14>, <dimdoors:fabric:4>, <dimdoors:fabric:14>, null, null, null],
+    [null, null, null, <minecraft:concrete:14>, <minecraft:concrete:4>, <minecraft:concrete:14>, null, null, null],
 
-    [null, null, null, <minecraft:bedrock>, <dimdoors:fabric:14>, <minecraft:bedrock>, null, null, null],
+    [null, null, null, <minecraft:bedrock>, <minecraft:concrete:14>, <minecraft:bedrock>, null, null, null],
 
     [null, null, null, null, null, null, null, null, null],
 
