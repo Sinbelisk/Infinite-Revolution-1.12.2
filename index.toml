@@ -4007,7 +4007,7 @@ hash = "e3eb808bb578e19d494ad03037c4708b7c7eec6bc42eca48d05e9dd6da265e37"
 
 [[files]]
 file = "scripts/starGateRework.zs"
-hash = "4e9cba347b6f90f24a14aee5ef4188a35267ffc562f0a630c07ec25180212d95"
+hash = "e1078c46ee02b29f70f57af5d3f413f214a2d15d8c1183ada857d0c2d83e72a6"
 
 [[files]]
 file = "scripts/toolsAndWeapons.zs"
