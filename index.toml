@@ -309,6 +309,42 @@ file = "config/aether_legacy.cfg"
 hash = "1255b0ad0e63e8f03a8ee454367d8cb3a12f2d3e77e03413569b8ec73248a43f"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "53e6c2bf2fb237087aebbc8c9fb6beec224e8a9055eeccb9b36bfac4122ab6b0"
+
+[[files]]
+file = "config/apotheosis/deadly.cfg"
+hash = "5959f855f65e363c5178529823698c4988850596d6e81f634c415133c50f5834"
+
+[[files]]
+file = "config/apotheosis/enchantability.cfg"
+hash = "1fa32f56ac1d165ba6bafef25cdba695dd2b8642b59c3b5fd4f46028d83eef0c"
+
+[[files]]
+file = "config/apotheosis/enchantment_module.cfg"
+hash = "46de34a00d0590e73bdeffa79e1f9dccaa3d6c63cc761428ecced5409a984b8c"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "d5013443d9d463e080e84fee1d0d63b40173060e761a507991cfa405497399fd"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "73c6f96aa74163c930a9e68e3c3f11c2e1ab6c0f50af8fa804cf620a08118788"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "78b62253370e42eee9a1b7ef42641163d9825654540f36113ac9eeb8d0c41538"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "345c2eea7c7991f981e4402ccf30d0a424f15016b054c83296a735b3dbd06e6e"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "9d0805a11f87c9f4bf536ad2fc3d82647ce9abfb637e94f76b7929cea8021fc6"
+
+[[files]]
 file = "config/armoryexpansion.cfg"
 hash = "cc2853be5e8b8164bdf72497f261a397d5e2c2a1a03de6a7599ec6cce52fe119"
 
@@ -1194,7 +1230,7 @@ hash = "82d9ff08dfcf49c81b66438b5d6c819d89958b6e4f4d6cc077623481315b7b12"
 
 [[files]]
 file = "config/sgcraft.cfg"
-hash = "57d8ae75c69e3bf35ae2ef819ffe8aeb0235e4a1e210f860c4f7fddab19317ca"
+hash = "fdd02804184e6eb5fb181b16db256b0493a417290902ce9e272cf9c0c5cba11b"
 
 [[files]]
 file = "config/splash.properties"
@@ -3891,7 +3927,7 @@ hash = "a9c5ec65304583827f0524c7ec8ae107c18e0ea8dc054b94a41254d6f186f81f"
 
 [[files]]
 file = "scripts/Loot.zs"
-hash = "5fbd2297df98002f07f37e52cc5051417f86dedd99df1ae9ad97508c4804048c"
+hash = "36c44ff6b8cb9ad23dd71b6652ccfb8b7adc87e7fec13094fdbe5c5cd99d5273"
 
 [[files]]
 file = "scripts/SphereWorld.zs"
