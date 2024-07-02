@@ -2881,6 +2881,11 @@ hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "62eed40453a0d4a50f56ab3d896035ffdc6cc9c50de358747f356f88e23d81e4"
+metafile = true
+
+[[files]]
 file = "mods/its-the-little-things.pw.toml"
 hash = "1b6cf0ab6aac5e5884646289cfdd018b2f0878cf906def0e9fc8aca58dabc2d9"
 metafile = true
