@@ -2482,7 +2482,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "7a812e6a1d2e45df6d44834a1fbb5358e7222fed21739601abef5d6bbe00cd97"
+hash = "8f33477af900c12942185f33cbd3664425103d5d71de6e08c42e0df1232a07fa"
 metafile = true
 
 [[files]]
@@ -2657,7 +2657,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
-hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+hash = "35a97513c02a3a99af47d03910e461f240d935963edea0faa72631d3d33c7a42"
 metafile = true
 
 [[files]]
@@ -2768,11 +2768,6 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
-metafile = true
-
-[[files]]
-file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
@@ -3363,6 +3358,11 @@ metafile = true
 [[files]]
 file = "mods/unlimited-chisel-works.pw.toml"
 hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "9eb3d1ac395bf0775c1a151be15877d8fce5bfbee0ce4ca29596317aa53bd078"
 metafile = true
 
 [[files]]

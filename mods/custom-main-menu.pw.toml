@@ -1,6 +1,6 @@
 name = "Custom Main Menu"
 filename = "CustomMainMenu-MC1.12.2-2.0.9.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
