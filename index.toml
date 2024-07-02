@@ -2411,6 +2411,11 @@ hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
 
 [[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "0163d1187fad0e6470c60c462b75f35f3eb8df8675238fb5cf0ff46d58349b5d"
+metafile = true
+
+[[files]]
 file = "mods/ambience-music-mod.pw.toml"
 hash = "a5aad68b85fc808dba7e4f569d2999ac03fb12289c470c8866a3e23be9102f9b"
 metafile = true
@@ -3178,6 +3183,11 @@ metafile = true
 [[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "0451e3f2b33e2188793ed307f722b84d340f5c733e13e18f0f6bdf2de779c10b"
 metafile = true
 
 [[files]]
