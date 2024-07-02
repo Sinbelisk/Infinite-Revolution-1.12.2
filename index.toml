@@ -2931,6 +2931,11 @@ hash = "0be2c9168ca88f80eeb633a809cb0d879af29b0ef3251aa9efc2c896512f6a81"
 metafile = true
 
 [[files]]
+file = "mods/lolasm.pw.toml"
+hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "efef0408c2dd7268131c857073f5ef73d40bad359679b0f8016e1d68c06aab0f"
 metafile = true
