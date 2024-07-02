@@ -5,7 +5,6 @@ import loottweaker.vanilla.loot.LootTable;
 import loottweaker.vanilla.loot.LootPool;
 import loottweaker.vanilla.loot.Functions;
 
-
 //IC2
 LootTweaker.getTable("ic2:chests/simple_dungeon").clear();
 LootTweaker.getTable("ic2:chests/spawn_bonus_chest").clear();
@@ -37,11 +36,6 @@ LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").rem
 LootTweaker.getTable("minecraft:chests/abandoned_mineshaft").getPool("main").removeEntry("abyssalcraft:tin_ingot");
 
 //SGCRAFT
-LootTweaker.getTable("sgcraft:chest/simple_dungeon").clear();
-LootTweaker.getTable("sgcraft:chest/spawn_bonus_chest").clear();
-LootTweaker.getTable("sgcraft:chest/stronghold_library").clear();
-LootTweaker.getTable("sgcraft:chest/village_blacksmith").clear();
-
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").removePool("sgcraft0");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").removePool("sgcraft1");
 LootTweaker.getTable("minecraft:chests/spawn_bonus_chest").removePool("sgcraft2");

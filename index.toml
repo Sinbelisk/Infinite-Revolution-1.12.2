@@ -3979,7 +3979,7 @@ hash = "a3d1d5be05a612919fb8f1b53b09b0c8949ab0c5c859bd91c5e2a46cecdf988f"
 
 [[files]]
 file = "resources/titles/lang/en_us.lang"
-hash = "b00e9519e92a5253e826709aa9cbf3af07e65a9d47cfe4502d6d7e64824f11be"
+hash = "b3b346615307c9e07c5cdd2b395a0ea852bf8fea140bac48e240ed8c09def3d3"
 
 [[files]]
 file = "scripts/.zsrc"
@@ -4016,10 +4016,6 @@ hash = "ee2df266d5eedc26a6e8c9fe4ae71600eae5bf292cf5e12cadf2600b0965c7e3"
 [[files]]
 file = "scripts/advancements/csvToCode.py"
 hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
-
-[[files]]
-file = "scripts/advancements/output_code.txt"
-hash = "a2e5f64d56c516df0f6797062e5562acc61094307bcbb814d54bda022dec70fa"
 
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
