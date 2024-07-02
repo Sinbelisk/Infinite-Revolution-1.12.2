@@ -3241,6 +3241,11 @@ hash = "c1b6034f0ae5daf4abb31b208d03af292d3ab991c5987d7b9c368f30492c139d"
 metafile = true
 
 [[files]]
+file = "mods/sledgehammer.pw.toml"
+hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+metafile = true
+
+[[files]]
 file = "mods/soul-shards-respawn.pw.toml"
 hash = "fd7350b625e4ba3b1ade36c7904811d0653a15ff65a3d059b865c7b8278b90da"
 metafile = true
