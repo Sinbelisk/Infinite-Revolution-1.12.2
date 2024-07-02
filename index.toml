@@ -2702,6 +2702,11 @@ hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
 metafile = true
 
 [[files]]
+file = "mods/deep-mob-learning.pw.toml"
+hash = "5dab6d514f9b8fd83bee0e85049bcdc0df2591c4948823adda975d3e9a67ac20"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
@@ -3995,7 +4000,7 @@ hash = "a9c5ec65304583827f0524c7ec8ae107c18e0ea8dc054b94a41254d6f186f81f"
 
 [[files]]
 file = "scripts/Loot.zs"
-hash = "36c44ff6b8cb9ad23dd71b6652ccfb8b7adc87e7fec13094fdbe5c5cd99d5273"
+hash = "318dbd8a7d8bd1d9fb7d7358b2f639e0b6da55cba0b3ef98c9f050a64210baa9"
 
 [[files]]
 file = "scripts/SphereWorld.zs"
