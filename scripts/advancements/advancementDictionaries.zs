@@ -46,7 +46,7 @@ zenClass advancementDictionaries {
         add("twilightforest:progress_glacier", "At long last. No king rules forever, my son.", [<mysticalagriculture:ice_seeds>*4, <enderutilities:icemelter>]);
         add("twilightforest:progress_hydra", "If you cut the head of the Hydra, another will come out. Hydra Dominatus!.", [<twilightforest:fiery_ingot>*3, <mysticalagriculture:fiery_ingot_seeds>]);
         add("twilightforest:progress_knights", "Praise the sun!", [<twilightforest:knightmetal_shield>]);
-        add("twilightforest:progress_lich", "Father? Is it... over?", [<twilightforest:miniature_structure:6>]);
+        add("twilightforest:progress_lich", "That is not dead which can eternal lie, and with strange aeons, even death may die.", [<twilightforest:miniature_structure:6>]);
         add("twilightforest:progress_naga", "Snek? Snek? SNEK!", [<twilightforest:miniature_structure:5>, <twilightforest:naga_scale>*6]);
         add("twilightforest:progress_ur_ghast", "Monstrous Size Has No Intrinsic Merit, Unless Inordinate Exsanguination Be Considered A Virtue. ", [<xreliquary:mob_charm>.withTag({type: 9 as byte}), <infinite_revolution:trinium_lootbox>, <twilightforest:block_storage:1>, <quark:ancient_tome>.withTag({StoredEnchantments: [{lvl: 5 as short, id: 32 as short}]})]);
         add("twilightforest:root", "Shadow and light are two sides of the same coin. One cannot exist without the other. ", [<twilightforest:miniature_structure>]);
