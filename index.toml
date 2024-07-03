@@ -2706,6 +2706,11 @@ hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
 metafile = true
 
 [[files]]
+file = "mods/dme.pw.toml"
+hash = "e185e7c99877a9a042f8d4b38f1694b3502151c6edfb85057dc19bd6866b3880"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true

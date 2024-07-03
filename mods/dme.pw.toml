@@ -1,0 +1,13 @@
+name = "Deep Mob Evolution"
+filename = "DeepMobEvolution-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa49e9e1529d433f14206918bd171aec0f353613"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5043404
+project-id = 737252
