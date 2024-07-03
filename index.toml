@@ -1029,6 +1029,26 @@ file = "config/cyclopscore.cfg"
 hash = "3d31781717fc5d9d4cd5ac7bf9f12a20b185dd7c22e492102a5e6137a165c317"
 
 [[files]]
+file = "config/deepmobevolution/DataModelTiers.json"
+hash = "770eacf8adeae580da27fb9ccb5d74e1e53e54d976ba431d2d90e3da6b302892"
+
+[[files]]
+file = "config/deepmobevolution/DataModels.json"
+hash = "e1d16f6df198496df10b8ab8451b7673ee638a0b7ae60d28576c2e0b714072fb"
+
+[[files]]
+file = "config/deepmobevolution/LivingMatter.json"
+hash = "0863c5d850c490befcde40779b8915e3b2ae37641ebfa2476eb4e0bf56961455"
+
+[[files]]
+file = "config/deepmobevolution/LivingMatterRecipes.json"
+hash = "09e4b12ff2bb683abee855c82a0a421f553b269e807a1d5b604c64bbe613f4b0"
+
+[[files]]
+file = "config/deepmobevolution/deepmobevolution.cfg"
+hash = "a7e85ec1fe82975f8e3eb83ad0c40c31a0e17c2ae140d7553f69d9b927f4943a"
+
+[[files]]
 file = "config/embers.cfg"
 hash = "39cae763e12a6b2b4cd3c1a66d11c0d608062979c13ca496088eb78cbfacf5b8"
 
