@@ -36,7 +36,8 @@ events.onPlayerAdvancement(function(event as crafttweaker.event.PlayerAdvancemen
         for item in currentItem {
             player.give(item);
         }
-        player.sendStatusMessage(itemMessage);
+        player.sendStatusMessage(itemMessage, false);
+        player.sendChat(itemMessage);
     }
 });
 

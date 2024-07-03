@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Infinite_Revolution_Logo_v4.png"
-hash = "3675a0dd25c3dcd3d9530a0b476daafc10bf70b346c76450b06ac34172b3c5a8"
-
-[[files]]
 file = "README.md"
-hash = "25eafc08a978882d5b1b1dc27019b42357b74c5491f02da4b60610dc9f551b57"
+hash = "e689c076e33333263372150828b4c38d6e8af7f56c75800fe7198824c23a0a15"
 
 [[files]]
 file = "ambience_music/ambience.properties"
@@ -2417,6 +2413,10 @@ file = "config/xreliquary.cfg"
 hash = "11a525abddcd58b9316a1655af0f1926e83d9f03023094bcde3286d12452ecbd"
 
 [[files]]
+file = "instance.png"
+hash = "3675a0dd25c3dcd3d9530a0b476daafc10bf70b346c76450b06ac34172b3c5a8"
+
+[[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
 hash = "01abe2ce75970f8fa0e1e5f11143034e221ccc7a17ea78b0711212aff287733d"
 
@@ -4032,7 +4032,7 @@ hash = "76acd72464b78f0802f9165ec78f2ee17da5c1c3b9a4b6df7879d1fb33711448"
 
 [[files]]
 file = "scripts/advancements/advancementDictionaries.zs"
-hash = "6b2b9aa270016a89b6783ed2356015eb590b6a0e3ca6cddda4838e34b3663b8b"
+hash = "b7aa66ac8d6aade216f2c05b8e74b58906e99b8682ab2b061c965214f4496bff"
 
 [[files]]
 file = "scripts/advancements/advancements.csv"
@@ -4040,7 +4040,7 @@ hash = "23467a565a6ef132c1edf39189a3270feb42c80f717fe8150570c4aae2a9e105"
 
 [[files]]
 file = "scripts/advancements/advancementsLoot.zs"
-hash = "ee2df266d5eedc26a6e8c9fe4ae71600eae5bf292cf5e12cadf2600b0965c7e3"
+hash = "9884cc49ff90d9190fb7334e9171cd005119b07bc94b524d1755e3dc7dee46ce"
 
 [[files]]
 file = "scripts/advancements/csvToCode.py"
