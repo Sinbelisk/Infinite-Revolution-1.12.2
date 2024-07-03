@@ -1165,6 +1165,10 @@ file = "config/loadmyresources/config.cfg"
 hash = "d7a9b2712d17945f21a3a938bdb49cc5448e3aa53b2c084670163fa8eb2f297c"
 
 [[files]]
+file = "config/loliasm.cfg"
+hash = "e43537ccc92455c33e3f8413b061669e1ffdfb9a347569485f0f97540ab4ada5"
+
+[[files]]
 file = "config/lootr.cfg"
 hash = "ddac031f8bb517cb78ccda0e4eb6b2a191fce28583990822e4e850bac89b072c"
 
