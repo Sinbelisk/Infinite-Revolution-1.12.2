@@ -1161,6 +1161,10 @@ file = "config/loadmyresources/config.cfg"
 hash = "d7a9b2712d17945f21a3a938bdb49cc5448e3aa53b2c084670163fa8eb2f297c"
 
 [[files]]
+file = "config/loliasm.cfg"
+hash = "e43537ccc92455c33e3f8413b061669e1ffdfb9a347569485f0f97540ab4ada5"
+
+[[files]]
 file = "config/lootr.cfg"
 hash = "ddac031f8bb517cb78ccda0e4eb6b2a191fce28583990822e4e850bac89b072c"
 
@@ -2702,6 +2706,11 @@ hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
 metafile = true
 
 [[files]]
+file = "mods/dme.pw.toml"
+hash = "e185e7c99877a9a042f8d4b38f1694b3502151c6edfb85057dc19bd6866b3880"
+metafile = true
+
+[[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "ea5eb18a73607ffd04a198f654209855fb831abdcac646fe2411d77b0dea2f9e"
 metafile = true
@@ -3979,7 +3988,7 @@ hash = "a3d1d5be05a612919fb8f1b53b09b0c8949ab0c5c859bd91c5e2a46cecdf988f"
 
 [[files]]
 file = "resources/titles/lang/en_us.lang"
-hash = "b00e9519e92a5253e826709aa9cbf3af07e65a9d47cfe4502d6d7e64824f11be"
+hash = "b3b346615307c9e07c5cdd2b395a0ea852bf8fea140bac48e240ed8c09def3d3"
 
 [[files]]
 file = "scripts/.zsrc"
@@ -3995,7 +4004,7 @@ hash = "a9c5ec65304583827f0524c7ec8ae107c18e0ea8dc054b94a41254d6f186f81f"
 
 [[files]]
 file = "scripts/Loot.zs"
-hash = "36c44ff6b8cb9ad23dd71b6652ccfb8b7adc87e7fec13094fdbe5c5cd99d5273"
+hash = "318dbd8a7d8bd1d9fb7d7358b2f639e0b6da55cba0b3ef98c9f050a64210baa9"
 
 [[files]]
 file = "scripts/SphereWorld.zs"
@@ -4018,10 +4027,6 @@ file = "scripts/advancements/csvToCode.py"
 hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
 
 [[files]]
-file = "scripts/advancements/output_code.txt"
-hash = "a2e5f64d56c516df0f6797062e5562acc61094307bcbb814d54bda022dec70fa"
-
-[[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
 hash = "10db1fc33ae92f3f42904890fae36d994eaccb01623a6192804cc57ef8ee26ee"
 
@@ -4032,6 +4037,10 @@ hash = "c38c274d8297b8c73ffc905720a346fe753dd94c1facc567d217f938e8de87ee"
 [[files]]
 file = "scripts/creativeCrafts.zs"
 hash = "0618bf2ed3b44ecbffe1468650b66cb9b98a385de41033f342d2e4e8b44376d3"
+
+[[files]]
+file = "scripts/dml.zs"
+hash = "c423de058ebbc1128d94fb474ff5516f45f35250bb4caa5ec454caa9bdcec0ad"
 
 [[files]]
 file = "scripts/draconicXAvaritia.zs"
