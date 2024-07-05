@@ -58,7 +58,7 @@
     "id": "dragon",
     "displayName": "Ender Dragon",
     "livingMatter": "extraterrestrial",
-    "simulationRFCost": 2560,
+    "simulationRFCost": 6666,
     "craftingIngredients": [
       "minecraft:dragon_egg"
     ],
@@ -364,7 +364,7 @@
     "id": "wither",
     "displayName": "Wither",
     "livingMatter": "extraterrestrial",
-    "simulationRFCost": 2048,
+    "simulationRFCost": 6666,
     "craftingIngredients": [
       "minecraft:nether_star"
     ],

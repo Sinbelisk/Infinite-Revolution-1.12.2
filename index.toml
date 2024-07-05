@@ -50,7 +50,7 @@ hash = "d80f93947603aabe6e5706de76e67cefd8420967f01bc65e9f33c7b2c7536585"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "ed5bc9c8b5da204415abd1abfb0191b4cf0de8e03c3f7b93195cd4e2eb31e00e"
+hash = "70167b16370794a5dedcd707f7846c8ab95de87f422e3855c204c78a2395ce38"
 
 [[files]]
 file = "config/DraconicEvolution.cfg"
@@ -1030,7 +1030,7 @@ hash = "770eacf8adeae580da27fb9ccb5d74e1e53e54d976ba431d2d90e3da6b302892"
 
 [[files]]
 file = "config/deepmobevolution/DataModels.json"
-hash = "446bef0b110ac807be20f699d4f290004f14d8fa9824d548928ef0e1d76b57a8"
+hash = "e1d16f6df198496df10b8ab8451b7673ee638a0b7ae60d28576c2e0b714072fb"
 
 [[files]]
 file = "config/deepmobevolution/LivingMatter.json"
@@ -2418,7 +2418,7 @@ hash = "3675a0dd25c3dcd3d9530a0b476daafc10bf70b346c76450b06ac34172b3c5a8"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "01abe2ce75970f8fa0e1e5f11143034e221ccc7a17ea78b0711212aff287733d"
+hash = "7e8a5b9f129751da7db51e69c2166048606252bfadd74fcb11f0f9817c5774ed"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -4045,10 +4045,6 @@ hash = "9884cc49ff90d9190fb7334e9171cd005119b07bc94b524d1755e3dc7dee46ce"
 [[files]]
 file = "scripts/advancements/csvToCode.py"
 hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
-
-[[files]]
-file = "scripts/advancements/output_code.txt"
-hash = "a2e5f64d56c516df0f6797062e5562acc61094307bcbb814d54bda022dec70fa"
 
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
