@@ -149,22 +149,7 @@
 			"action": {
 				"type": "quit"
 			}
-		},
-
-		"refresh":
-        {
-            "text" : "",
-            "posX" : 20,
-            "posY" : 0,
-            "width" : 20,
-            "height" : 20,
-			"alignment" : "column_bottom",
-            "texture" : "mainmenu:refresh.png",
-            "action" :
-            {
-                "type" : "refresh"
-            }
-        }
+		}
     },
     
     "labels":
@@ -280,6 +265,11 @@
 				"displayDuration": 2,
 				"fadeDuration": 0
 			}
-		}
+		},
+
+		"music": {
+      		"location": "minecraft:opp_ost",
+      		"volume": 0.5
+    	}
     }
 }
