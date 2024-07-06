@@ -1126,7 +1126,7 @@ hash = "4ce6d3a808c48d822bd1dfcca2c87c12276d00ecff23ab4d084ef6b605c877ba"
 
 [[files]]
 file = "config/infinite_revolution.cfg"
-hash = "cb6821e77b482cf1ccb3d39b145079dc565764b6395c73c12ad5e19681718ad7"
+hash = "70f3a61cb9d6e22f2dded96b630e287dade367895b3787a63c0ecd0336d2a6b6"
 
 [[files]]
 file = "config/ironchest.cfg"
@@ -2418,7 +2418,7 @@ hash = "3675a0dd25c3dcd3d9530a0b476daafc10bf70b346c76450b06ac34172b3c5a8"
 
 [[files]]
 file = "mods/Infinite_Revolution_1.12.2_1.2_MODPACK.jar"
-hash = "7e8a5b9f129751da7db51e69c2166048606252bfadd74fcb11f0f9817c5774ed"
+hash = "517ece742e67dbed5e8368f987b321c43f9a914ba3244abced2bf8d95c304545"
 
 [[files]]
 file = "mods/abyssalcraft-integration.pw.toml"
@@ -4035,16 +4035,8 @@ file = "scripts/advancements/advancementDictionaries.zs"
 hash = "b7aa66ac8d6aade216f2c05b8e74b58906e99b8682ab2b061c965214f4496bff"
 
 [[files]]
-file = "scripts/advancements/advancements.csv"
-hash = "23467a565a6ef132c1edf39189a3270feb42c80f717fe8150570c4aae2a9e105"
-
-[[files]]
 file = "scripts/advancements/advancementsLoot.zs"
-hash = "9884cc49ff90d9190fb7334e9171cd005119b07bc94b524d1755e3dc7dee46ce"
-
-[[files]]
-file = "scripts/advancements/csvToCode.py"
-hash = "9a69ad882ee4075970401d6f88a8c85ee6a3d0244aab8b80fdbd77038e128423"
+hash = "de8826def9aa8747b3653ff6bbf425249e52fa19b4ab5d3cc8cc25a3b299216b"
 
 [[files]]
 file = "scripts/appliedenergistics/AEBalance.zs"
@@ -4077,14 +4069,6 @@ hash = "21ffbb02a992bc498f4a506c5ed1cd03441472edb553a2f6613492e4b1729a7a"
 [[files]]
 file = "scripts/guiasSpawn.zs"
 hash = "a9cf75fb9ba799a70d28560bc4b4e389a41251b9c1b18482f849202bdaa80a00"
-
-[[files]]
-file = "scripts/lootboxesLootTables/boxesandkeys.csv"
-hash = "8920fc92d6d2239a31c71cab147e9f1195e628ec8dc67ae1b7bcc4034a070f2b"
-
-[[files]]
-file = "scripts/lootboxesLootTables/csvToCodeLootTables.py"
-hash = "d3053dc85c87db1ddfc4d085ed0df73af31f30f762b2f621dfaa7afbc873a190"
 
 [[files]]
 file = "scripts/lootboxesLootTables/lootboxesAndKeys.zs"
